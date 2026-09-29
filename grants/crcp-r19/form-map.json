@@ -1,0 +1,2286 @@
+{
+  "packageId": "crcp-r19",
+  "version": "1.0.0",
+  "document": {
+    "path": "documents/application-form.docx",
+    "sha256": "ddf520858232bb5e990d5e9c255b7a86c946bdc457217714b4f1cf3ef9f8aa4f",
+    "blocks": 500
+  },
+  "anchorRule": "anchor is the block the answer box goes after; questionAnchor is the question's first block. Find either with SuperDoc blocks.findText({ text }) and take matches[ordinal] (findText is a case-insensitive substring match over top-level blocks, in document order). The block's text, trimmed, equals the anchor text. position.block is SuperDoc's top-level block ordinal and position.paragraph the w:p ordinal in word/document.xml, as fallbacks.",
+  "charCounting": "Characters including spaces, as the portal counts them.",
+  "conditionRule": "A field with a condition is asked only when the condition field has that answer. When the condition field is data, a Run fills it first and drafts the field if the answer matches. When it is confirm (blank until the advisor answers), the field waits: it is listed under Issues with its condition and is drafted with Draft once the advisor has answered.",
+  "sharedBoxGroups": [
+    {
+      "id": "AF-F.4",
+      "charLimit": 1000,
+      "fields": [
+        "AF-F.4b",
+        "AF-F.4c"
+      ],
+      "note": "One portal box per partner: \"Your partner involvement response is limited to 1000 characters including spaces\""
+    },
+    {
+      "id": "AF-I.1",
+      "charLimit": 5000,
+      "fields": [
+        "AF-I.1"
+      ],
+      "note": "All MC-1 rows share this one box"
+    },
+    {
+      "id": "AF-I.2",
+      "charLimit": 5000,
+      "fields": [
+        "AF-I.2"
+      ],
+      "note": "All MC-2 rows share this one box"
+    },
+    {
+      "id": "AF-I.3",
+      "charLimit": 5000,
+      "fields": [
+        "AF-I.3"
+      ],
+      "note": "All MC-3 rows share this one box"
+    },
+    {
+      "id": "AF-I.4",
+      "charLimit": 5000,
+      "fields": [
+        "AF-I.4"
+      ],
+      "note": "All MC-4 rows share this one box"
+    }
+  ],
+  "fields": [
+    {
+      "id": "AF-A.1",
+      "label": "Program selection",
+      "question": "You must select from a drop-down menu the program that you are applying for. If you have been provided with an Invitation code, you will be able to enter it here which will select the program for you.\nField 1 select - Cooperative Research Centres Projects Round 19",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Field 1 select - Cooperative Research Centres Projects Round 19",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "You must select from a drop-down menu the program that you are applying for. If you have been provided with an Invitation code, you will be able to enter it here which will select the program for you.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 49,
+        "paragraph": 49
+      },
+      "bookmark": "GW_AF_A_1",
+      "fixedValue": "Cooperative Research Centres Projects Round 19"
+    },
+    {
+      "id": "AF-B.1",
+      "label": "SME at lodgement",
+      "question": "Are you a SME at lodgement of this application?\nSMEs are businesses with less than 200 employees by headcount. If you are part of a consolidated group for tax purposes, the consolidated group must have less than 200 employees in total.\nYou must answer yes to proceed to next question.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "You must answer yes to proceed to next question.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-03.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Are you a SME at lodgement of this application?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 73,
+        "paragraph": 73
+      },
+      "bookmark": "GW_AF_B_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-B.2",
+      "label": "Registered for GST",
+      "question": "Are you registered for the Goods and Services Tax (GST)?\nYou must answer yes to proceed to next question",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "You must answer yes to proceed to next question",
+        "ordinal": 1
+      },
+      "rows": [
+        "EL-02.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Are you registered for the Goods and Services Tax (GST)?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 75,
+        "paragraph": 75
+      },
+      "bookmark": "GW_AF_B_2",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-B.3",
+      "label": "Entity type",
+      "question": "Are you one of the following:\nan entity incorporated in Australia and a trading corporation, where your trading activities:\nform a sufficiently significant proportion of the corporation’s overall activities as to merit it being described as a trading corporation; or\nare a substantial, and not merely peripheral activity of the corporation?\nan incorporated trustee on behalf of a trust, where the trust’s trading activities:\nform a sufficiently significant proportion of the trust’s overall activities as to merit it being described as a trading corporation; or\nare a substantial and not merely peripheral activity of the corporation?\nYou must answer yes to proceed to next question.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "You must answer yes to proceed to next question.",
+        "ordinal": 1
+      },
+      "rows": [
+        "EL-04.1",
+        "EL-04.2",
+        "EL-12.1",
+        "EL-12.2",
+        "EL-12.3",
+        "EL-12.4",
+        "EL-12.5",
+        "EL-12.6",
+        "EL-12.7",
+        "EL-12.8",
+        "EL-12.9",
+        "EL-12.10",
+        "EL-12.11"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Are you one of the following:",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 83,
+        "paragraph": 83
+      },
+      "bookmark": "GW_AF_B_3",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-B.4",
+      "label": "Minimum project partners",
+      "question": "Will your CRC Project include amongst its project partners at least:\na lead applicant which is an Australian industry entity SME\na second Australian industry entity of any size\nan Australian research organisation?\nYou must answer yes to proceed to next question.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "You must answer yes to proceed to next question.",
+        "ordinal": 2
+      },
+      "rows": [
+        "EL-05.1",
+        "EL-05.2",
+        "EL-05.3"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Will your CRC Project include amongst its project partners at least:",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 88,
+        "paragraph": 88
+      },
+      "bookmark": "GW_AF_B_4",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-B.5",
+      "label": "Grant up to 50% of eligible expenditure",
+      "question": "Is the grant amount requested up to 50 percent of total eligible project expenditure?\nThe remaining eligible project costs not covered by the grant amount must be covered by you and your partner’s contributions.\nYou must answer yes to proceed to next question.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "You must answer yes to proceed to next question.",
+        "ordinal": 3
+      },
+      "rows": [
+        "EL-07.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Is the grant amount requested up to 50 percent of total eligible project expenditure?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 91,
+        "paragraph": 91
+      },
+      "bookmark": "GW_AF_B_5",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-B.6",
+      "label": "At least $200,000 eligible project value",
+      "question": "Does your project have at least $200,000 in total eligible project value?\nYou must answer yes to proceed to next section.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "You must answer yes to proceed to next section.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-09.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Does your project have at least $200,000 in total eligible project value?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 93,
+        "paragraph": 93
+      },
+      "bookmark": "GW_AF_B_6",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-C.1",
+      "label": "Applicant street address",
+      "question": "Applicant street address\nYou must provide your street address.\nWhen you start typing the address in the field you can select the correct one from the drop down list that appears. If it is not there you can enter manually.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "When you start typing the address in the field you can select the correct one from the drop down list that appears. If it is not there you can enter manually.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Applicant street address",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 98,
+        "paragraph": 98
+      },
+      "bookmark": "GW_AF_C_1",
+      "input": "address"
+    },
+    {
+      "id": "AF-C.2",
+      "label": "Applicant postal address",
+      "question": "Applicant postal address\nYou must provide your postal address.\nWhen you start typing the address in the field you can select the correct one from the drop down list that appears. If it is not there you can enter manually.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "When you start typing the address in the field you can select the correct one from the drop down list that appears. If it is not there you can enter manually.",
+        "ordinal": 1
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Applicant postal address",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 101,
+        "paragraph": 101
+      },
+      "bookmark": "GW_AF_C_2",
+      "input": "address"
+    },
+    {
+      "id": "AF-D.1",
+      "label": "Primary contact",
+      "question": "Primary contact\nTitle (optional)\nGiven name\nFamily name\nPhone number\nEmail address\nRelationship to applicant",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Relationship to applicant",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Primary contact",
+        "ordinal": 3
+      },
+      "position": {
+        "block": 114,
+        "paragraph": 114
+      },
+      "bookmark": "GW_AF_D_1",
+      "parts": [
+        {
+          "label": "Title (optional)"
+        },
+        {
+          "label": "Given name"
+        },
+        {
+          "label": "Family name"
+        },
+        {
+          "label": "Phone number"
+        },
+        {
+          "label": "Email address"
+        },
+        {
+          "label": "Relationship to applicant"
+        }
+      ]
+    },
+    {
+      "id": "AF-D.2",
+      "label": "Authorised signatory",
+      "question": "Authorised signatory\nTitle (optional)\nGiven name\nFamily name\nPhone number\nEmail address",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Email address",
+        "ordinal": 1
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Authorised signatory",
+        "ordinal": 1
+      },
+      "position": {
+        "block": 121,
+        "paragraph": 121
+      },
+      "bookmark": "GW_AF_D_2",
+      "parts": [
+        {
+          "label": "Title (optional)"
+        },
+        {
+          "label": "Given name"
+        },
+        {
+          "label": "Family name"
+        },
+        {
+          "label": "Phone number"
+        },
+        {
+          "label": "Email address"
+        }
+      ]
+    },
+    {
+      "id": "AF-E.1",
+      "label": "Latest financial year figures",
+      "question": "Has your organisation existed for a complete financial year?\nIf yes, what was the latest financial year completed?\nIf no, enter the number of months completed in the financial year to date.\nProvide the following figures for the financial year you have entered above.\nSales revenue (turnover)\nTotal revenue from the sale of goods and services, as reported in your organisation’s Business Activity Statement (BAS).\nExport revenue\nTotal revenue from export sales, as reported in your organisation’s Business Activity Statement (BAS).\nR&D expenditure\nExpenditure on research and development, i.e. creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of humankind, culture and society, and the use of this stock of knowledge to devise new applications.\nTaxable income\nTaxable income or loss as per your organisation’s income tax return form.\nNumber of employees including working proprietors and salaried directors (headcount)\nNumber of individuals who are entitled to paid leave (sick and holiday), or generate income from managing your organisation. This should include working proprietors and salaried directors.\nNumber of independent contractors (headcount)\nNumber of individuals engaged by your organisation under a commercial contract (rather than an employment contract) to provide employee-like services on site.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Number of individuals engaged by your organisation under a commercial contract (rather than an employment contract) to provide employee-like services on site.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-03.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Has your organisation existed for a complete financial year?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 145,
+        "paragraph": 145
+      },
+      "bookmark": "GW_AF_E_1",
+      "input": "whole-numbers",
+      "parts": [
+        {
+          "label": "Existed for a complete financial year"
+        },
+        {
+          "label": "Latest financial year completed"
+        },
+        {
+          "label": "Months completed in the financial year to date"
+        },
+        {
+          "label": "Sales revenue (turnover)"
+        },
+        {
+          "label": "Export revenue"
+        },
+        {
+          "label": "R&D expenditure"
+        },
+        {
+          "label": "Taxable income"
+        },
+        {
+          "label": "Number of employees including working proprietors and salaried directors (headcount)"
+        },
+        {
+          "label": "Number of independent contractors (headcount)"
+        }
+      ]
+    },
+    {
+      "id": "AF-E.2",
+      "label": "ANZSIC code",
+      "question": "Provide the Australian and New Zealand Standard Industrial Classification (ANZSIC) details for your organisation from a drop-down menu:\nyour organisation’s main revenue earning ANZSIC division.\nyour organisation’s main revenue earning ANZSIC class.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "your organisation’s main revenue earning ANZSIC class.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide the Australian and New Zealand Standard Industrial Classification (ANZSIC) details for your organisation from a drop-down menu:",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 149,
+        "paragraph": 149
+      },
+      "bookmark": "GW_AF_E_2",
+      "input": "dropdown",
+      "parts": [
+        {
+          "label": "ANZSIC division"
+        },
+        {
+          "label": "ANZSIC class"
+        }
+      ]
+    },
+    {
+      "id": "AF-E.3.1",
+      "label": "Indigenous owned",
+      "question": "Is your organisation Indigenous owned?\nAn organisation is considered Indigenous owned where at least 51% of the organisation’s members or proprietors are Indigenous.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "An organisation is considered Indigenous owned where at least 51% of the organisation’s members or proprietors are Indigenous.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Is your organisation Indigenous owned?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 152,
+        "paragraph": 152
+      },
+      "bookmark": "GW_AF_E_3_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-E.3.2",
+      "label": "Indigenous controlled",
+      "question": "Is your organisation Indigenous controlled?\nAn organisation is considered Indigenous controlled where at least 51% of the organisation’s board or management committee is Indigenous.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "An organisation is considered Indigenous controlled where at least 51% of the organisation’s board or management committee is Indigenous.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Is your organisation Indigenous controlled?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 154,
+        "paragraph": 154
+      },
+      "bookmark": "GW_AF_E_3_2",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-F.1",
+      "label": "Partner ABN and entity name",
+      "question": "Legal or Registered Entity Name\nEntity name refers to the name that appears on all official documents or legal papers. The entity name may be different from the business name.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Entity name refers to the name that appears on all official documents or legal papers. The entity name may be different from the business name.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-01.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Legal or Registered Entity Name",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 168,
+        "paragraph": 168
+      },
+      "bookmark": "GW_AF_F_1",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      },
+      "parts": [
+        {
+          "label": "ABN"
+        },
+        {
+          "label": "Legal or registered entity name"
+        }
+      ]
+    },
+    {
+      "id": "AF-F.2",
+      "label": "Partner contributions",
+      "question": "Project partner contributions\nThe project partners are required to contribute cash, cash-staff and/or in-kind resources which, combined, at least equal the grant funding sought. See Appendix D in the grant opportunity guidelines for details of in-kind contributions.\nNot all the project partners’ share of funding needs to be available at the time of application.\nAs all partners must contribute resources to the CRC-P, you should not select 'No'. If you have $0 contributions for a particular field, you still need to enter a 0, otherwise you get an error message alerting that no value has been entered.",
+      "kind": "budget",
+      "charLimit": null,
+      "anchor": {
+        "text": "As all partners must contribute resources to the CRC-P, you should not select 'No'. If you have $0 contributions for a particular field, you still need to enter a 0, otherwise you get an error message alerting that no value has been entered.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-06.1",
+        "EL-07.2"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Project partner contributions",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 172,
+        "paragraph": 172
+      },
+      "bookmark": "GW_AF_F_2",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      }
+    },
+    {
+      "id": "AF-F.3",
+      "label": "Financial workbook",
+      "question": "CRC Project Application Financial workbook\nThe department has developed an Excel template designed specifically for a CRC-P to develop/calculate the project finances prior to inputting data to the online application. You are strongly advised to use this workbook to ensure your budget is eligible.\nThe workbook (CRC Project Application Financial Workbook – funds, contributions and budget) includes grant request, project partner contributions, and expenditure on a financial year by year basis. It automatically calculates totals and incorporates a range of checks to ensure the finances are internally consistent and that amounts received for the project balance with expenditure. The workbook values can then be copied to the Project Partner and Project Funding Information pages of the application.\nThe template can be downloaded from the key documents listing at business.gov.au.",
+      "kind": "budget",
+      "charLimit": null,
+      "anchor": {
+        "text": "The template can be downloaded from the key documents listing at business.gov.au.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "CRC Project Application Financial workbook",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 176,
+        "paragraph": 176
+      },
+      "bookmark": "GW_AF_F_3"
+    },
+    {
+      "id": "AF-F.4a",
+      "label": "Partner details",
+      "question": "Partner Details\nYou must provide:\nOrganisation name\nABN details\nAuthorised representative name\nPosition\nBusiness address\nPostal address\nPhone\nEmail\nPartner type (large industry, SME, research organisation or other)",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Partner type (large industry, SME, research organisation or other)",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-05b.1",
+        "EL-05.1",
+        "EL-05.2",
+        "EL-05.3",
+        "EL-05.4",
+        "EL-05a.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Partner Details",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 192,
+        "paragraph": 259
+      },
+      "bookmark": "GW_AF_F_4a",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      },
+      "parts": [
+        {
+          "label": "Organisation name"
+        },
+        {
+          "label": "ABN details"
+        },
+        {
+          "label": "Authorised representative name"
+        },
+        {
+          "label": "Position"
+        },
+        {
+          "label": "Business address"
+        },
+        {
+          "label": "Postal address"
+        },
+        {
+          "label": "Phone"
+        },
+        {
+          "label": "Email"
+        },
+        {
+          "label": "Partner type (large industry, SME, research organisation or other)"
+        }
+      ]
+    },
+    {
+      "id": "AF-F.4b",
+      "label": "Partner involvement",
+      "question": "Partner’s involvement in the CRC-P.\ndescribe the partner's role and involvement in the CRC-P, and how the partner will provide their contributions.",
+      "kind": "narrative",
+      "charLimit": null,
+      "anchor": {
+        "text": "describe the partner's role and involvement in the CRC-P, and how the partner will provide their contributions.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-00.1",
+        "EL-11.3"
+      ],
+      "sharedBoxGroup": "AF-F.4",
+      "questionAnchor": {
+        "text": "Partner’s involvement in the CRC-P.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 194,
+        "paragraph": 261
+      },
+      "bookmark": "GW_AF_F_4b",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      }
+    },
+    {
+      "id": "AF-F.4c",
+      "label": "Partner structure and relationships",
+      "question": "describe the project partner’s company structure and relationships with the other project partners (This may include related entities, entities with the same ultimate holding company, entities with common directorship, entities with common major shareholders.).\nYour partner involvement response is limited to 1000 characters including spaces and does not support formatting.",
+      "kind": "narrative",
+      "charLimit": null,
+      "anchor": {
+        "text": "Your partner involvement response is limited to 1000 characters including spaces and does not support formatting.",
+        "ordinal": 0
+      },
+      "rows": [
+        "FQ-F.4c.1"
+      ],
+      "sharedBoxGroup": "AF-F.4",
+      "questionAnchor": {
+        "text": "describe the project partner’s company structure and relationships with the other project partners (This may include related entities, entities with the same ultimate holding company, entities with common directorship, entities with common major shareholders.).",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 196,
+        "paragraph": 263
+      },
+      "bookmark": "GW_AF_F_4c",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      }
+    },
+    {
+      "id": "AF-F.4d.1",
+      "label": "Partner Indigenous owned",
+      "question": "Is the project partner Indigenous owned?\nAn organisation is considered Indigenous owned where at least 51% of the organisation’s members or proprietors are Indigenous.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "An organisation is considered Indigenous owned where at least 51% of the organisation’s members or proprietors are Indigenous.",
+        "ordinal": 1
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Is the project partner Indigenous owned?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 198,
+        "paragraph": 265
+      },
+      "bookmark": "GW_AF_F_4d_1",
+      "input": "yes-no",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      }
+    },
+    {
+      "id": "AF-F.4d.2",
+      "label": "Partner Indigenous controlled",
+      "question": "Is the project partner Indigenous controlled? An organisation is considered Indigenous controlled where at least 51% of the organisations’ board or management committee is Indigenous.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Is the project partner Indigenous controlled? An organisation is considered Indigenous controlled where at least 51% of the organisations’ board or management committee is Indigenous.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Is the project partner Indigenous controlled? An organisation is considered Indigenous controlled where at least 51% of the organisations’ board or management committee is Indigenous.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 199,
+        "paragraph": 266
+      },
+      "bookmark": "GW_AF_F_4d_2",
+      "input": "yes-no",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      }
+    },
+    {
+      "id": "AF-F.4e",
+      "label": "Partner confirmations",
+      "question": "In regards to this project partner:\nThe partner has been made aware of its obligations under the CRC Projects Grant Opportunity Guidelines.\nSubject to this application being successful, the partner will support and actively participate in the proposed project by entering into a partner agreement.\nSubject to this application being successful, the partner will contribute the staff, funds and other resources indicated in the application and the partner has obtained, or will obtain, the necessary authorisations to do so.\nThe partner is aware of the eligible expenditure guidance outlined in the CRC Projects Grant Opportunity Guidelines, especially in relation to expenditure associated with clinical trials.\nBy checking this box I can confirm the authorised representative of this partner is aware of and agrees to the above statements.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "By checking this box I can confirm the authorised representative of this partner is aware of and agrees to the above statements.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-18.1",
+        "EL-18.2",
+        "EL-18.3",
+        "EL-18.4"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "In regards to this project partner:",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 205,
+        "paragraph": 272
+      },
+      "bookmark": "GW_AF_F_4e",
+      "input": "checkbox",
+      "repeat": {
+        "per": "partner",
+        "min": 3,
+        "max": null
+      }
+    },
+    {
+      "id": "AF-G.1a",
+      "label": "Project title",
+      "question": "Provide a project title.\nYour response is limited to 75 characters including spaces and does not support formatting.",
+      "kind": "narrative",
+      "charLimit": 75,
+      "anchor": {
+        "text": "Your response is limited to 75 characters including spaces and does not support formatting.",
+        "ordinal": 0
+      },
+      "rows": [
+        "FQ-G.1a.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide a project title.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 215,
+        "paragraph": 282
+      },
+      "bookmark": "GW_AF_G_1a"
+    },
+    {
+      "id": "AF-G.1b",
+      "label": "Brief project description",
+      "question": "Provide a brief project description for publication.\nYour response is limited to 750 characters including spaces and does not support formatting.\nEnsure your project description focuses on your project’s key activities and outcomes. Outline what it is you are going to do and how these activities will benefit your organisation.",
+      "kind": "narrative",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Ensure your project description focuses on your project’s key activities and outcomes. Outline what it is you are going to do and how these activities will benefit your organisation.",
+        "ordinal": 0
+      },
+      "rows": [
+        "FQ-G.1b.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide a brief project description for publication.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 218,
+        "paragraph": 285
+      },
+      "bookmark": "GW_AF_G_1b"
+    },
+    {
+      "id": "AF-G.2",
+      "label": "Detailed project description and key activities",
+      "question": "Provide a detailed description of your project and key activities.\nYour response is limited to 5000 characters including spaces and does not support formatting.\nDescribe in detail what your project involves, including the project scope, what activities are involved and how are you going to implement them?",
+      "kind": "narrative",
+      "charLimit": 5000,
+      "anchor": {
+        "text": "Describe in detail what your project involves, including the project scope, what activities are involved and how are you going to implement them?",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-00.1",
+        "EL-11.1",
+        "EL-11.2",
+        "EL-11.3",
+        "EL-11.4",
+        "EL-11.7"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide a detailed description of your project and key activities.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 223,
+        "paragraph": 290
+      },
+      "bookmark": "GW_AF_G_2"
+    },
+    {
+      "id": "AF-G.3",
+      "label": "Project outcomes",
+      "question": "Provide a summary of the expected project outcomes.\nYour response is limited to 5000 characters including spaces and does not support formatting.\nWhat result do you anticipate in undertaking this project? Explain how this will help your organisation, referencing the objectives of the grant opportunity.",
+      "kind": "narrative",
+      "charLimit": 5000,
+      "anchor": {
+        "text": "What result do you anticipate in undertaking this project? Explain how this will help your organisation, referencing the objectives of the grant opportunity.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-11.4",
+        "EL-11.5",
+        "EL-11.6"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide a summary of the expected project outcomes.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 228,
+        "paragraph": 295
+      },
+      "bookmark": "GW_AF_G_3"
+    },
+    {
+      "id": "AF-G.4",
+      "label": "Key personnel",
+      "question": "Provide details of up to 3 key personnel working on the project. For example, include the staff leading the project and key researchers involved. This reflects the individual’s position in the project, for example project manager, project coordinator, research leader, researcher.\nTitle\nName\nOrganisation\nPosition\nProject role\nYour response to the project role is limited to 75 characters including spaces and does not support formatting.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Your response to the project role is limited to 75 characters including spaces and does not support formatting.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide details of up to 3 key personnel working on the project. For example, include the staff leading the project and key researchers involved. This reflects the individual’s position in the project, for example project manager, project coordinator, research leader, researcher.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 236,
+        "paragraph": 303
+      },
+      "bookmark": "GW_AF_G_4",
+      "repeat": {
+        "per": "person",
+        "min": 1,
+        "max": 3
+      },
+      "parts": [
+        {
+          "label": "Title"
+        },
+        {
+          "label": "Name"
+        },
+        {
+          "label": "Organisation"
+        },
+        {
+          "label": "Position"
+        },
+        {
+          "label": "Project role",
+          "charLimit": 75
+        }
+      ]
+    },
+    {
+      "id": "AF-G.5",
+      "label": "Industry context",
+      "question": "What is the national and international state of play in the research area that is contributing to solve the identified industry problem or opportunity?\nYour response is limited to 2000 characters including spaces and does not support formatting.\nProvide a description of the research landscape relating to the identified industry problem and how this relates to or complements your proposed project.",
+      "kind": "narrative",
+      "charLimit": 2000,
+      "anchor": {
+        "text": "Provide a description of the research landscape relating to the identified industry problem and how this relates to or complements your proposed project.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-11.2"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "What is the national and international state of play in the research area that is contributing to solve the identified industry problem or opportunity?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 240,
+        "paragraph": 307
+      },
+      "bookmark": "GW_AF_G_5"
+    },
+    {
+      "id": "AF-G.6.1",
+      "label": "Starting TRL",
+      "question": "What is the estimated TRL for your project at the commencement date?\nEnter number",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Enter number",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "What is the estimated TRL for your project at the commencement date?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 245,
+        "paragraph": 312
+      },
+      "bookmark": "GW_AF_G_6_1",
+      "input": "number"
+    },
+    {
+      "id": "AF-G.6.2",
+      "label": "Target TRL",
+      "question": "What is the expected TRL for your project at the completion date?\nEnter number",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Enter number",
+        "ordinal": 1
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "What is the expected TRL for your project at the completion date?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 247,
+        "paragraph": 314
+      },
+      "bookmark": "GW_AF_G_6_2",
+      "input": "number"
+    },
+    {
+      "id": "AF-G.7.1",
+      "label": "Working with Indigenous communities",
+      "question": "Does your project involve working with Indigenous communities?\nYes or No.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Yes or No.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Does your project involve working with Indigenous communities?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 250,
+        "paragraph": 317
+      },
+      "bookmark": "GW_AF_G_7_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-G.7.2",
+      "label": "How the project works with Indigenous communities",
+      "question": "If yes describe how this will be carried out (for example, research, consultation, use of Traditional and Cultural Knowledge)\nYour response is limited to 2000 characters including spaces and does not support formatting",
+      "kind": "narrative",
+      "charLimit": 2000,
+      "anchor": {
+        "text": "Your response is limited to 2000 characters including spaces and does not support formatting",
+        "ordinal": 1
+      },
+      "rows": [
+        "FQ-G.7.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes describe how this will be carried out (for example, research, consultation, use of Traditional and Cultural Knowledge)",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 252,
+        "paragraph": 319
+      },
+      "bookmark": "GW_AF_G_7_2",
+      "condition": {
+        "field": "AF-G.7.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-G.8",
+      "label": "Project duration",
+      "question": "Project duration\nYour project must be completed in line with the dates provided in the grant opportunity guidelines.\nYour project can be no longer than 36 months.\nEstimated project start date\nEstimated project end date\nEstimated project duration (in months)",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Estimated project duration (in months)",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-11.1",
+        "EL-10.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Project duration",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 258,
+        "paragraph": 325
+      },
+      "bookmark": "GW_AF_G_8",
+      "parts": [
+        {
+          "label": "Estimated project start date"
+        },
+        {
+          "label": "Estimated project end date"
+        },
+        {
+          "label": "Estimated project duration (in months)"
+        }
+      ]
+    },
+    {
+      "id": "AF-G.9",
+      "label": "Project milestones",
+      "question": "Provide measurable milestones you will reach while undertaking your project. You must add between 3 and 10 milestones.\nThe milestone start and end dates must be within the project start and end dates.\nMilestone title\nYour response is limited to 100 characters including spaces and does not support formatting.\nMilestone description\nYour response is limited to 750 characters including spaces and does not support formatting.\nExplain what you plan to achieve at this point in your project. Include details of key activities occurring by this stage.\nIf your project is successful, we will assess your progress according to agreed measurable milestones.\nEstimated start date\nEstimated end date",
+      "kind": "narrative",
+      "charLimit": null,
+      "anchor": {
+        "text": "Estimated end date",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-11.7"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide measurable milestones you will reach while undertaking your project. You must add between 3 and 10 milestones.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 269,
+        "paragraph": 336
+      },
+      "bookmark": "GW_AF_G_9",
+      "repeat": {
+        "per": "milestone",
+        "min": 3,
+        "max": 10
+      },
+      "parts": [
+        {
+          "label": "Milestone title",
+          "charLimit": 100
+        },
+        {
+          "label": "Milestone description",
+          "charLimit": 750
+        },
+        {
+          "label": "Estimated start date",
+          "kind": "data"
+        },
+        {
+          "label": "Estimated end date",
+          "kind": "data"
+        }
+      ]
+    },
+    {
+      "id": "AF-G.10",
+      "label": "Project location",
+      "question": "You must provide the address where your project will be undertaken and the estimated percentage of project value expected to be undertaken at that site. If you have multiple sites you must add the address of each site.\nA project location must be a street address. Do not provide a postal address, institution or building name.\nProject site address\nEstimated percentage of project value expected to be undertaken at site",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Estimated percentage of project value expected to be undertaken at site",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "You must provide the address where your project will be undertaken and the estimated percentage of project value expected to be undertaken at that site. If you have multiple sites you must add the address of each site.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 274,
+        "paragraph": 341
+      },
+      "bookmark": "GW_AF_G_10",
+      "repeat": {
+        "per": "site",
+        "min": 1,
+        "max": null
+      },
+      "parts": [
+        {
+          "label": "Project site address"
+        },
+        {
+          "label": "Estimated percentage of project value expected to be undertaken at site"
+        }
+      ]
+    },
+    {
+      "id": "AF-G.11.1",
+      "label": "Pecuniary penalties",
+      "question": "Have any of your board members, management or persons of authority been subject to any pecuniary penalty?\nA pecuniary penalty is a monetary penalty that can be civil, criminal or administrative, imposed by a Commonwealth, state, or territory court or entity.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "A pecuniary penalty is a monetary penalty that can be civil, criminal or administrative, imposed by a Commonwealth, state, or territory court or entity.",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-01.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Have any of your board members, management or persons of authority been subject to any pecuniary penalty?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 277,
+        "paragraph": 344
+      },
+      "bookmark": "GW_AF_G_11_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-G.11.2",
+      "label": "Pecuniary penalty details",
+      "question": "If yes, provide details of the penalty.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 2
+      },
+      "rows": [
+        "DD-01.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, provide details of the penalty.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 279,
+        "paragraph": 346
+      },
+      "bookmark": "GW_AF_G_11_2",
+      "condition": {
+        "field": "AF-G.11.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-G.12a.1",
+      "label": "Foreign support to the project",
+      "question": "Does your project receive any funding or non-financial support from a foreign source?",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Does your project receive any funding or non-financial support from a foreign source?",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-02.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Does your project receive any funding or non-financial support from a foreign source?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 281,
+        "paragraph": 348
+      },
+      "bookmark": "GW_AF_G_12a_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-G.12a.2",
+      "label": "Foreign support details",
+      "question": "If yes, provide details of the foreign financial support.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 3
+      },
+      "rows": [
+        "DD-02.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, provide details of the foreign financial support.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 283,
+        "paragraph": 350
+      },
+      "bookmark": "GW_AF_G_12a_2",
+      "condition": {
+        "field": "AF-G.12a.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-G.12b.1",
+      "label": "Foreign support to entities or personnel",
+      "question": "Do any entities or key personnel involved with the project receive financial support or benefits from a foreign source?",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Do any entities or key personnel involved with the project receive financial support or benefits from a foreign source?",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-03.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Do any entities or key personnel involved with the project receive financial support or benefits from a foreign source?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 284,
+        "paragraph": 351
+      },
+      "bookmark": "GW_AF_G_12b_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-G.12b.2",
+      "label": "Foreign support arrangement details",
+      "question": "If yes, provide details of the arrangement.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 4
+      },
+      "rows": [
+        "DD-03.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, provide details of the arrangement.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 286,
+        "paragraph": 353
+      },
+      "bookmark": "GW_AF_G_12b_2",
+      "condition": {
+        "field": "AF-G.12b.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-G.12c.1",
+      "label": "Foreign talent program",
+      "question": "Do any entities or key personnel involved with the project have any current or former association with a foreign talent program?",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Do any entities or key personnel involved with the project have any current or former association with a foreign talent program?",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-04.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Do any entities or key personnel involved with the project have any current or former association with a foreign talent program?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 287,
+        "paragraph": 354
+      },
+      "bookmark": "GW_AF_G_12c_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-G.12c.2",
+      "label": "Foreign talent program details",
+      "question": "If yes, provide details of the foreign talent program.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 5
+      },
+      "rows": [
+        "DD-04.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, provide details of the foreign talent program.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 289,
+        "paragraph": 356
+      },
+      "bookmark": "GW_AF_G_12c_2",
+      "condition": {
+        "field": "AF-G.12c.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-G.12d.1",
+      "label": "Foreign government, military or SOE ties",
+      "question": "Do any entities or key personnel involved with the project have any ties to a foreign government, military or state-owned enterprise?",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Do any entities or key personnel involved with the project have any ties to a foreign government, military or state-owned enterprise?",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-05.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Do any entities or key personnel involved with the project have any ties to a foreign government, military or state-owned enterprise?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 290,
+        "paragraph": 357
+      },
+      "bookmark": "GW_AF_G_12d_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-G.12d.2",
+      "label": "Foreign ties details",
+      "question": "If yes, provide details of the affiliations or associations.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 6
+      },
+      "rows": [
+        "DD-05.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, provide details of the affiliations or associations.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 292,
+        "paragraph": 359
+      },
+      "bookmark": "GW_AF_G_12d_2",
+      "condition": {
+        "field": "AF-G.12d.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-G.13",
+      "label": "National security plan",
+      "question": "Do you have a plan to manage any potential security risks associated with the project and your organisation more broadly?\nThe plan should include protecting your organisation from potential national security risks including cyber security threats and the secure handling of data. We may ask for a copy of your plan at a later stage.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "The plan should include protecting your organisation from potential national security risks including cyber security threats and the secure handling of data. We may ask for a copy of your plan at a later stage.",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-06.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Do you have a plan to manage any potential security risks associated with the project and your organisation more broadly?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 295,
+        "paragraph": 362
+      },
+      "bookmark": "GW_AF_G_13",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-H.1",
+      "label": "Eligible expenditure",
+      "question": "Provide a summary of your eligible project expenditure over the life of the project.\nRegistered for GST - enter amounts exclusive of GST.\nNot registered for GST – enter amounts inclusive of GST.\nIn order to achieve the minimum grant amount, your expenditure must be at least $200,000. We only provide grant funding based on eligible expenditure. Refer to the guidelines for guidance on eligible expenditure.\nThe financial years displayed are determined by your project start and end dates. You should confirm the project duration before providing your eligible expenditure.\nYou are strongly advised to use the CRC Project Application Financial Workbook provided at business.gov.au It will assist you in calculating the correct  funds and contributions required for your budget.",
+      "kind": "budget",
+      "charLimit": null,
+      "anchor": {
+        "text": "You are strongly advised to use the CRC Project Application Financial Workbook provided at business.gov.au It will assist you in calculating the correct  funds and contributions required for your budget.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-07.2",
+        "EL-09.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Provide a summary of your eligible project expenditure over the life of the project.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 305,
+        "paragraph": 372
+      },
+      "bookmark": "GW_AF_H_1"
+    },
+    {
+      "id": "AF-H.1.2",
+      "label": "Other eligible expenditure details",
+      "question": "Details of ‘Other’ eligible expenditure.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "budget",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 7
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Details of ‘Other’ eligible expenditure.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 309,
+        "paragraph": 533
+      },
+      "bookmark": "GW_AF_H_1_2"
+    },
+    {
+      "id": "AF-H.1.3",
+      "label": "In-kind eligible expenditure details",
+      "question": "Details of ‘In-kind’ eligible expenditure.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "budget",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 8
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Details of ‘In-kind’ eligible expenditure.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 311,
+        "paragraph": 535
+      },
+      "bookmark": "GW_AF_H_1_3"
+    },
+    {
+      "id": "AF-H.2",
+      "label": "Grant amount sought",
+      "question": "Enter grant amount sought $\nThe grant amount can be up to 50% of the total eligible project expenditure.",
+      "kind": "budget",
+      "charLimit": null,
+      "anchor": {
+        "text": "The grant amount can be up to 50% of the total eligible project expenditure.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-07.1",
+        "EL-08.1",
+        "EL-08.2"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Enter grant amount sought $",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 314,
+        "paragraph": 538
+      },
+      "bookmark": "GW_AF_H_2"
+    },
+    {
+      "id": "AF-I.1",
+      "label": "Assessment criterion 1",
+      "question": "Assessment criterion 1 (25 points)\nYour response is limited to 5000 characters including spaces and does not support formatting.\nProject alignment with the program objectives\nYou should demonstrate this by describing:\nhow your project will address an industry-identified problem, improve the competitiveness, productivity and sustainability of Australian industries and the extent of alignment with government priorities (refer to Appendix A of the guidelines for further information) (10 points)\nhow your project will foster high quality research through industry-led and outcome-focused collaborative industry-research partnerships (8 points)\nhow your project will encourage and facilitate SME participation (7 points).",
+      "kind": "narrative",
+      "charLimit": 5000,
+      "anchor": {
+        "text": "how your project will encourage and facilitate SME participation (7 points).",
+        "ordinal": 0
+      },
+      "rows": [
+        "MC-1a.1",
+        "MC-1a.2",
+        "MC-1a.3",
+        "MC-1b.1",
+        "MC-1c.1"
+      ],
+      "sharedBoxGroup": "AF-I.1",
+      "questionAnchor": {
+        "text": "Assessment criterion 1 (25 points)",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 325,
+        "paragraph": 549
+      },
+      "bookmark": "GW_AF_I_1"
+    },
+    {
+      "id": "AF-I.2",
+      "label": "Assessment criterion 2",
+      "question": "Assessment criterion 2 (25 points)\nYour response is limited to 5000 characters including spaces and does not support formatting.\nThe quality of your project\nYou should demonstrate this by describing:\nthe research you will do and the methodologies you will use, including describing the role of your partners in the project (10 points)\nhow your research will address the identified problem, build on the current body of knowledge and enhance the adoption of new technologies (8 points)\nthe education and training opportunities your project will provide to build capability and capacity in the industry and research sectors for example include the number of students the project will impact (7 points).",
+      "kind": "narrative",
+      "charLimit": 5000,
+      "anchor": {
+        "text": "the education and training opportunities your project will provide to build capability and capacity in the industry and research sectors for example include the number of students the project will impact (7 points).",
+        "ordinal": 0
+      },
+      "rows": [
+        "MC-2a.1",
+        "MC-2a.2",
+        "MC-2b.1",
+        "MC-2b.2",
+        "MC-2b.3",
+        "MC-2c.1"
+      ],
+      "sharedBoxGroup": "AF-I.2",
+      "questionAnchor": {
+        "text": "Assessment criterion 2 (25 points)",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 332,
+        "paragraph": 556
+      },
+      "bookmark": "GW_AF_I_2"
+    },
+    {
+      "id": "AF-I.3",
+      "label": "Assessment criterion 3",
+      "question": "Assessment criterion 3 (25 points)\nYour response is limited to 5000 characters including spaces and does not support formatting.\nCapacity, capability and resources to deliver your project\nYou should demonstrate this by describing:\nhow you will manage and monitor your project, explaining the governance and planning arrangements, including security (8 points)\nhow you will manage risks, including but not limited to security (in particular any associated national security issues), involvement of international partners and intellectual property protection (7 points)\nyour access to required resources including naming personnel with the right skills and experience, funding, security, infrastructure, technology and intellectual property (10 points).",
+      "kind": "narrative",
+      "charLimit": 5000,
+      "anchor": {
+        "text": "your access to required resources including naming personnel with the right skills and experience, funding, security, infrastructure, technology and intellectual property (10 points).",
+        "ordinal": 0
+      },
+      "rows": [
+        "MC-3a.1",
+        "MC-3a.2",
+        "MC-3b.1",
+        "MC-3b.2",
+        "MC-3b.3",
+        "MC-3b.4",
+        "MC-3c.1",
+        "MC-3c.2",
+        "MC-3c.3"
+      ],
+      "sharedBoxGroup": "AF-I.3",
+      "questionAnchor": {
+        "text": "Assessment criterion 3 (25 points)",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 339,
+        "paragraph": 563
+      },
+      "bookmark": "GW_AF_I_3"
+    },
+    {
+      "id": "AF-I.4",
+      "label": "Assessment criterion 4",
+      "question": "Assessment criterion 4 (25 points)\nYour response is limited to 5000 characters including spaces and does not support formatting.\nImpact of the grant funding on your project\nYou should demonstrate this by explaining:\nhow the grant will impact the project in terms of scale and timing. This should include justification for the funding amount requested and whether the project could proceed without Australian Government funding (6 points)\nthe total investment the grant will leverage and why the Australian Government should invest in your project, including how grant benefits will be substantially retained in Australia (6 points)\nhow your project will have a positive impact for communities and businesses in regional and remote Australia (4 points)\nthe commercial potential of your project, including the expected commercial outputs such as new products, processes or services, any expected spill over benefits and plans at the end of the project (9 points).",
+      "kind": "narrative",
+      "charLimit": 5000,
+      "anchor": {
+        "text": "the commercial potential of your project, including the expected commercial outputs such as new products, processes or services, any expected spill over benefits and plans at the end of the project (9 points).",
+        "ordinal": 0
+      },
+      "rows": [
+        "MC-4a.1",
+        "MC-4a.2",
+        "MC-4a.3",
+        "MC-4b.1",
+        "MC-4b.2",
+        "MC-4b.3",
+        "MC-4c.1",
+        "MC-4d.1",
+        "MC-4d.2",
+        "MC-4d.3"
+      ],
+      "sharedBoxGroup": "AF-I.4",
+      "questionAnchor": {
+        "text": "Assessment criterion 4 (25 points)",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 347,
+        "paragraph": 571
+      },
+      "bookmark": "GW_AF_I_4"
+    },
+    {
+      "id": "AF-J.1.1",
+      "label": "Develops or enhances AI",
+      "question": "Does your CRC-P develop or enhance AI systems and technologies, to help accelerate the development and commercialisation of AI by businesses and researchers across Australia?\nYes/No",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Yes/No",
+        "ordinal": 0
+      },
+      "rows": [
+        "PR-02.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Does your CRC-P develop or enhance AI systems and technologies, to help accelerate the development and commercialisation of AI by businesses and researchers across Australia?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 373,
+        "paragraph": 597
+      },
+      "bookmark": "GW_AF_J_1_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-J.1.2",
+      "label": "How the project meets the AI criterion",
+      "question": "If yes, explain how your project meets this criterion.\nYour response is limited to 500 characters including spaces and does not support formatting.",
+      "kind": "narrative",
+      "charLimit": 500,
+      "anchor": {
+        "text": "Your response is limited to 500 characters including spaces and does not support formatting.",
+        "ordinal": 0
+      },
+      "rows": [
+        "PR-02.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, explain how your project meets this criterion.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 376,
+        "paragraph": 600
+      },
+      "bookmark": "GW_AF_J_1_2",
+      "condition": {
+        "field": "AF-J.1.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-J.2",
+      "label": "National Reconstruction Fund priority areas",
+      "question": "Indicate the priority areas of the National Reconstruction Fund the CRC-P will contribute to.\nFurther information on the National Reconstruction Fund priority areas is available National Reconstruction Fund.\nPrimary alignment:\nEnter priority\nSecondary alignment:\nEnter priority",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Enter priority",
+        "ordinal": 1
+      },
+      "rows": [
+        "PR-03.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Indicate the priority areas of the National Reconstruction Fund the CRC-P will contribute to.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 383,
+        "paragraph": 607
+      },
+      "bookmark": "GW_AF_J_2",
+      "input": "dropdown",
+      "parts": [
+        {
+          "label": "Primary alignment"
+        },
+        {
+          "label": "Secondary alignment"
+        }
+      ]
+    },
+    {
+      "id": "AF-J.3",
+      "label": "National Science and Research Priorities",
+      "question": "Indicate the priority areas of the Science and Research Priorities the CRC-P will contribute to.\nFurther information on the Science and Research priority areas is available Science and Research Priorities.\nPrimary alignment:\nEnter priority\nSecondary alignment:\nEnter priority",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Enter priority",
+        "ordinal": 3
+      },
+      "rows": [
+        "PR-04.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Indicate the priority areas of the Science and Research Priorities the CRC-P will contribute to.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 390,
+        "paragraph": 614
+      },
+      "bookmark": "GW_AF_J_3",
+      "input": "dropdown",
+      "parts": [
+        {
+          "label": "Primary alignment"
+        },
+        {
+          "label": "Secondary alignment"
+        }
+      ]
+    },
+    {
+      "id": "AF-J.4",
+      "label": "First Nations organisation",
+      "question": "Are you an Aboriginal and Torres Strait Islander organisation with an Indigenous Corporation Number (ICN) or Supply Nation registered?\nYes/No\nIf yes, upload evidence.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "If yes, upload evidence.",
+        "ordinal": 0
+      },
+      "rows": [
+        "PR-01.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Are you an Aboriginal and Torres Strait Islander organisation with an Indigenous Corporation Number (ICN) or Supply Nation registered?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 394,
+        "paragraph": 618
+      },
+      "bookmark": "GW_AF_J_4",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-J.5",
+      "label": "Other government priorities",
+      "question": "There may be other government priorities that the CRC Project addresses. List up to three of these below.\nYour response is limited to 300 characters including spaces and does not support formatting.\nBasis for government priority (report, statement, etc.)\nYour response is limited to 300 characters including spaces and does not support formatting.",
+      "kind": "narrative",
+      "charLimit": null,
+      "anchor": {
+        "text": "Your response is limited to 300 characters including spaces and does not support formatting.",
+        "ordinal": 1
+      },
+      "rows": [
+        "PR-05.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "There may be other government priorities that the CRC Project addresses. List up to three of these below.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 403,
+        "paragraph": 627
+      },
+      "bookmark": "GW_AF_J_5",
+      "repeat": {
+        "per": "priority",
+        "min": 1,
+        "max": 3
+      },
+      "parts": [
+        {
+          "label": "Government priority",
+          "charLimit": 300
+        },
+        {
+          "label": "Basis for government priority (report, statement, etc.)",
+          "charLimit": 300
+        }
+      ]
+    },
+    {
+      "id": "AF-J.6.1",
+      "label": "Other government assistance",
+      "question": "Have any of the project partners received any Commonwealth, state and/or territory government assistance during the past five years that has assisted in the development of this project?\nYes or No response",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Yes or No response",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-12.2",
+        "DD-08.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Have any of the project partners received any Commonwealth, state and/or territory government assistance during the past five years that has assisted in the development of this project?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 406,
+        "paragraph": 630
+      },
+      "bookmark": "GW_AF_J_6_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-J.6.2",
+      "label": "Government assistance details",
+      "question": "Assistance Source (Agency and Program)\nYour response is limited to 500 characters including spaces and does not support formatting.\nstart date\nend date\namount\ndetails",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "details",
+        "ordinal": 21
+      },
+      "rows": [
+        "DD-08.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Assistance Source (Agency and Program)",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 412,
+        "paragraph": 636
+      },
+      "bookmark": "GW_AF_J_6_2",
+      "repeat": {
+        "per": "assistance",
+        "min": 1,
+        "max": null
+      },
+      "parts": [
+        {
+          "label": "Assistance Source (Agency and Program)",
+          "charLimit": 500
+        },
+        {
+          "label": "start date"
+        },
+        {
+          "label": "end date"
+        },
+        {
+          "label": "amount"
+        },
+        {
+          "label": "details"
+        }
+      ],
+      "condition": {
+        "field": "AF-J.6.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-J.6.3",
+      "label": "Results of government assistance",
+      "question": "Discuss the results of any government assistance received in the last five years, specifically what the assistance was used for, what results were achieved and how this has contributed to the proposed project.\nYour response is limited to 500 characters including spaces and does not support formatting.",
+      "kind": "narrative",
+      "charLimit": 500,
+      "anchor": {
+        "text": "Your response is limited to 500 characters including spaces and does not support formatting.",
+        "ordinal": 2
+      },
+      "rows": [
+        "DD-08.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Discuss the results of any government assistance received in the last five years, specifically what the assistance was used for, what results were achieved and how this has contributed to the proposed project.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 414,
+        "paragraph": 638
+      },
+      "bookmark": "GW_AF_J_6_3",
+      "condition": {
+        "field": "AF-J.6.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-J.7",
+      "label": "Intellectual property category",
+      "question": "If the project depends on access to protected IP, select the relevant category:\nApplicant developed and owns IP\nApplicant has licensed IP from a third party\nThird party will license or assign IP to the applicant\nNot applicable to project.",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Not applicable to project.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If the project depends on access to protected IP, select the relevant category:",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 420,
+        "paragraph": 644
+      },
+      "bookmark": "GW_AF_J_7",
+      "input": "dropdown",
+      "options": [
+        "Applicant developed and owns IP",
+        "Applicant has licensed IP from a third party",
+        "Third party will license or assign IP to the applicant",
+        "Not applicable to project."
+      ]
+    },
+    {
+      "id": "AF-K.1",
+      "label": "Bank account details",
+      "question": "Account details\nAll payments are in AU$ and must be made into an account with an Australian financial institution.\nAccount name\nBSB\nAccount number",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Account number",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Account details",
+        "ordinal": 4
+      },
+      "position": {
+        "block": 430,
+        "paragraph": 654
+      },
+      "bookmark": "GW_AF_K_1",
+      "parts": [
+        {
+          "label": "Account name"
+        },
+        {
+          "label": "BSB"
+        },
+        {
+          "label": "Account number"
+        }
+      ]
+    },
+    {
+      "id": "AF-K.2",
+      "label": "Payment contact",
+      "question": "Payment contact\nWe will send the payment remittance advice to this person. All other notifications are sent to the primary contact.\nTitle (optional)\nGiven name\nFamily name\nEmail address\nPhone number",
+      "kind": "data",
+      "charLimit": null,
+      "anchor": {
+        "text": "Phone number",
+        "ordinal": 2
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Payment contact",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 437,
+        "paragraph": 661
+      },
+      "bookmark": "GW_AF_K_2",
+      "parts": [
+        {
+          "label": "Title (optional)"
+        },
+        {
+          "label": "Given name"
+        },
+        {
+          "label": "Family name"
+        },
+        {
+          "label": "Email address"
+        },
+        {
+          "label": "Phone number"
+        }
+      ]
+    },
+    {
+      "id": "AF-L.1.1",
+      "label": "Conflicts of interest",
+      "question": "Do you have any perceived or existing conflicts of interest to declare?\nRefer to the grant opportunity guidelines for further information on your conflict of interest responsibilities.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Refer to the grant opportunity guidelines for further information on your conflict of interest responsibilities.",
+        "ordinal": 0
+      },
+      "rows": [
+        "DD-07.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Do you have any perceived or existing conflicts of interest to declare?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 443,
+        "paragraph": 667
+      },
+      "bookmark": "GW_AF_L_1_1",
+      "input": "yes-no"
+    },
+    {
+      "id": "AF-L.1.2",
+      "label": "Conflict of interest description",
+      "question": "If yes, describe the perceived or existing conflicts of interest.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 9
+      },
+      "rows": [
+        "DD-07.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, describe the perceived or existing conflicts of interest.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 445,
+        "paragraph": 669
+      },
+      "bookmark": "GW_AF_L_1_2",
+      "condition": {
+        "field": "AF-L.1.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-L.1.3",
+      "label": "Conflict of interest management",
+      "question": "If yes, describe how you anticipate managing this conflict.\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": 750,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 10
+      },
+      "rows": [
+        "DD-07.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "If yes, describe how you anticipate managing this conflict.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 447,
+        "paragraph": 671
+      },
+      "bookmark": "GW_AF_L_1_3",
+      "condition": {
+        "field": "AF-L.1.1",
+        "equals": "Yes"
+      }
+    },
+    {
+      "id": "AF-L.2",
+      "label": "Attachments",
+      "question": "Attach additional supporting documentation here. You should only attach documents that we have requested (where applicable).\nThe total of all attachments cannot exceed 50 MB.\nIndividual files must be smaller than 25 MB, and be one of the following types: docx, rtf, pdf, xlsx, csv, jpg, jpeg, png, gif.\nFilenames should only include letters or numbers and should be fewer than 40 characters.\nA trust deed\nWhere you have indicated your entity type is a trustee applying on behalf of a trust, you must attach trust documents showing the relationship of the incorporated trustee to the trust.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Where you have indicated your entity type is a trustee applying on behalf of a trust, you must attach trust documents showing the relationship of the incorporated trustee to the trust.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-17.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "Attach additional supporting documentation here. You should only attach documents that we have requested (where applicable).",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 454,
+        "paragraph": 678
+      },
+      "bookmark": "GW_AF_L_2",
+      "input": "upload"
+    },
+    {
+      "id": "AF-L.3",
+      "label": "Program feedback",
+      "question": "How did you hear about this grant opportunity?\nYou must select from a drop-down menu.\nDid you read the grant opportunity guidelines?\nYou must select from a drop-down menu.\nIf yes, how useful were the guidelines in completing your application?\nWe welcome any additional feedback on the guidelines.\nYour response is limited to 750 characters including spaces and does not support formatting.\nHow satisfied were you with the process of applying for this grant?\nYou must select from a drop-down menu.\nWe welcome any additional feedback on the application process\nYour response is limited to 750 characters including spaces and does not support formatting.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "Your response is limited to 750 characters including spaces and does not support formatting.",
+        "ordinal": 12
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "How did you hear about this grant opportunity?",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 467,
+        "paragraph": 691
+      },
+      "bookmark": "GW_AF_L_3",
+      "parts": [
+        {
+          "label": "How did you hear about this grant opportunity?"
+        },
+        {
+          "label": "Did you read the grant opportunity guidelines?"
+        },
+        {
+          "label": "If yes, how useful were the guidelines in completing your application?"
+        },
+        {
+          "label": "We welcome any additional feedback on the guidelines.",
+          "charLimit": 750
+        },
+        {
+          "label": "How satisfied were you with the process of applying for this grant?"
+        },
+        {
+          "label": "We welcome any additional feedback on the application process",
+          "charLimit": 750
+        }
+      ]
+    },
+    {
+      "id": "AF-M.1",
+      "label": "Privacy and confidentiality",
+      "question": "I acknowledge that this is an Australian Government program and that the Department of Industry, Science and Resources (the department) will use the information I provide in accordance with the following:\nAustralian Government Data and Digital Strategy\nCommonwealth Grants Rules and Principles\ngrant opportunity guidelines\napplicable Australian laws.\nAccordingly, I understand that the department may collect, use and share my personal information provided in this application within this department and other government agencies:\nfor purposes directly related to administering the program, including governance, research and the distribution of funds to successful applicants\nto facilitate research, assessment, monitoring and analysis of other programs and activities\nfor the purposes of due diligence, preventing, detecting, investigating or dealing with suspected fraud in grant applications and related processes\nunless otherwise prohibited by law\nI understand that where I am successful in obtaining a grant, the financial information that I provide for the purposes of payment will be accessible to departmental staff to enable payments to be made through the department’s accounts payable software system.\nI understand that information that is deemed ‘confidential’ in accordance with the grant opportunity guidelines may also be shared for a relevant Commonwealth purpose.\nThe department will publish information on individual grants in the public domain, including on the department’s website, unless otherwise prohibited by law.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "The department will publish information on individual grants in the public domain, including on the department’s website, unless otherwise prohibited by law.",
+        "ordinal": 0
+      },
+      "rows": [],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "I acknowledge that this is an Australian Government program and that the Department of Industry, Science and Resources (the department) will use the information I provide in accordance with the following:",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 484,
+        "paragraph": 708
+      },
+      "bookmark": "GW_AF_M_1",
+      "input": "checkbox"
+    },
+    {
+      "id": "AF-M.2",
+      "label": "Applicant declaration",
+      "question": "I declare that I have read and understood the grant opportunity guidelines, including the grant agreement, privacy, confidentiality and disclosure provisions.\nI declare that the proposed project outlined in this application and any associated expenditure has been endorsed by the applicant’s board/ management committee or person with authority to commit the applicant to this project.\nI declare that the applicant will comply with, and require that its subcontractors and independent contractors comply with, all applicable laws.\nI declare that the applicant and any project partners are not listed on the National Redress Scheme list of institutions, where sexual abuse has occurred, that have not joined or signified their intent to join the Scheme.\nI declare that the applicant is not named by the Workplace Gender Equality Agency as an organisation that has not complied with the Workplace Gender Equality Act 2012.\nI confirm that the applicant, project partners and associated activities are in compliance with current Australian Government sanctions.\nI declare that the information contained in this application together with any statement provided is, to the best of my knowledge, accurate, complete and not misleading and that I understand that giving of false or misleading information is a serious offence under the Criminal Code Act 1995 (Cth).\nI acknowledge that I may be requested to provide further clarification or documentation to verify the information supplied in this form and that the department may, during the application process, consult with other government agencies, including state and territory government agencies, about the applicant’s claims and may also engage external technical or financial advisors to advise on information provided in the application.\nI agree to participate in the periodic evaluation of the services undertaken by the department.\nI approve the information in this application being communicated to the department in electronic form.\nI understand that the applicant is responsible for ensuring that it has met relevant state or territory legislation obligations related to working with children, and that any person that has direct, unsupervised contact with children as part of a project under this grant opportunity, has undertaken and passed, a working with children check, if required under relevant state or territory legislation. The applicant is also responsible for assessing the suitability of people I engage in this project to ensure children are kept safe.\nI acknowledge that if the department is satisfied that any statement made in an application is incorrect, incomplete, false or misleading the department may, at its absolute discretion, take appropriate action. I note such action may include excluding an application from further consideration; withdrawing an offer of funding; using the information contained in the application for a fraud investigation that would be consistent with the Australian Government’s Investigations Standards and Commonwealth Fraud Control Framework and/or for a grant under management, terminating a grant agreement between the Commonwealth and the grantee including recovering funds already paid.\nI declare that I am authorised to submit this form on behalf of the applicant and acknowledge that this is the equivalent of signing this application.\nBy checking this box I agree to all of the above declarations and confirm all of the above statements to be true.",
+      "kind": "confirm",
+      "charLimit": null,
+      "anchor": {
+        "text": "By checking this box I agree to all of the above declarations and confirm all of the above statements to be true.",
+        "ordinal": 0
+      },
+      "rows": [
+        "EL-15.1",
+        "EL-13.1",
+        "EL-14.1",
+        "EL-16.1"
+      ],
+      "sharedBoxGroup": null,
+      "questionAnchor": {
+        "text": "I declare that I have read and understood the grant opportunity guidelines, including the grant agreement, privacy, confidentiality and disclosure provisions.",
+        "ordinal": 0
+      },
+      "position": {
+        "block": 499,
+        "paragraph": 723
+      },
+      "bookmark": "GW_AF_M_2",
+      "input": "checkbox"
+    }
+  ]
+}

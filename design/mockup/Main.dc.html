@@ -1,0 +1,504 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Grant Workbench, main screen</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&amp;family=Geist:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Geist,system-ui,sans-serif;color:#1d1c1a;background:#f6f4ef}
+a{color:#a34a28}a:hover{color:#7f3a1f}
+button{font-family:inherit}
+button:focus-visible{outline:2px solid #a34a28;outline-offset:2px}
+</style>
+</helmet>
+<div style="position: relative; width: 1440px; height: 900px; display: flex; flex-direction: column; background: #f6f4ef; font-family: Geist, system-ui, sans-serif; color: #1d1c1a; overflow: hidden">
+
+<header style="display: flex; align-items: center; justify-content: space-between; height: 56px; box-sizing: border-box; padding: 0 12px; border-bottom: 1px solid #e3ded4; background: #efece5; flex-shrink: 0">
+<div style="display: flex; align-items: center; gap: 6px">
+<button type="button" onClick="{{ toggleApps }}" aria-label="Menu" aria-expanded="{{ appsOpen }}" style="{{ appsBtnStyle }}"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 5h12M3 9h12M3 13h12"></path></svg></button>
+
+<span style="margin-left: 6px; font-family: 'Source Serif 4', Georgia, serif; font-size: 18px; font-weight: 600">Harbour Robotics</span>
+<span style="font-size: 13px; color: #6a665e">CRC-P · sample</span>
+</div>
+<span></span>
+</header>
+
+<button type="button" tabindex="-1" aria-label="Close menu" onClick="{{ toggleApps }}" style="{{ scrimStyle }}"></button>
+<div role="dialog" aria-label="Menu" style="{{ drawerStyle }}">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 12px 12px 12px 20px; border-bottom: 1px solid #e3ded4">
+<span style="font-family: 'Source Serif 4', Georgia, serif; font-size: 18px; font-weight: 600">Grant Workbench</span>
+<button type="button" onClick="{{ toggleApps }}" aria-label="Close menu" style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8"></path></svg></button>
+</div>
+<div style="display: flex; flex-direction: column; gap: 22px; padding: 18px 12px; overflow: auto">
+<div style="display: flex; flex-direction: column; gap: 2px">
+<div style="padding: 0 10px 6px 10px; font-size: 13px; font-weight: 500; color: #6a665e">Applications</div>
+<button type="button" style="display: flex; align-items: center; gap: 8px; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: transparent; color: #1d1c1a; font-size: 14px; cursor: pointer; text-align: left">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8 3v10M3 8h10"></path></svg>New application</button>
+<button type="button" aria-current="true" style="display: flex; justify-content: space-between; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: #efece5; color: #1d1c1a; font-size: 14px; font-weight: 500; cursor: pointer; text-align: left"><span>Harbour Robotics</span><span style="font-size: 12px; font-weight: 400; color: #6a665e">CRC-P</span></button>
+<button type="button" onClick="{{ toggleApps }}" style="display: flex; justify-content: space-between; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: transparent; color: #1d1c1a; font-size: 14px; cursor: pointer; text-align: left"><span>Coastal Aquaculture</span><span style="font-size: 12px; color: #6a665e">CRC-P</span></button>
+<button type="button" onClick="{{ toggleApps }}" style="display: flex; justify-content: space-between; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: transparent; color: #1d1c1a; font-size: 14px; cursor: pointer; text-align: left"><span>Meridian Health AI</span><span style="font-size: 12px; color: #6a665e">CRC-P</span></button>
+</div>
+<div style="height: 1px; background: #e3ded4; margin: 0 10px" aria-hidden="true"></div>
+<div style="display: flex; flex-direction: column; gap: 2px">
+<div style="padding: 0 10px 6px 10px; font-size: 13px; font-weight: 500; color: #6a665e">Export application</div>
+<button type="button" onClick="{{ toggleApps }}" style="display: flex; justify-content: space-between; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: transparent; color: #1d1c1a; font-size: 14px; cursor: pointer; text-align: left"><span>Export as Word</span><span style="font-size: 12px; color: #6a665e">.docx</span></button>
+<button type="button" onClick="{{ toggleApps }}" style="display: flex; justify-content: space-between; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: transparent; color: #1d1c1a; font-size: 14px; cursor: pointer; text-align: left"><span>Export as PDF</span><span style="font-size: 12px; color: #6a665e">.pdf</span></button>
+</div>
+<div style="height: 1px; background: #e3ded4; margin: 0 10px" aria-hidden="true"></div>
+<button type="button" style="display: flex; align-items: center; gap: 8px; padding: 9px 10px; min-height: 40px; border: 0; border-radius: 8px; background: transparent; color: #1d1c1a; font-size: 14px; cursor: pointer; text-align: left">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><circle cx="8" cy="8" r="2.2"></circle><path d="M8 1.8v1.8M8 12.4v1.8M1.8 8h1.8M12.4 8h1.8M3.6 3.6l1.3 1.3M11.1 11.1l1.3 1.3M3.6 12.4l1.3-1.3M11.1 4.9l1.3-1.3"></path></svg>Settings</button>
+</div>
+</div>
+
+<div style="{{ gridStyle }}">
+
+<div style="{{ leftWrap }}">
+<nav aria-label="Application contents" style="width: 256px; display: flex; flex-direction: column; gap: 0; padding: 14px 10px; background: #efece5; border-right: 1px solid #e3ded4; box-sizing: border-box; height: 844px; overflow: auto">
+<div style="display: flex; justify-content: flex-end; padding: 0 0 4px 0"><button type="button" onClick="{{ tLeft }}" aria-label="Collapse left panel" style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="2.5" y="3.5" width="13" height="11" rx="2"></rect><path d="M7 3.5v11"></path></svg></button></div>
+
+<div style="display: flex; flex-direction: column; gap: 2px; padding: 6px 0 14px 0">
+<button type="button" onClick="{{ tGrant }}" aria-expanded="{{ oGrant }}" style="display: flex; align-items: center; gap: 6px; padding: 8px 10px; min-height: 36px; border: 0; border-radius: 8px; background: transparent; color: #6a665e; font-size: 13px; font-weight: 500; cursor: pointer; text-align: left">
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" style="{{ cGrant }}"><path d="M4.5 2.5 8 6l-3.5 3.5"></path></svg>CRC-P documents</button>
+<sc-if value="{{ oGrant }}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 8px">
+<button type="button" onClick="{{ goGuide }}" style="{{ sGuide }}"><span>Guidelines</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+<button type="button" onClick="{{ goForm }}" style="{{ sForm }}"><span>Application form</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+<button type="button" style="{{ sInert }}"><span>Sample grant agreement</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+<button type="button" style="{{ sInert }}"><span>Partners agreement template</span><span style="font-size: 11px; color: #6a665e">DOCX</span></button>
+<button type="button" style="{{ sInert }}"><span>Financial workbook</span><span style="font-size: 11px; color: #6a665e">XLSX</span></button>
+<button type="button" style="{{ sInert }}"><span>Program FAQ</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+</div>
+</sc-if>
+</div>
+
+<div style="height: 1px; background: #e0dbd1; margin: 0 10px" aria-hidden="true"></div>
+
+<div style="display: flex; flex-direction: column; gap: 2px; padding: 14px 0">
+<button type="button" onClick="{{ tWork }}" aria-expanded="{{ oWork }}" style="display: flex; align-items: center; gap: 6px; padding: 8px 10px; min-height: 36px; border: 0; border-radius: 8px; background: transparent; color: #6a665e; font-size: 13px; font-weight: 500; cursor: pointer; text-align: left">
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" style="{{ cWork }}"><path d="M4.5 2.5 8 6l-3.5 3.5"></path></svg>Workflow documents</button>
+<sc-if value="{{ oWork }}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 8px">
+<button type="button" onClick="{{ goReqs }}" style="{{ sReqs }}"><span>Requirements table</span><span style="font-size: 11px; color: #6a665e">45 rows</span></button>
+<button type="button" onClick="{{ goDigest }}" style="{{ sDigest }}"><span>Digest table</span><span style="font-size: 11px; color: #6a665e">128</span></button>
+</div>
+</sc-if>
+</div>
+
+<div style="height: 1px; background: #e0dbd1; margin: 0 10px" aria-hidden="true"></div>
+
+<div style="display: flex; flex-direction: column; gap: 2px; padding: 14px 0">
+<button type="button" onClick="{{ tDel }}" aria-expanded="{{ oDel }}" style="display: flex; align-items: center; gap: 6px; padding: 8px 10px; min-height: 36px; border: 0; border-radius: 8px; background: transparent; color: #6a665e; font-size: 13px; font-weight: 500; cursor: pointer; text-align: left">
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" style="{{ cDel }}"><path d="M4.5 2.5 8 6l-3.5 3.5"></path></svg>Deliverables</button>
+<sc-if value="{{ oDel }}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 8px">
+<button type="button" onClick="{{ goDraft }}" style="{{ sDraft }}"><span>R&amp;D application</span><span style="font-size: 11px; color: #6a665e">3 flags</span></button>
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; font-size: 13.5px; color: #8b877e"><span>Requests for information</span><span style="font-size: 11px">Later</span></div>
+<div style="padding: 4px 12px 4px 24px; font-size: 13px; color: #8b877e">RFI · Lead applicant · 27 Sep 2026</div>
+</div>
+</sc-if>
+</div>
+
+<div style="height: 1px; background: #e0dbd1; margin: 0 10px" aria-hidden="true"></div>
+
+<div style="position: relative; display: flex; flex-direction: column; gap: 2px; padding: 14px 0">
+<div style="display: flex; align-items: center; justify-content: space-between">
+<button type="button" onClick="{{ tSrc }}" aria-expanded="{{ oSrc }}" style="display: flex; align-items: center; gap: 6px; padding: 8px 10px; min-height: 36px; border: 0; border-radius: 8px; background: transparent; color: #6a665e; font-size: 13px; font-weight: 500; cursor: pointer; text-align: left">
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" style="{{ cSrc }}"><path d="M4.5 2.5 8 6l-3.5 3.5"></path></svg>Source documents</button>
+<button type="button" onClick="{{ tAdd }}" aria-label="Add source documents" aria-expanded="{{ addOpen }}" style="display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8 3v10M3 8h10"></path></svg></button>
+</div>
+<sc-if value="{{ addOpen }}" hint-placeholder-val="{{ false }}">
+<div role="dialog" aria-label="Add source documents" style="display: flex; flex-direction: column; gap: 10px; margin: 4px 4px 8px 4px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 12px; box-shadow: 0 8px 24px rgba(29, 28, 26, 0.10)">
+<label for="sp-url" style="font-size: 12.5px; font-weight: 500; color: #45423c">SharePoint folder URL</label>
+<input id="sp-url" type="url" placeholder="https://contoso.sharepoint.com/sites/…" style="padding: 9px 10px; min-height: 40px; box-sizing: border-box; border: 1px solid #d9d3c7; border-radius: 8px; font-family: inherit; font-size: 13px; color: #1d1c1a; background: #fdfcfa">
+<button type="button" onClick="{{ tAdd }}" style="padding: 9px 12px; min-height: 40px; border: 0; border-radius: 8px; background: #1d1c1a; color: #faf9f5; font-size: 13.5px; font-weight: 500; cursor: pointer">Link folder</button>
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: #6a665e"><span style="flex-grow: 1; height: 1px; background: #e3ded4"></span>or<span style="flex-grow: 1; height: 1px; background: #e3ded4"></span></div>
+<button type="button" onClick="{{ tAdd }}" style="padding: 9px 12px; min-height: 40px; border: 1px solid #d9d3c7; border-radius: 8px; background: #ffffff; color: #1d1c1a; font-size: 13.5px; font-weight: 500; cursor: pointer">Upload files…</button>
+</div>
+</sc-if>
+<sc-if value="{{ oSrc }}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 8px">
+<div style="display: flex; align-items: center; gap: 6px; padding: 4px 12px 4px 12px; font-size: 12.5px; font-weight: 500; color: #45423c"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M4.5 12.5h7a3 3 0 0 0 .4-6 4 4 0 0 0-7.7.9A2.6 2.6 0 0 0 4.5 12.5z"></path></svg><span>Linked · SharePoint</span></div>
+<div style="padding: 0 12px 4px 32px; font-size: 11.5px; color: #6a665e">Harbour Robotics / CRC-P</div>
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 16px">
+<button type="button" onClick="{{ goMinutes }}" style="{{ sMinutes }}"><span>Board minutes Aug 2026</span><span style="font-size: 11px; color: #6a665e">DOCX</span></button>
+<button type="button" onClick="{{ goPlan }}" style="{{ sPlan }}"><span>Project plan v3</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+<button type="button" onClick="{{ goFin }}" style="{{ sFin }}"><span>Financials FY26</span><span style="font-size: 11px; color: #6a665e">XLSX</span></button>
+<button type="button" style="{{ sInert }}"><span>Partner letter, Portside Marine</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+<button type="button" style="{{ sInert }}"><span>ASIC company extract</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+</div>
+<div style="display: flex; align-items: center; gap: 6px; padding: 12px 12px 4px 12px; font-size: 12.5px; font-weight: 500; color: #45423c"><svg width="13" height="13" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M1.5 3.5h4l1.5 1.5h5.5v6.5h-11z"></path></svg><span>Local · this application</span></div>
+<div style="padding: 0 12px 4px 32px; font-size: 11.5px; color: #6a665e">Grant Workbench / Harbour Robotics</div>
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 16px">
+<button type="button" style="{{ sInert }}"><span>Market sizing notes</span><span style="font-size: 11px; color: #6a665e">DOCX</span></button>
+<button type="button" style="{{ sInert }}"><span>Supplier quote, sonar</span><span style="font-size: 11px; color: #6a665e">PDF</span></button>
+</div>
+</div>
+</sc-if>
+</div>
+
+<div style="height: 1px; background: #e0dbd1; margin: 0 10px" aria-hidden="true"></div>
+
+<div style="position: relative; display: flex; flex-direction: column; gap: 2px; padding: 14px 0">
+<div style="display: flex; align-items: center; justify-content: space-between">
+<button type="button" onClick="{{ tRef }}" aria-expanded="{{ oRef }}" style="display: flex; align-items: center; gap: 6px; padding: 8px 10px; min-height: 36px; border: 0; border-radius: 8px; background: transparent; color: #6a665e; font-size: 13px; font-weight: 500; cursor: pointer; text-align: left">
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" style="{{ cRef }}"><path d="M4.5 2.5 8 6l-3.5 3.5"></path></svg>References and templates</button>
+<button type="button" onClick="{{ tRefAdd }}" aria-label="Add references and templates" aria-expanded="{{ refAddOpen }}" style="display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8 3v10M3 8h10"></path></svg></button>
+</div>
+<sc-if value="{{ refAddOpen }}" hint-placeholder-val="{{ false }}">
+<div role="dialog" aria-label="Add references and templates" style="display: flex; flex-direction: column; gap: 10px; margin: 4px 4px 8px 4px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 12px; box-shadow: 0 8px 24px rgba(29, 28, 26, 0.10)">
+<label for="ref-url" style="font-size: 12.5px; font-weight: 500; color: #45423c">SharePoint folder URL</label>
+<input id="ref-url" type="url" placeholder="https://contoso.sharepoint.com/sites/…" style="padding: 9px 10px; min-height: 40px; box-sizing: border-box; border: 1px solid #d9d3c7; border-radius: 8px; font-family: inherit; font-size: 13px; color: #1d1c1a; background: #fdfcfa">
+<button type="button" onClick="{{ tRefAdd }}" style="padding: 9px 12px; min-height: 40px; border: 0; border-radius: 8px; background: #1d1c1a; color: #faf9f5; font-size: 13.5px; font-weight: 500; cursor: pointer">Link folder</button>
+<div style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: #6a665e"><span style="flex-grow: 1; height: 1px; background: #e3ded4"></span>or<span style="flex-grow: 1; height: 1px; background: #e3ded4"></span></div>
+<button type="button" onClick="{{ tRefAdd }}" style="padding: 9px 12px; min-height: 40px; border: 1px solid #d9d3c7; border-radius: 8px; background: #ffffff; color: #1d1c1a; font-size: 13.5px; font-weight: 500; cursor: pointer">Upload files…</button>
+</div>
+</sc-if>
+<sc-if value="{{ oRef }}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 1px; padding-left: 8px">
+<button type="button" style="{{ sInert }}"><span>Reference application, Round 17</span><span style="font-size: 11px; color: #6a665e">DOCX</span></button>
+<button type="button" style="{{ sInert }}"><span>Letter of support template</span><span style="font-size: 11px; color: #6a665e">DOCX</span></button>
+</div>
+</sc-if>
+</div>
+</nav>
+</div>
+
+<main style="height: 844px; overflow: auto; background: #e6e2da; min-width: 0; scroll-behavior: smooth">
+<sc-if value="{{ anyClosed }}" hint-placeholder-val="{{ false }}">
+<div style="position: sticky; top: 0; z-index: 3; display: flex; justify-content: space-between; padding: 8px 10px 0 10px">
+<sc-if value="{{ leftClosed }}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{ tLeft }}" aria-label="Open left panel" style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer; background: #f6f4ef; border: 1px solid #e3ded4"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="2.5" y="3.5" width="13" height="11" rx="2"></rect><path d="M7 3.5v11"></path></svg></button></sc-if>
+<span></span>
+<sc-if value="{{ rightClosed }}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{ tRight }}" aria-label="Open right panel" style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer; background: #f6f4ef; border: 1px solid #e3ded4"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="2.5" y="3.5" width="13" height="11" rx="2"></rect><path d="M11 3.5v11"></path></svg></button></sc-if>
+</div>
+</sc-if>
+
+<sc-if value="{{ vDraft }}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 24px; font-size: 12.5px; color: #6a665e">
+<span>R&amp;D application · crcp-r19-sample-application.docx · editable</span>
+<span>Section I · Assessment criteria</span>
+</div>
+<div style="width: 714px; margin: 0 auto 40px auto; background: #ffffff; box-shadow: 0 1px 3px rgba(29, 28, 26, 0.12), 0 8px 24px rgba(29, 28, 26, 0.06); display: flex; flex-direction: column">
+<img id="crit3" src="/_blob/8a4748aca999acec2416b750e9cc9dce" alt="Application form, I.3 Assessment criterion 3 (25 points): Capacity, capability and resources to deliver your project, sub-criteria a to c" style="display: block; width: 714px; height: 336px">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 4px 102px 24px 102px">
+<div style="{{ box3 }}">
+A steering committee of the three partners meets monthly and reviews each milestone against the project plan before the next stage is funded. Harbour Robotics' CTO leads delivery, with the university's robotics lab running the research work packages. Cyber and data security follow the university's research data policy, with access to trial data limited to named project staff.
+</div>
+<div style="display: flex; justify-content: flex-end; font-size: 12px; color: #6a665e">3,940 / 5,000</div>
+</div>
+<img id="crit4" src="/_blob/865207f3555d943e5f0a7e47682480f8" alt="I.4 Assessment criterion 4 (25 points): Impact of the grant funding on your project" style="display: block; width: 714px; height: 108px">
+<div style="height: 1px; margin: 6px 0; background: #e6e2da" aria-hidden="true"></div>
+<img src="/_blob/73bc8f9de2af9cb565746f837e49ea6b" alt="You should demonstrate this by explaining: sub-criteria a to d" style="display: block; width: 714px; height: 288px">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 4px 102px 36px 102px">
+<div style="{{ box4 }}">
+The grant lets the partners run hull-inspection trials at three ports in parallel rather than in sequence, bringing commercial release forward by two years.
+<button type="button" onClick="{{ pickA3 }}" aria-label="Flagged sentence, below threshold: whether the project could proceed without the grant" style="{{ a3Style }}">Without the grant, the project would proceed at a smaller scale.</button>
+The $1.2M requested is matched by $1.3M in partner cash and in-kind contributions. Two of the three trial ports are in regional Queensland, where local maintenance contractors will be trained to operate the system.
+<button type="button" onClick="{{ pickD1 }}" aria-label="Information needed: commercial outputs" style="{{ d1Style }}">[Information needed: target customers, pricing and route to market for the inspection system · MC-4d.1]</button>
+</div>
+<div style="display: flex; justify-content: flex-end; font-size: 12px; color: #6a665e">2,318 / 5,000</div>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ vGuide }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">crcp-r19-guidelines.pdf · page 12 of 46</div>
+<img src="/_blob/7868366836bb2c97cf26f1f994dfd942" alt="CRC-P Round 19 guidelines, page 12: section 6, the assessment criteria" style="display: block; width: 714px; height: 1010px; margin: 0 auto 40px auto; background: #ffffff; box-shadow: 0 1px 3px rgba(29, 28, 26, 0.12), 0 8px 24px rgba(29, 28, 26, 0.06)">
+</sc-if>
+
+<sc-if value="{{ vForm }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">crcp-r19-sample-application.pdf · page 1 of 30</div>
+<img src="/_blob/b82e2125aba9ae904b46e0a2580dc80b" alt="CRC-P Round 19 sample application form, cover page" style="display: block; width: 714px; height: 1010px; margin: 0 auto 40px auto; background: #ffffff; box-shadow: 0 1px 3px rgba(29, 28, 26, 0.12), 0 8px 24px rgba(29, 28, 26, 0.06)">
+</sc-if>
+
+<sc-if value="{{ vReqs }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">Requirements table · CRC-P Round 19 · editable</div>
+<div style="margin: 0 24px 40px 24px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px; overflow: hidden">
+<table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5">
+<thead><tr style="background: #f6f4ef; text-align: left; color: #45423c">
+<th style="padding: 10px 12px; font-weight: 600; width: 76px">ID</th>
+<th style="padding: 10px 12px; font-weight: 600">Exact guideline wording</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 96px">Deliverable</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 72px">Form field</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 190px">Items from client</th>
+</tr></thead>
+<tbody>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">MC-4a.1</td><td style="padding: 10px 12px">“how the grant will impact the project in terms of scale and timing”</td><td style="padding: 10px 12px">R&amp;D application</td><td style="padding: 10px 12px">I.4</td><td style="padding: 10px 12px">Effect of the grant on scale and timing</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">MC-4a.2</td><td style="padding: 10px 12px">“justification for the funding amount requested”</td><td style="padding: 10px 12px">R&amp;D application</td><td style="padding: 10px 12px">I.4</td><td style="padding: 10px 12px">Budget and why this amount; board papers</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">MC-4a.3</td><td style="padding: 10px 12px">“whether the project could proceed without Australian Government funding”</td><td style="padding: 10px 12px">R&amp;D application</td><td style="padding: 10px 12px">I.4</td><td style="padding: 10px 12px">Counterfactual without the grant</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">MC-4d.1</td><td style="padding: 10px 12px">“the commercial potential of your project, including the expected commercial outputs such as new products, processes or services”</td><td style="padding: 10px 12px">R&amp;D application</td><td style="padding: 10px 12px">I.4, G.3</td><td style="padding: 10px 12px">Commercial outputs, target customers, pricing, route to market</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">EL-11.3</td><td style="padding: 10px 12px">“industry-led”</td><td style="padding: 10px 12px">R&amp;D application</td><td style="padding: 10px 12px">G.2</td><td style="padding: 10px 12px">Who identified and drives the project</td></tr>
+</tbody>
+</table>
+</div>
+</sc-if>
+
+<sc-if value="{{ vDigest }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">Digest table · 128 passages from 5 source documents · editable</div>
+<div style="margin: 0 24px 40px 24px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px; overflow: hidden">
+<table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5">
+<thead><tr style="background: #f6f4ef; text-align: left; color: #45423c">
+<th style="padding: 10px 12px; font-weight: 600; width: 56px">ID</th>
+<th style="padding: 10px 12px; font-weight: 600">Exact passage</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 150px">Source</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 76px">Rows</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 64px">P</th>
+<th style="padding: 10px 12px; font-weight: 600; width: 84px">Status</th>
+</tr></thead>
+<tbody>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">P-014</td><td style="padding: 10px 12px">“The board will not fund the multi-port trial program from retained earnings in FY27.”</td><td style="padding: 10px 12px">Board minutes Aug 2026 · p. 2</td><td style="padding: 10px 12px">MC-4a.3</td><td style="padding: 10px 12px">0.99</td><td style="padding: 10px 12px">Confirmed</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">P-022</td><td style="padding: 10px 12px">“The University will lead the project and coordinate partner activities.”</td><td style="padding: 10px 12px">Project plan v3 · p. 1</td><td style="padding: 10px 12px">EL-11.3</td><td style="padding: 10px 12px">0.99</td><td style="padding: 10px 12px">Confirmed</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">P-031</td><td style="padding: 10px 12px">“Harbour Robotics identified the need and will drive the project as lead applicant.”</td><td style="padding: 10px 12px">Partner letter, Portside Marine · p. 1</td><td style="padding: 10px 12px">EL-11.3</td><td style="padding: 10px 12px">0.99</td><td style="padding: 10px 12px">Confirmed</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">P-047</td><td style="padding: 10px 12px">“Employees (headcount) at 30 June 2026: 42”</td><td style="padding: 10px 12px">Financials FY26 · Summary!B7</td><td style="padding: 10px 12px">EL-03</td><td style="padding: 10px 12px">0.99</td><td style="padding: 10px 12px">Confirmed</td></tr>
+<tr style="border-top: 1px solid #ece8e0"><td style="padding: 10px 12px; color: #6a665e">P-052</td><td style="padding: 10px 12px">“Trials at Gladstone and Mackay ports are planned for 2027.”</td><td style="padding: 10px 12px">Project plan v3 · p. 4</td><td style="padding: 10px 12px">MC-4c.1</td><td style="padding: 10px 12px">0.87</td><td style="padding: 10px 12px; color: #6a665e">Suggested</td></tr>
+</tbody>
+</table>
+</div>
+</sc-if>
+
+<sc-if value="{{ vMinutes }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">Board minutes Aug 2026.docx · page 2</div>
+<div style="width: 714px; min-height: 900px; margin: 0 auto 40px auto; box-sizing: border-box; padding: 86px 96px; background: #ffffff; box-shadow: 0 1px 3px rgba(29, 28, 26, 0.12), 0 8px 24px rgba(29, 28, 26, 0.06); font-family: Georgia, 'Times New Roman', serif; font-size: 14px; line-height: 1.65; color: #1d1c1a; display: flex; flex-direction: column; gap: 14px">
+<p style="margin: 0; font-weight: 700">4. Port trial program</p>
+<p style="margin: 0">The CTO presented the proposed hull-inspection trial program across three ports and the draft CRC-P application with the university and Portside Marine.</p>
+<p style="margin: 0"><span style="background: #ece7dc; padding: 1px 2px">The board will not fund the multi-port trial program from retained earnings in FY27.</span> A single-port trial at Brisbane remains within the approved FY27 budget.</p>
+<p style="margin: 0">Resolved: the board endorses the CRC-P application and the company's proposed cash and in-kind contributions, subject to the grant being awarded.</p>
+<p style="margin: 0; font-weight: 700">5. Other business</p>
+<p style="margin: 0">Nil.</p>
+</div>
+</sc-if>
+
+<sc-if value="{{ vPlan }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">Project plan v3.pdf · page 1 of 9</div>
+<div style="width: 714px; min-height: 900px; margin: 0 auto 40px auto; box-sizing: border-box; padding: 86px 96px; background: #ffffff; box-shadow: 0 1px 3px rgba(29, 28, 26, 0.12), 0 8px 24px rgba(29, 28, 26, 0.06); font-size: 13.5px; line-height: 1.65; color: #1d1c1a; display: flex; flex-direction: column; gap: 14px">
+<p style="margin: 0; font-size: 22px; font-weight: 600">Autonomous hull inspection: project plan</p>
+<p style="margin: 0; color: #6a665e">Version 3 · July 2026</p>
+<p style="margin: 0; font-weight: 600">1. Governance</p>
+<p style="margin: 0"><span style="background: #ece7dc; padding: 1px 2px">The University will lead the project and coordinate partner activities.</span> A steering committee with one representative from each partner meets monthly.</p>
+<p style="margin: 0; font-weight: 600">2. Work packages</p>
+<p style="margin: 0">WP1 sensor fusion · WP2 hull defect classification · WP3 port trials · WP4 commercial pilot.</p>
+</div>
+</sc-if>
+
+<sc-if value="{{ vFin }}" hint-placeholder-val="{{ false }}">
+<div style="padding: 10px 24px; font-size: 12.5px; color: #6a665e">Financials FY26.xlsx · sheet Summary</div>
+<div style="margin: 0 24px 40px 24px; background: #ffffff; border: 1px solid #d9d3c7; overflow: hidden">
+<table style="border-collapse: collapse; font-size: 13px; font-family: Geist, system-ui, sans-serif">
+<thead><tr style="background: #f1efe9; color: #6a665e"><th style="width: 40px; padding: 6px; border: 1px solid #e3ded4; font-weight: 500"></th><th style="width: 280px; padding: 6px; border: 1px solid #e3ded4; font-weight: 500">A</th><th style="width: 140px; padding: 6px; border: 1px solid #e3ded4; font-weight: 500">B</th><th style="width: 140px; padding: 6px; border: 1px solid #e3ded4; font-weight: 500">C</th></tr></thead>
+<tbody>
+<tr><td style="padding: 6px; border: 1px solid #e3ded4; background: #f1efe9; color: #6a665e; text-align: center">3</td><td style="padding: 6px 8px; border: 1px solid #e3ded4">Turnover (BAS)</td><td style="padding: 6px 8px; border: 1px solid #e3ded4; text-align: right">4,860,000</td><td style="padding: 6px 8px; border: 1px solid #e3ded4"></td></tr>
+<tr><td style="padding: 6px; border: 1px solid #e3ded4; background: #f1efe9; color: #6a665e; text-align: center">4</td><td style="padding: 6px 8px; border: 1px solid #e3ded4">Export revenue</td><td style="padding: 6px 8px; border: 1px solid #e3ded4; text-align: right">610,000</td><td style="padding: 6px 8px; border: 1px solid #e3ded4"></td></tr>
+<tr><td style="padding: 6px; border: 1px solid #e3ded4; background: #f1efe9; color: #6a665e; text-align: center">5</td><td style="padding: 6px 8px; border: 1px solid #e3ded4">R&amp;D expenditure</td><td style="padding: 6px 8px; border: 1px solid #e3ded4; text-align: right">1,120,000</td><td style="padding: 6px 8px; border: 1px solid #e3ded4"></td></tr>
+<tr><td style="padding: 6px; border: 1px solid #e3ded4; background: #f1efe9; color: #6a665e; text-align: center">6</td><td style="padding: 6px 8px; border: 1px solid #e3ded4">Taxable income</td><td style="padding: 6px 8px; border: 1px solid #e3ded4; text-align: right">212,000</td><td style="padding: 6px 8px; border: 1px solid #e3ded4"></td></tr>
+<tr><td style="padding: 6px; border: 1px solid #e3ded4; background: #f1efe9; color: #6a665e; text-align: center">7</td><td style="padding: 6px 8px; border: 1px solid #e3ded4">Employees (headcount) at 30 June 2026</td><td style="padding: 6px 8px; border: 1px solid #e3ded4; text-align: right; background: #ece7dc">42</td><td style="padding: 6px 8px; border: 1px solid #e3ded4"></td></tr>
+</tbody>
+</table>
+</div>
+</sc-if>
+
+</main>
+
+<div style="{{ rightWrap }}">
+<aside aria-label="Strength, evidence and chat" style="width: 380px; display: flex; flex-direction: column; height: 844px; box-sizing: border-box; border-left: 1px solid #e3ded4; background: #fbfaf7">
+<div style="display: flex; justify-content: flex-start; padding: 10px 12px 0 12px; flex-shrink: 0"><button type="button" onClick="{{ tRight }}" aria-label="Collapse right panel" style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 0; border-radius: 8px; background: transparent; color: #45423c; cursor: pointer"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="2.5" y="3.5" width="13" height="11" rx="2"></rect><path d="M11 3.5v11"></path></svg></button></div>
+<div style="flex-grow: 1; overflow: auto; min-height: 0">
+
+<sc-if value="{{ summary }}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 22px; padding: 10px 24px 26px 24px">
+<div style="display: flex; flex-direction: column; gap: 16px"><h2 style="margin: 0; font-size: 15px; font-weight: 600">Overall</h2><div style="display: flex; flex-direction: column; gap: 18px; padding: 16px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px"><div style="display: flex; flex-direction: column; gap: 8px"><div style="display: flex; justify-content: space-between; align-items: baseline"><span style="font-size: 14px; font-weight: 500">Compelling</span><span style="font-size: 20px; font-weight: 600">71%</span></div><div style="height: 4px; border-radius: 2px; background: #e3ded4"><div style="width: 71%; height: 4px; border-radius: 2px; background: #c99a16"></div></div><span style="font-size: 12.5px; line-height: 1.45; color: #6a665e">Would the CRC Advisory Committee find this application compelling against others in the round?</span></div><div style="height: 1px; background: #e3ded4" aria-hidden="true"></div><div style="display: flex; flex-direction: column; gap: 8px"><div style="display: flex; justify-content: space-between; align-items: baseline"><span style="font-size: 14px; font-weight: 500">Eligible</span><span style="font-size: 20px; font-weight: 600">90%</span></div><div style="height: 4px; border-radius: 2px; background: #e3ded4"><div style="width: 90%; height: 4px; border-radius: 2px; background: #c99a16"></div></div><span style="font-size: 12.5px; line-height: 1.45; color: #6a665e">Does this application meet every CRC-P eligibility requirement?</span></div></div></div>
+<div style="display: flex; flex-direction: column; gap: 12px">
+<h2 style="margin: 0; font-size: 15px; font-weight: 600">Issues</h2>
+<div style="display: flex; flex-direction: column; gap: 10px">
+<a href="#crit4" onClick="{{ pickD1 }}" style="display: flex; gap: 10px; align-items: flex-start; padding: 12px; border: 1px solid #e3ded4; border-radius: 10px; background: #ffffff; color: #1d1c1a; text-decoration: none">
+<span aria-hidden="true" style="margin-top: 6px; width: 8px; height: 8px; border-radius: 4px; background: #c2412d; flex-shrink: 0"></span>
+<span style="display: flex; flex-direction: column; gap: 4px; flex-grow: 1"><span style="display: flex; justify-content: space-between; gap: 8px; font-size: 12.5px; color: #6a665e"><span>MC-4d.1 · I.4</span><span style="color: #8a2a1b; font-weight: 500">Information needed</span></span><span style="font-size: 13.5px; line-height: 1.45">Is the response to “the commercial potential of your project, including the expected commercial outputs” compelling?</span></span>
+</a>
+<a href="#crit4" onClick="{{ pickA3 }}" style="display: flex; gap: 10px; align-items: flex-start; padding: 12px; border: 1px solid #e3ded4; border-radius: 10px; background: #ffffff; color: #1d1c1a; text-decoration: none">
+<span aria-hidden="true" style="margin-top: 6px; width: 8px; height: 8px; border-radius: 4px; background: #c99a16; flex-shrink: 0"></span>
+<span style="display: flex; flex-direction: column; gap: 4px; flex-grow: 1"><span style="display: flex; justify-content: space-between; gap: 8px; font-size: 12.5px; color: #6a665e"><span>MC-4a.3 · I.4</span><span style="color: #1d1c1a; font-weight: 600">82%</span></span><span style="font-size: 13.5px; line-height: 1.45">Is the response to “whether the project could proceed without Australian Government funding” compelling?</span></span>
+</a>
+<a href="#g2" onClick="{{ pickEl }}" style="display: flex; gap: 10px; align-items: flex-start; padding: 12px; border: 1px solid #e3ded4; border-radius: 10px; background: #ffffff; color: #1d1c1a; text-decoration: none">
+<span aria-hidden="true" style="margin-top: 6px; width: 8px; height: 8px; border-radius: 4px; background: #c99a16; flex-shrink: 0"></span>
+<span style="display: flex; flex-direction: column; gap: 4px; flex-grow: 1"><span style="display: flex; justify-content: space-between; gap: 8px; font-size: 12.5px; color: #6a665e"><span>EL-11.3 · G.2</span><span style="color: #1d1c1a; font-weight: 600">91%</span></span><span style="font-size: 13.5px; line-height: 1.45">Does the application meet the requirement that the project is “industry-led”?</span></span>
+</a>
+</div>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ a3 }}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 22px; padding: 10px 24px 26px 24px">
+<button type="button" onClick="{{ clear }}" style="align-self: flex-start; display: flex; align-items: center; gap: 6px; padding: 6px 0; min-height: 32px; border: 0; background: transparent; color: #6a665e; font-size: 13px; cursor: pointer">
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8.5 3.5 5 7l3.5 3.5"></path></svg>Issues</button>
+<span style="font-size: 12.5px; color: #6a665e">MC-4a.3 · Criterion 4 · 6 points</span>
+<div style="display: flex; flex-direction: column; gap: 10px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px">
+<span style="font-size: 12px; color: #6a665e">Question to jev</span>
+<p style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 15.5px; line-height: 1.5">An expert on the CRC Advisory Committee, comparing this application with others, would find the response to “whether the project could proceed without Australian Government funding” compelling.</p>
+<div style="display: flex; align-items: center; gap: 10px"><div style="flex-grow: 1; height: 4px; border-radius: 2px; background: #e3ded4"><div style="width: 82%; height: 4px; border-radius: 2px; background: #c99a16"></div></div><span style="font-size: 15px; font-weight: 600">82%</span></div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 10px; font-size: 14px; line-height: 1.55">
+<p style="margin: 0"><span style="font-weight: 600">Weak: </span>“A smaller scale” doesn't say what would be cut or delayed.</p>
+<p style="margin: 0"><span style="font-weight: 600">Fix: </span>Use the board minutes: the multi-port trials won't be funded from retained earnings.</p>
+</div>
+<div style="display: flex; flex-direction: column; gap: 10px">
+<h3 style="margin: 0; font-size: 13px; font-weight: 600; color: #45423c">Evidence</h3>
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px">
+<p style="margin: 0; font-size: 14px; line-height: 1.55">“The board will not fund the multi-port trial program from retained earnings in FY27.”</p>
+<button type="button" onClick="{{ goMinutes }}" style="align-self: flex-start; padding: 4px 0; min-height: 28px; border: 0; background: transparent; color: #a34a28; font-size: 12.5px; cursor: pointer; text-align: left">Board minutes Aug 2026 · p. 2</button>
+</div>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ d1 }}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 22px; padding: 10px 24px 26px 24px">
+<button type="button" onClick="{{ clear }}" style="align-self: flex-start; display: flex; align-items: center; gap: 6px; padding: 6px 0; min-height: 32px; border: 0; background: transparent; color: #6a665e; font-size: 13px; cursor: pointer">
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8.5 3.5 5 7l3.5 3.5"></path></svg>Issues</button>
+<span style="font-size: 12.5px; color: #6a665e">MC-4d.1 · Criterion 4 · 9 points</span>
+<div style="display: flex; flex-direction: column; gap: 10px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px">
+<span style="font-size: 12px; color: #6a665e">Question to jev</span>
+<p style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 15.5px; line-height: 1.5">An expert on the CRC Advisory Committee, comparing this application with others, would find the response to “the commercial potential of your project, including the expected commercial outputs such as new products, processes or services” compelling.</p>
+<span style="font-size: 13.5px; color: #6a665e">Not scored: no evidence to draft from.</span>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 14px; background: #fbe4df; border: 1px solid #e8b4a9; border-radius: 10px">
+<span style="font-size: 14px; font-weight: 600; color: #8a2a1b">RFI needed · Lead applicant</span>
+<span style="font-size: 14px; line-height: 1.55; color: #1d1c1a">Target customers, pricing and route to market for the inspection system.</span>
+</div>
+</div>
+</sc-if>
+
+<sc-if value="{{ el }}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 22px; padding: 10px 24px 26px 24px">
+<button type="button" onClick="{{ clear }}" style="align-self: flex-start; display: flex; align-items: center; gap: 6px; padding: 6px 0; min-height: 32px; border: 0; background: transparent; color: #6a665e; font-size: 13px; cursor: pointer">
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8.5 3.5 5 7l3.5 3.5"></path></svg>Issues</button>
+<span style="font-size: 12.5px; color: #6a665e">EL-11.3 · Eligibility · GL 5.1</span>
+<div style="display: flex; flex-direction: column; gap: 10px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px">
+<span style="font-size: 12px; color: #6a665e">Question to jev</span>
+<p style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 15.5px; line-height: 1.5">Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: “industry-led”.</p>
+<div style="display: flex; align-items: center; gap: 10px"><div style="flex-grow: 1; height: 4px; border-radius: 2px; background: #e3ded4"><div style="width: 91%; height: 4px; border-radius: 2px; background: #c99a16"></div></div><span style="font-size: 15px; font-weight: 600">91%</span></div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 10px; font-size: 14px; line-height: 1.55">
+<p style="margin: 0"><span style="font-weight: 600">Conflict: </span>The project plan names the university as lead; the partner letter names Harbour Robotics.</p>
+<p style="margin: 0"><span style="font-weight: 600">Decide: </span>Confirm which partner drives the project.</p>
+</div>
+<div style="display: flex; flex-direction: column; gap: 10px">
+<h3 style="margin: 0; font-size: 13px; font-weight: 600; color: #45423c">Evidence</h3>
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 14px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px">
+<p style="margin: 0; font-size: 14px; line-height: 1.55">“The University will lead the project and coordinate partner activities.”</p>
+<button type="button" onClick="{{ goPlan }}" style="align-self: flex-start; padding: 4px 0; min-height: 28px; border: 0; background: transparent; color: #a34a28; font-size: 12.5px; cursor: pointer; text-align: left">Project plan v3 · p. 1</button>
+</div>
+</div>
+</div>
+</sc-if>
+</div>
+
+<div style="flex-shrink: 0; padding: 12px 14px 14px 14px; border-top: 1px solid #ece8e0; background: #fbfaf7">
+<div style="display: flex; flex-direction: column; gap: 8px; padding: 12px 12px 8px 14px; background: #ffffff; border: 1px solid #d9d3c7; border-radius: 16px; box-shadow: 0 1px 2px rgba(29, 28, 26, 0.05)">
+<sc-if value="{{ hasCtx }}" hint-placeholder-val="{{ false }}">
+<span style="align-self: flex-start; padding: 4px 8px; border-radius: 6px; background: #f1efe9; font-size: 12px; color: #45423c">{{ ctxLabel }}</span>
+</sc-if>
+<label for="chat-in" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0)">Message the agent</label>
+<textarea id="chat-in" rows="2" placeholder="{{ chatPlaceholder }}" style="resize: none; border: 0; outline: none; font-family: inherit; font-size: 14px; line-height: 1.5; color: #1d1c1a; background: transparent"></textarea>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 8px">
+<div style="display: flex; align-items: center; gap: 4px">
+<button type="button" aria-label="Attach" style="display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; border: 1px solid #e3ded4; border-radius: 8px; background: #ffffff; color: #45423c; cursor: pointer">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M8 3v10M3 8h10"></path></svg></button>
+</div>
+<div style="position: relative; display: flex; align-items: center; gap: 6px">
+<button type="button" onClick="{{ tModel }}" aria-haspopup="listbox" aria-expanded="{{ modelOpen }}" style="display: flex; align-items: center; gap: 4px; padding: 6px 8px; min-height: 32px; border: 0; border-radius: 8px; background: transparent; color: #45423c; font-size: 12.5px; cursor: pointer">{{ model }}
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"></path></svg></button>
+<sc-if value="{{ modelOpen }}" hint-placeholder-val="{{ false }}">
+<div role="listbox" aria-label="Model" style="position: absolute; right: 40px; bottom: 40px; z-index: 5; width: 200px; display: flex; flex-direction: column; gap: 2px; padding: 6px; background: #ffffff; border: 1px solid #e3ded4; border-radius: 10px; box-shadow: 0 12px 32px rgba(29, 28, 26, 0.12)">
+<button type="button" role="option" onClick="{{ mClaude }}" style="padding: 8px 10px; min-height: 36px; border: 0; border-radius: 6px; background: transparent; color: #1d1c1a; font-size: 13px; text-align: left; cursor: pointer">Claude Opus 5.5</button>
+<button type="button" role="option" onClick="{{ mAstra }}" style="padding: 8px 10px; min-height: 36px; border: 0; border-radius: 6px; background: transparent; color: #1d1c1a; font-size: 13px; text-align: left; cursor: pointer">GPT-6 Astra</button>
+<button type="button" role="option" onClick="{{ mCopilot }}" style="padding: 8px 10px; min-height: 36px; border: 0; border-radius: 6px; background: transparent; color: #1d1c1a; font-size: 13px; text-align: left; cursor: pointer">Microsoft Copilot</button>
+</div>
+</sc-if>
+<button type="button" style="display: flex; align-items: center; gap: 6px; padding: 0 10px; height: 32px; border: 1px solid #d9d3c7; border-radius: 8px; background: #ffffff; color: #1d1c1a; font-size: 12.5px; font-weight: 500; cursor: pointer"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M11.5 7a4.5 4.5 0 1 1-1.3-3.2"></path><path d="M11.5 2.5v2.3H9.2"></path></svg>{{ draftLabel }}</button>
+<button type="button" aria-label="Send" style="display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; border: 0; border-radius: 8px; background: #a34a28; color: #ffffff; cursor: pointer">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M8 13V3M3.5 7.5 8 3l4.5 4.5"></path></svg></button>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    this.state = { sel: null, apps: false, view: 'draft', oGrant: false, oWork: false, oDel: true, oSrc: true, add: false, oRef: true, addRef: false, left: true, right: true, mOpen: false, model: 'Claude Opus 5.5' };
+  }
+  renderVals() {
+    var sel = this.state.sel;
+    var apps = this.state.apps;
+    var view = this.state.view;
+    var self = this;
+    var base = 'display: inline; padding: 1px 3px; margin: 0; border-radius: 3px; font: inherit; line-height: inherit; text-align: left; cursor: pointer; color: #1d1c1a; ';
+    var yellow = base + 'background: #f8e3a3; border: 0; box-shadow: ' + (sel === 'a3' ? '0 0 0 2px #1d1c1a' : 'none') + ';';
+    var red = base + 'background: #fbe4df; color: #8a2a1b; border: 1px dashed #c2412d; box-shadow: ' + (sel === 'd1' ? '0 0 0 2px #1d1c1a' : 'none') + ';';
+    var appsBtn = 'display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border: 0; border-radius: 10px; color: #1d1c1a; cursor: pointer; background: ' + (apps ? '#e3ded4' : 'transparent') + ';';
+    var item = function (id) {
+      var on = view === id;
+      return 'display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 8px 12px; min-height: 36px; border: 0; border-radius: 8px; cursor: pointer; text-align: left; font-size: 13.5px; background: ' + (on ? '#e3ded4' : 'transparent') + '; color: ' + (on ? '#1d1c1a' : '#45423c') + '; font-weight: ' + (on ? '500' : '400') + ';';
+    };
+    var go = function (id) { return function () { self.setState({ view: id }); }; };
+    var st = this.state;
+    var tog = function (k) { return function () { var o = {}; o[k] = !self.state[k]; self.setState(o); }; };
+    var chev = function (open) { return 'transition: transform 150ms; transform: rotate(' + (open ? '90deg' : '0deg') + ');'; };
+    return {
+      summary: sel === null,
+      a3: sel === 'a3',
+      d1: sel === 'd1',
+      el: sel === 'el',
+      appsOpen: apps,
+      leftOpen: st.left, rightOpen: st.right, leftClosed: !st.left, rightClosed: !st.right, anyClosed: !st.left || !st.right,
+      box3: 'padding: 12px 14px; border: 1px solid #c9c3b7; border-radius: 4px; background: #fdfcfa; font-size: 13.5px; line-height: 1.6; color: #1d1c1a; transition: box-shadow 200ms; box-shadow: ' + 'none' + ';',
+      box4: 'padding: 12px 14px; border: 1px solid #c9c3b7; border-radius: 4px; background: #fdfcfa; font-size: 13.5px; line-height: 1.6; color: #1d1c1a; transition: box-shadow 200ms; box-shadow: ' + ((sel === 'a3' || sel === 'd1') ? '0 0 0 3px #a34a28' : 'none') + ';', modelOpen: st.mOpen, model: st.model,
+      tLeft: tog('left'), tRight: tog('right'), tModel: tog('mOpen'),
+      mClaude: function () { self.setState({ model: 'Claude Opus 5.5', mOpen: false }); },
+      mAstra: function () { self.setState({ model: 'GPT-6 Astra', mOpen: false }); },
+      mCopilot: function () { self.setState({ model: 'Microsoft Copilot', mOpen: false }); },
+      gridStyle: 'display: grid; height: 844px; grid-template-columns: ' + (st.left ? '256px' : '0px') + ' minmax(0, 1fr) ' + (st.right ? '380px' : '0px') + '; transition: grid-template-columns 220ms ease;',
+      hasCtx: sel !== null,
+      ctxLabel: sel === 'a3' ? 'MC-4a.3' : (sel === 'd1' ? 'MC-4d.1' : (sel === 'el' ? 'EL-11.3' : '')),
+      draftLabel: sel === null ? 'Redraft all' : (sel === 'd1' ? 'Draft' : 'Redraft'),
+      chatPlaceholder: sel === null ? 'Ask about this application…' : 'Ask for a revision…',
+      oGrant: st.oGrant, oWork: st.oWork, oDel: st.oDel, oSrc: st.oSrc, addOpen: st.add, oRef: st.oRef, refAddOpen: st.addRef,
+      tGrant: tog('oGrant'), tWork: tog('oWork'), tDel: tog('oDel'), tSrc: tog('oSrc'), tAdd: tog('add'), tRef: tog('oRef'), tRefAdd: tog('addRef'),
+      cGrant: chev(st.oGrant), cWork: chev(st.oWork), cDel: chev(st.oDel), cSrc: chev(st.oSrc), cRef: chev(st.oRef),
+      a3Style: yellow,
+      d1Style: red,
+      appsBtnStyle: appsBtn,
+      leftWrap: 'min-width: 0; overflow: hidden; height: 844px; ' + (st.left ? 'visibility: visible; transition: visibility 0s;' : 'visibility: hidden; transition: visibility 0s 220ms;'),
+      rightWrap: 'min-width: 0; overflow: hidden; height: 844px; display: flex; justify-content: flex-end; ' + (st.right ? 'visibility: visible; transition: visibility 0s;' : 'visibility: hidden; transition: visibility 0s 220ms;'),
+      drawerStyle: 'position: absolute; top: 0; left: 0; z-index: 20; width: 320px; height: 900px; display: flex; flex-direction: column; background: #fbfaf7; border-right: 1px solid #e3ded4; box-shadow: 0 16px 48px rgba(29, 28, 26, 0.16); transition: transform 220ms ease, visibility 0s ' + (apps ? '0s' : '220ms') + '; transform: translateX(' + (apps ? '0' : '-100%') + '); visibility: ' + (apps ? 'visible' : 'hidden') + ';',
+      scrimStyle: 'position: absolute; inset: 0; z-index: 15; border: 0; padding: 0; background: rgba(29, 28, 26, 0.18); cursor: default; transition: opacity 220ms ease, visibility 0s ' + (apps ? '0s' : '220ms') + '; opacity: ' + (apps ? '1' : '0') + '; visibility: ' + (apps ? 'visible' : 'hidden') + ';',
+      vDraft: view === 'draft', vGuide: view === 'guide', vForm: view === 'form', vReqs: view === 'reqs',
+      vDigest: view === 'digest', vMinutes: view === 'minutes', vPlan: view === 'plan', vFin: view === 'fin',
+      sDraft: item('draft'), sGuide: item('guide'), sForm: item('form'), sReqs: item('reqs'),
+      sDigest: item('digest'), sMinutes: item('minutes'), sPlan: item('plan'), sFin: item('fin'), sInert: item('none'),
+      goDraft: go('draft'), goGuide: go('guide'), goForm: go('form'), goReqs: go('reqs'),
+      goDigest: go('digest'), goMinutes: go('minutes'), goPlan: go('plan'), goFin: go('fin'),
+      toggleApps: function () { self.setState({ apps: !self.state.apps }); },
+      pickA3: function () { self.setState({ sel: 'a3', view: 'draft' }); },
+      pickD1: function () { self.setState({ sel: 'd1', view: 'draft' }); },
+      pickEl: function () { self.setState({ sel: 'el', view: 'draft' }); },
+      clear: function () { self.setState({ sel: null }); }
+    };
+  }
+}
+</script>
+</body>
+</html>

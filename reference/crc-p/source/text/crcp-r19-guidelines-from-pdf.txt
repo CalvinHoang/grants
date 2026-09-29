@@ -1,0 +1,1860 @@
+  
+ 
+ 
+ 
+ 
+Grant Opportunity Guidelines  
+ 
+  Template Version – May 2023 
+OFFICIAL
+OFFICIAL
+Cooperative Research 
+Centres Program: 
+Cooperative Research 
+Centres Projects (CRC-P) 
+Grants Round 19 
+ 
+Opening date: 18 March 2026 
+Closing date and time: 5.00pm Australian Eastern Standard Time on 12 May 2026 
+Please take account of time zone differences when 
+submitting your application. 
+Commonwealth policy 
+entity: 
+Department of Industry, Science and Resources 
+Enquiries: If you have any questions, contact us on 13 28 46. 
+Date guidelines released: 18 March 2026 
+Type of grant opportunity: Open competitive 
+ 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   2 
+OFFICIAL
+OFFICIAL
+Contents 
+1. Cooperative Research Centres Program: Cooperative Research Centres Projects 
+(CRC-P) Round 19 processes ................................................................................ 5 
+1.1. Introduction ...................................................................................................... 7 
+2. About the grant program ....................................................................................... 7 
+3. Grant amount and grant period ............................................................................. 8 
+3.1. Grants available ................................................................................................ 8 
+3.2. Project period .................................................................................................... 9 
+4. Eligibility criteria .................................................................................................. 9 
+4.1. Who is eligible to apply for a grant? .................................................................... 9 
+4.2. Additional eligibility requirements .................................................................... 10 
+4.3. Who is not eligible to apply for a grant? ............................................................. 10 
+5. What the grant money can be used for ................................................................. 11 
+5.1. Eligible grant activities ..................................................................................... 11 
+5.2. Eligible expenditure ......................................................................................... 11 
+6. The assessment criteria ..................................................................................... 12 
+6.1. Assessment criterion 1 .................................................................................... 12 
+6.2. Assessment criterion 2 .................................................................................... 12 
+6.3. Assessment criterion 3 .................................................................................... 13 
+6.4. Assessment criterion 4 .................................................................................... 13 
+7. How to apply...................................................................................................... 13 
+7.1. Attachments to the application ........................................................................ 14 
+7.2. Timing of grant opportunity processes .............................................................. 15 
+7.3. Questions during the application process ........................................................ 15 
+8. The grant selection process ................................................................................ 15 
+8.1. Who will assess applications? ......................................................................... 15 
+8.2. Assessment of grant applications .................................................................... 15 
+8.3. Who will approve grants? ................................................................................. 17 
+9. Notification of application outcomes .................................................................. 17 
+10. Successful grant applications ............................................................................. 17 
+10.1. The grant agreement ........................................................................................ 17 
+10.2. Standard grant agreement ............................................................................... 17 
+10.3 Partner agreement ........................................................................................... 18 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   3 
+OFFICIAL
+OFFICIAL
+10.4 Partner governance ......................................................................................... 18 
+10.5 Intellectual Property ........................................................................................ 18 
+10.6 Specific legislation, policies and industry standards ......................................... 18 
+10.7 How we pay the grant....................................................................................... 19 
+10.8 Grant Payments and GST ................................................................................. 19 
+11. Announcement of grants .................................................................................... 20 
+12. How we monitor your grant activity ..................................................................... 20 
+12.1. Keeping us informed ........................................................................................ 20 
+12.2. Reporting ........................................................................................................ 21 
+12.2.1. Progress reports .................................................................................. 21 
+12.2.2. Ad-hoc reports .................................................................................... 21 
+12.2.3. End of project report ............................................................................ 21 
+12.2.4. Post project report ............................................................................... 22 
+12.3. Independent financial audit report ................................................................... 22 
+12.4. Grant agreement variations .............................................................................. 22 
+12.5. Compliance visits ............................................................................................ 23 
+12.6. Record keeping ............................................................................................... 23 
+12.7. Evaluation ....................................................................................................... 23 
+12.8. Acknowledgement ........................................................................................... 23 
+13. Probity .............................................................................................................. 23 
+13.1. Enquiries and feedback ................................................................................... 23 
+13.2. Conflicts of interest ......................................................................................... 24 
+13.3. Privacy ............................................................................................................ 25 
+13.4. Confidential information .................................................................................. 25 
+13.5. Freedom of information ................................................................................... 26 
+13.6. National security ............................................................................................. 26 
+13.6.1. Know Your Partner ............................................................................... 27 
+13.6.2. Export Controls ................................................................................... 27 
+13.6.3. Foreign Affiliations ............................................................................... 27 
+13.6.4. Foreign Government Affiliations ........................................................... 27 
+13.6.5. Intellectual property rights ................................................................... 28 
+13.7. Disclosure of Commonwealth, state or territory financial penalties ................... 28 
+14. Glossary ............................................................................................................ 29 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   4 
+OFFICIAL
+OFFICIAL
+Appendix A. Government Priorities ........................................................................ 35 
+A.1 Artificial intelligence systems and technologies ................................................ 35 
+A.2 National Reconstruction Fund Priority Areas .................................................... 35 
+A.3 National Science and Research Priorities ......................................................... 36 
+A.3.1 Priority 1: Transitioning to a net zero future ........................................... 36 
+A.3.2 Priority 2: Supporting healthy and thriving communities ........................ 36 
+A.3.3 Priority 3: Elevating Aboriginal and Torres Strait Islander knowledge 
+systems .......................................................................................................... 37 
+A.3.4 Priority 4: Protecting and restoring Australia’s environment ................... 37 
+A.3.5 Priority 5: building a secure and resilient nation .................................... 37 
+Appendix B. Total eligible project expenditure and applicant contributions .............. 39 
+B.1 How we calculate your total eligible project expenditure ................................... 39 
+B.2 Applicant contributions ................................................................................... 39 
+Appendix C. Eligible expenditure ........................................................................ 40 
+C.1 How we verify eligible expenditure.................................................................... 40 
+C.2 Eligible expenditure items ................................................................................ 40 
+C.3 Labour expenditure ......................................................................................... 41 
+C.4 Labour on-costs and administrative overhead .................................................. 42 
+C.5 Contract expenditure ....................................................................................... 42 
+C.6 Travel  expenditure .......................................................................................... 43 
+C.7 Overseas expenditure ...................................................................................... 43 
+C.8 Independent audit costs .................................................................................. 44 
+The cost of an independent audit of project expenditure up to a maximum of 1 per cent of 
+total eligible project expenditure. ................................................................................ 44 
+Appendix D. In-kind contributions ...................................................................... 45 
+Appendix E. Ineligible expenditure ........................................................................ 46 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   5 
+OFFICIAL
+OFFICIAL
+1. Cooperative Research Centres Program: 
+Cooperative Research Centres Projects (CRC-P) 
+Round 19 processes 
+The CRC-P Program is designed to achieve Australian Government objectives  
+This grant opportunity is part of the above grant program which contributes to the 
+Department of Industry, Science and Resources’ Outcome 1: Support economic growth, 
+productivity and job creation for all Australians by investing in science and technology, 
+growing innovative and competitive businesses, industries and regions, and supporting a 
+strong resources sector. The Department of Industry, Science and Resources works with 
+stakeholders to plan and design the grant program according to the Commonwealth Grants 
+Rules and Principles (CGRPs). 
+
+The grant opportunity opens 
+We publish the grant guidelines on business.gov.au and GrantConnect. 
+
+You complete and submit a grant application 
+You complete the application form , addressing all of the eligibility and assessment criteria in 
+order for your application to be considered. 
+
+We assess all grant applications 
+We review the applications against eligibility criteria and notify you if you are not eligible. 
+The CRC Advisory Committee (the committee) assess eligible applications against the 
+assessment criteria including an overall consideration of value with relevant money and 
+compare it to other eligible applications. 
+
+The committee make grant recommendations 
+The committee provide advice to the decision maker on the merits of each application.  
+
+Grant decisions are made 
+The decision maker decides which applications are successful. 
+
+We notify you of the outcome 
+We advise you of the outcome of your application.  
+
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   6 
+OFFICIAL
+OFFICIAL
+
+We enter into a grant agreement 
+We will enter into a grant agreement with successful applicants. 
+
+Delivery of grant 
+You undertake the grant activity as set out in your grant agreement. We manage the grant by 
+working with you, monitoring your progress and making payments. 
+
+Evaluation of the CRC-P Program 
+We evaluate your specific grant activity and the Cooperative Research Centres (CRC) 
+Program as a whole. We base this on information you provide to us and that we collect from 
+various sources.  
+  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   7 
+OFFICIAL
+OFFICIAL
+1.1. Introduction 
+These guidelines contain information for the CRC-P Round 19 grant opportunity. 
+Round 19 is open to applications for short-term industry-led collaborative research in all 
+industry sectors, with a focus on Government priorities including the National Artificial 
+Intelligence (AI) Plan1,  National Reconstruction Fund (NRF)2 priority areas and the National 
+Science and Research Priorities3.  
+As part of the National AI Plan, the Government is establishing an ‘AI Accelerator’ component 
+of up to $20 million under Round 19. This funding seeks applications that develop or enhance 
+AI systems and technologies, to help accelerate the development and commercialisation of 
+AI by businesses and researchers across Australia. AI focused applications should support 
+Action 2 of the National AI Plan (Back Australian AI Capability) in sectors such as:  
+ healthcare  
+ agriculture 
+ resources and energy  
+ advanced manufacturing. 
+See Appendix A for more detail on Government priorities. 
+Meritorious applications submitted by eligible Aboriginal and Torres Strait Islander 
+organisations will be prioritised when recommending applications for funding. 
+This document sets out: 
+ the purpose of the grant program/grant opportunity 
+ the eligibility and assessment criteria 
+ how grant applications are considered and selected 
+ how grantees are notified and receive grant payments 
+ how grantees will be monitored and evaluated  
+ responsibilities and expectations in relation to the opportunity. 
+This grant opportunity and process will be administered by the Department of Industry, 
+Science and Resources (the department). 
+We have defined key terms used in these guidelines in the glossary at section 14. 
+You should read this document carefully before you fill out an application. 
+2. About the grant program 
+The Cooperative Research Centres Program (the program) supports industry-led 
+collaborations between industry, researchers and the community. The program is a proven 
+ 
+1 https://www.industry.gov.au/publications/national-ai-plan 
+2 https://www.nrf.gov.au/what-we-do/our-priority-areas  
+3 https://www.industry.gov.au/publications/national-science-and-research-priorities-2024  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   8 
+OFFICIAL
+OFFICIAL
+model for linking researchers with industry to focus on research and development towards 
+use and commercialisation. 
+The objectives of the program are to: 
+ improve the competitiveness, productivity and sustainability of Australian industries, 
+especially where Australia has a competitive strength, and in line with government 
+priorities  
+ foster high quality research to solve industry-identified problems through industry-led 
+and outcome-focused collaborative research partnerships between industry entities and 
+research organisations 
+ encourage and facilitate small and medium enterprise (SME) participation in 
+collaborative research. 
+The intended outcomes of the program are: 
+ establish industry-research sector collaborations 
+ SME participation in collaborative research 
+ collaborative research results 
+ research results relevant to government priorities 
+ increased research skills in industry and increased industry capability in research 
+ improved competitiveness and productivity for industry participating in CRCs and 
+CRC-Ps 
+ industry, research and other users valuing the program. 
+The program consists of two elements: 
+ Cooperative Research Centres (CRC) grants to support medium to long term, industry-
+led collaborations; and 
+ Cooperative Research Centres Projects (CRC-Ps) grants to support short term, industry-
+led collaborative research. 
+There will be other grant opportunities as part of this program and we will publish the opening 
+and closing dates and any other relevant information on business.gov.au and GrantConnect. 
+We administer the program according to the Commonwealth Grants Rules and Principles 
+(CGRPs)4. 
+3. Grant amount and grant period 
+3.1. Grants available 
+The Australian Government has committed a total of $847 million over four years for the 
+program from 2025-26 to 2028-29. CRCs and CRC-Ps are funded by the same appropriation. 
+There is no specific amount allocated to each of the two funding streams. 
+There is no specific amount of funding allocated to each CRC-P round, however past rounds 
+have totalled approximately $30 million to $50 million. As outlined in the National AI Plan, 
+CRC-P Round 19 will include an ‘AI Accelerator’ component, providing up to  
+ 
+4 Federal Register of Legislation - Commonwealth Grants Rules and Principles 2024 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   9 
+OFFICIAL
+OFFICIAL
+$20 million in funding specifically for applications that develop or enhance AI systems and 
+technologies (see Appendix A.1 for specifics). The number of CRC-Ps that will be funded in 
+each round (and the total amount of funding committed) will depend on the number of 
+applications received, the relative merits of applications, the amount of funding requested, 
+the amount of available funding and the need to ensure sufficient funding is available for 
+future rounds.  
+ The minimum grant amount is $100,000. 
+ The maximum grant amount is $3 million. 
+You are required to contribute towards your project. The grant amount will be up to 50 per 
+cent of total eligible project expenditure (grant percentage), which includes the eligible 
+expenditure (Appendix C) plus allowable in-kind contributions (Appendix D). The remaining 
+eligible project costs not covered by the grant amount must be covered by you and your 
+partner’s contributions.  
+Commonwealth, state, territory or local government grants (other than the CRC-P grant) may 
+be used as contributions to the project, subject to the rules under which those grants were 
+awarded.  
+Only CRC-Ps of exceptional merit are likely to be awarded the maximum grant amount of 
+$3 million. 
+Funding for this program is indexed. This indexation will be passed on to grantees and will be 
+applied to your grant payments each year. Notification of the amount to be paid will be given 
+in writing before the end of September each year. 
+3.2. Project period 
+The maximum project period is 3 years. 
+4. Eligibility criteria 
+We cannot consider your application if you do not satisfy all eligibility criteria. Specific CRC-P 
+Program definitions relating to partner eligibility requirements are included in the glossary. 
+The Program Delegate (who is a General Manager within the department with responsibility 
+for administering the program) makes the final decision about whether an application meets 
+the eligibility criteria and decisions will not be reviewed. 
+4.1. Who is eligible to apply for a grant? 
+Each CRC-P must be an industry-led collaboration with a SME lead applicant who is the main 
+driver of the project. Only an eligible lead applicant can submit an application on behalf of 
+the project partners. If your application is successful, the lead applicant is responsible for 
+managing the project on behalf of the collaboration. 
+To be an eligible lead applicant you must: 
+ have an Australian Business Number (ABN) 
+ be registered for the Goods and Services Tax (GST); and 
+ be a SME at lodgement of application (if you are part of a consolidated group for tax 
+purposes, the consolidated group must have less than 200 employees in total). 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   10 
+OFFICIAL
+OFFICIAL
+and be one of the following entities: 
+ an entity incorporated in Australia and a trading corporation, where your trading activities 
+ form a sufficiently significant proportion of the corporation’s overall activities as to 
+merit it being described as a trading corporation; or 
+ are a substantial and not merely peripheral activity of the corporation. 
+ an incorporated trustee on behalf of a trust where your trading activities 
+ form a sufficiently significant proportion of the corporation’s overall activities as to 
+merit it being described as a trading corporation; or 
+ are a substantial and not merely peripheral activity of the corporation. 
+A CRC-P application must include amongst its project partners at least: 
+ a lead applicant which is an Australian industry entity SME  
+ a second Australian industry entity of any size; and 
+ an Australian research organisation. 
+During the project period the CRC-P must maintain as project partners at least: 
+ two Australian industry entities (one of which is the lead partner); and 
+ one Australian research organisation. 
+A CRC-P may include further partners of any entity type, as long as the CRC-P includes the 
+minimum number of partners as described.  
+Partners do not need to commit resources for the entire project period. 
+All partners must make cash and/or in-kind contributions to the CRC-P. We treat partners’ 
+proposed cash and in-kind contributions equally for the purposes of calculating the 
+maximum grant amount.  
+4.2. Additional eligibility requirements 
+We can only accept applications: 
+ where you provide the signed trust deed of the lead applicant (if applying on behalf of a 
+trust). 
+Meritorious applications submitted by eligible Aboriginal and Torres Strait Islander 
+organisations will be prioritised when recommending applications for funding. In order to be 
+eligible for this prioritisation as an Aboriginal and Torres Strait Islander organisation, you 
+must:  
+ provide an Indigenous Corporation Number (ICN); or 
+ Supply Nation registration.  
+We cannot waive the eligibility criteria under any circumstances. 
+4.3. Who is not eligible to apply for a grant? 
+You are not eligible to apply if you are an organisation, or you have a project partner which is: 
+ included on the National Redress Scheme’s website on the list of ‘Institutions that have 
+not joined or signified their intent to join the Scheme’ 
+ an employer of 100 or more employees that has not complied with the Workplace Gender 
+Equality Act (2012). 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   11 
+OFFICIAL
+OFFICIAL
+ 
+You are not eligible to apply as lead applicant if you are: 
+ not a SME 
+ an individual 
+ a sole trader 
+ a partnership 
+ a research organisation or an entity whose primary purpose is to undertake research 
+ an unincorporated association 
+ a trust (however, an incorporated trustee may apply on behalf of a trust) 
+ a Commonwealth, state, territory or local government body (including government 
+business enterprises) 
+ an entity where the majority of your funding is from government grant programs  
+ an entity whose primary purpose is administrative or to provide support services to a 
+CRC-P 
+ a non-corporate Commonwealth entity; or 
+ any other organisation not included in section 4.1. 
+5. What the grant money can be used for 
+5.1. Eligible grant activities 
+To be eligible your project must: 
+ have at least $200,000 in total eligible project value 
+ be a short term, industry-identified and industry-led collaborative research project to 
+develop a product, service or process that will solve problems for industry and deliver 
+tangible outcomes 
+ benefit SMEs and increase their capacity to grow and adapt in changing markets; and  
+ include eligible activities (listed below). 
+Eligible activities must directly relate to the project and must include at least one of the 
+following: 
+ new research 
+ proof of concept activities  
+ pre-commercialisation of research outcomes 
+ industry-focused education and training activities, such as internships and secondments 
+between industry entities and research organisations 
+ conferences, workshops, and/or symposia related to the joint research 
+ information sharing and communication initiatives related to the joint research. 
+We may also approve other activities. Any additional activities must be in line with objectives 
+and outcomes in section 2. 
+5.2. Eligible expenditure 
+You can only spend grant funds on eligible expenditure you have incurred on agreed project 
+activities as defined in your grant agreement. 
+ For guidance on eligible expenditure, refer to Appendix C. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   12 
+OFFICIAL
+OFFICIAL
+ For guidance on in-kind contributions, refer to Appendix D. 
+ For guidance on ineligible expenditure, refer to Appendix E. 
+We may update the guidelines on eligible and ineligible expenditure and in-kind contributions 
+from time to time. If your application is successful, the version in place when you submitted 
+your application applies to your project. 
+Not all expenditure on your project may be eligible for grant funding. The Program Delegate 
+makes the final decision on what is eligible expenditure and may give additional guidance on 
+eligible expenditure if required. 
+To be eligible, expenditure must: 
+ be incurred by you or your partners within the agreement period 
+ be a direct cost of the project or be incurred for project audit activities; and 
+ meet the eligible expenditure guidelines. 
+You may elect to commence your project from the date we notify you that your application is 
+successful. We are not responsible for any expenditure you incur until a grant agreement is 
+executed. The Commonwealth will not be liable, and should not be held out as being liable, 
+for any activities undertaken before the grant agreement is executed. 
+6. The assessment criteria 
+You must address all assessment criteria in your application. We will assess your application 
+based on the weighting given to each indicator under each assessment criterion.  
+The application form asks questions that relate to the assessment criteria below. The 
+amount of detail and supporting evidence you provide in your application should be relative 
+to the project size, complexity and grant amount requested. You should provide evidence to 
+support your answers. The application form displays character limits for each response. 
+We will only consider funding applications that are competitive against each assessment 
+criterion. 
+6.1. Assessment criterion 1 
+Project alignment with the program objectives (25 points) 
+You should demonstrate this by describing:  
+a. how your project will address an industry-identified problem, improve the 
+competitiveness, productivity and sustainability of Australian industries and the extent of 
+alignment with government priorities (refer to Appendix A) (10 points) 
+b. how your project will foster high quality research through industry-led and outcome-
+focused collaborative industry-research partnerships (8 points) 
+c. how your project will encourage and facilitate SME participation (7 points). 
+6.2. Assessment criterion 2 
+The quality of your project (25 points) 
+You should demonstrate this by describing: 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   13 
+OFFICIAL
+OFFICIAL
+a. the research you will do and the methodologies you will use, including describing the role 
+of your partners in the project (10 points) 
+b. how your research will address the identified problem, build on the current body of 
+knowledge and enhance the adoption of new technologies (8 points) 
+c. the education and training opportunities your project will provide to build capability and 
+capacity in the industry and research sectors (7 points). 
+6.3. Assessment criterion 3 
+Capacity, capability and resources to deliver your project (25 points) 
+You should demonstrate this by describing:  
+a. how you will manage and monitor your project, explaining the governance and planning 
+arrangements, including security (8 points) 
+b. how you will manage risks, including but not limited to security (in particular any 
+associated national security issues), involvement of international partners and 
+intellectual property protection (7 points) 
+c. your access to required resources including personnel with the right skills and 
+experience, funding, security, infrastructure, technology and intellectual property 
+(10 points). 
+6.4. Assessment criterion 4 
+Impact of the grant funding on your project (25 points) 
+You should demonstrate this by explaining: 
+a. how the grant will impact the project in terms of scale and timing. This should include 
+justification for the funding amount requested and whether the project could proceed 
+without Australian Government funding (6 points) 
+b. the total investment the grant will leverage and why the Australian Government should 
+invest in your project, including how grant benefits will be substantially retained in 
+Australia (6 points) 
+c. how your project will have a positive impact for communities and businesses in regional 
+and remote Australia (4 points)  
+d. the commercial potential of your project, including the expected commercial outputs 
+such as new products, processes or services, any expected spill over benefits and plans 
+at the end of the project (9 points). 
+7. How to apply 
+Before applying you should read and understand these guidelines, the sample application 
+form and the sample grant agreement published on business.gov.au and GrantConnect.  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   14 
+OFFICIAL
+OFFICIAL
+Applicants should read all eligibility and assessment criteria closely. Any alterations and 
+addenda5 will be published on GrantConnect and by registering on this website, you will be 
+automatically notified of any changes. GrantConnect is the authoritative source for grants 
+information. 
+You will need to set up an account to access our online portal. The portal allows you to apply 
+for and manage a grant or service in a secure online environment. 
+You can only submit an application when a funding round is open. 
+To apply, you must: 
+ complete and submit the application through the online portal  
+ provide all the information requested  
+ address all eligibility and assessment criteria  
+ include all necessary attachments (see section 7.1). 
+You are responsible for making sure your application is complete and accurate. Giving false 
+or misleading information is a serious offence under the Criminal Code Act 1995. If we 
+consider that you have provided false or misleading information we may not progress your 
+application. If you have submitted an application with misleading information or if the 
+circumstances of the project change materially, you should call us immediately on 13 28 46.  
+After submitting your application, we may contact you for clarification if we find an error or 
+any missing information, including evidence that supports your eligibility/merit. The 
+acceptance of any additional information provided after the submission of your application is 
+at the discretion of the Program Delegate. Additional information should not materially 
+change your application at the time it was submitted and therefore may be refused if deemed 
+to be purely supplementary. 
+If you need further guidance around the application process, or if you have any issues with 
+the portal, contact us at business.gov.au or by calling 13 28 46. 
+7.1. Attachments to the application 
+You must provide the following documents with your application: 
+ trust deed for the lead applicant (where applicable) 
+ evidence the lead applicant is an eligible Aboriginal and Torres Strait Islander 
+organisation (where applicable). 
+You must attach supporting documentation to the application form in line with the 
+instructions provided within the form. You should only attach requested documents. The 
+total of all attachments cannot exceed 50MB. We will not consider information in 
+attachments that we do not request. 
+ 
+5 Alterations and addenda include but are not limited to: corrections to currently published documents, changes to close times 
+for applications and Frequently Asked Questions (FAQ) documents. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   15 
+OFFICIAL
+OFFICIAL
+7.2. Timing of grant opportunity processes 
+You can only submit an application between the published opening and closing dates. We 
+cannot accept late applications.  
+If you are successful, we expect you will be able to commence your project around August 
+2026. 
+Table 1: Expected timing for this grant opportunity  
+Activity Timeframe 
+Assessment of applications 10 weeks  
+Approval and announcement of successful 
+applicants  
+August 2026 
+Negotiations and award of grant agreements 30 days 
+Notification to unsuccessful applicants August 2026 
+Earliest start date of grant activity  From the date of the letter of offer 
+End date of grant commitment  Up to 3 years after the start date 
+7.3. Questions during the application process 
+If you have any questions during the application period, contact us at business.gov.au or by 
+calling 13 28 46. 
+8. The grant selection process 
+8.1. Who will assess applications? 
+We refer your application to the Cooperative Research Centres Advisory Committee (the 
+committee), an independent committee of experts that reports to Industry Innovation and 
+Science Australia, an independent statutory board. You can find details on the current 
+composition of Industry Innovation and Science Australia and its committees including the 
+Cooperative Research Centres Advisory Committee on industry.gov.au.  The committee may 
+also seek additional advice from independent technical experts, including relevant 
+Commonwealth departments and agencies. Commonwealth Officials, and any expert who is 
+not a Commonwealth Official, will be required to perform their duties in accordance with the 
+CGRPs.  
+8.2. Assessment of grant applications 
+We first review your application against the eligibility criteria. If eligible, we refer your 
+application to the committee. Only eligible applications will proceed to the assessment 
+stage. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   16 
+OFFICIAL
+OFFICIAL
+The committee will then assess your application against the assessment criteria (see 
+section 6) and against other applications. The committee will consider your application on its 
+merits, based on: 
+ how well it meets the criteria  
+ how it compares to other applications 
+ whether it provides value with money.6 
+When assessing the extent to which the application represents value with money, the 
+committee will have regard to:  
+ the overall objectives of the grant opportunity 
+ the evidence provided to demonstrate how your project contributes to meeting those 
+objectives 
+ the relative value of the grant sought. 
+The committee will rank suitable applications in order of merit. The following meritorious 
+applications will be prioritised for funding recommendations: 
+ applications that develop or enhance AI systems and technologies (up to $20 million in 
+total) 
+ applications submitted by eligible Aboriginal and Torres Strait Islander organisations.  
+For other meritorious applications, to support diversity of projects across NRF priority areas, 
+funding in any single priority area will be capped at approximately 20 per cent of available 
+funding for the round. 
+If applications are scored the same and total project costs exceed available funding, the 
+committee will consider value with money, geographical distribution and alignment to the 
+program objectives to recommend applications for funding. 
+The committee will also consider any financial, legal/regulatory, governance, national 
+interest, national security or other issue or risk that we identify regarding you, project 
+partners, related body corporates, related entities and associated entities (as defined in the 
+Corporations Act 2001) and related personnel. 
+If the committee identifies risks which would affect the assessment, it may ask you to 
+comment on these, subject to security considerations. If the committee identifies risks that 
+cannot be adequately mitigated, it may exclude your application from further consideration. 
+The department or the committee may seek additional information about you, project 
+partners, related bodies corporate, related entities and associated entities (as defined in the 
+Corporations Act) and related personnel from third party sources, including other 
+Commonwealth agencies, for due diligence purposes. The committee may also consider 
+information that is discovered through the normal course of business. 
+Due diligence checks may occur at eligibility, merit or decision-making stages. We use this 
+information to verify the information you provide in the application and to identify issues and 
+risks. See section 13.3 for information on how we use the information you provide to us. 
+ 
+6 See glossary for an explanation of ‘value with money’. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   17 
+OFFICIAL
+OFFICIAL
+If the selection process identifies unintentional errors in your application, we may contact 
+you to correct or clarify the errors, but you cannot make any material alteration or additions.  
+8.3. Who will approve grants? 
+The Minister decides which grants to approve taking into account the recommendations of 
+the committee and the availability of grant funds. 
+The Minister’s decision is final in all matters, including: 
+ the grant approval 
+ the grant funding to be awarded 
+ any conditions attached to the offer of grant funding 
+We cannot review decisions about the merits of your application. 
+The Minister will not approve funding if there are insufficient program funds available across 
+relevant financial years for the program. 
+9. Notification of application outcomes 
+We will advise you of the outcome of your application in writing. If you are successful, we will 
+advise you of any specific conditions attached to the grant. 
+10. Successful grant applications 
+10.1. The grant agreement 
+You must enter into a legally binding grant agreement with the Commonwealth.  
+The grant agreement has general terms and conditions that cannot be changed. A sample 
+grant agreement is available on business.gov.au and GrantConnect. 
+We will manage the grant agreement through the online portal. This includes issuing and 
+executing the grant agreement.  
+Execute means both you and the Commonwealth have accepted the agreement. We are not 
+responsible for any expenditure you incur, and cannot make any payments, until a grant 
+agreement is executed. 
+The approval of your grant may have specific conditions determined by the assessment 
+process or other considerations made by the Minister. We will identify these in the offer of 
+grant funding.  
+The Commonwealth may recover grant funds if there is a breach of the grant agreement. 
+10.2. Standard grant agreement 
+We will use a standard grant agreement. 
+You will have 30 days from the date of a written offer to execute this grant agreement with the 
+Commonwealth. During this time, we will work with you to finalise details. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   18 
+OFFICIAL
+OFFICIAL
+The offer may lapse if both parties do not accept the grant agreement within this time. Under 
+certain circumstances, we may extend this period. We base the approval of your grant on the 
+information you provide in your application. We will review any required changes to these 
+details to ensure they do not impact the project as approved by the Minister. 
+10.3 Partner agreement 
+If successful, partners in the relevant CRC-P are required to enter into a partner’s agreement 
+and have certain obligations. The partners’ agreement must cover all matters as required by 
+the grant agreement. You will have 60 days from the execution or commencement of the 
+grant agreement whichever is the later, to execute a partner’s agreement with all partners. 
+Under certain circumstances, we may extend this period. Partner agreements (and any 
+updates during the course of the project) must be submitted to the department.  
+A template partner agreement is available at business.gov.au or on request, which you may 
+customise for your CRC-P requirements. Its use is not mandatory. 
+10.4 Partner governance 
+CRC-Ps must have a sound governance model with suitable arrangements to deliver the 
+proposed results. 
+You need to ensure you have fully considered the legal and taxation implications of the 
+governance structure. 
+10.5 Intellectual Property  
+Applicants must outline intellectual property (IP) arrangements in their applications. This 
+includes both the use of IP in the project and the proposed ownership rights to IP generated 
+by the project.  
+You and your project partners must negotiate arrangements and procedures for using and 
+handling all IP created through the CRC-P, in a manner that is fair to all partners and 
+beneficial to Australia. This may include the allocation of IP rights, or of income from IP, 
+between you and your partners. You or your partners may wish to consult IP Australia’s IP 
+Toolkit for Collaboration, which is available at business.gov.au. Additional information on IP 
+requirements is outlined in section 13.6.5. 
+Partner agreements must outline how ownership of intellectual property will be managed 
+amongst project partners. 
+10.6 Specific legislation, policies and industry standards 
+You must comply with all relevant laws, regulations and Australian Government sanctions in 
+undertaking your project. You must also comply with the specific 
+legislation/policies/industry standards that follow. It is a condition of the grant funding that 
+you meet these requirements. We will include these requirements in your grant agreement. 
+In particular, you will be required to comply with: 
+ the NHMRC/ARC/UA Australian Code for the Responsible Conduct of Research (2018 or 
+subsequent updates), co-authored by the NHMRC, Australian Research Council (ARC) 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   19 
+OFFICIAL
+OFFICIAL
+and Universities Australia (UA) and, if applicable, the NHMRC/ARC/UA National 
+Statement on Ethical Conduct in Human Research (updated in 2018 or subsequent 
+updates) 
+ all relevant ethics codes and guidelines adopted by the National Health and Medical 
+Research Council (NHMRC), the Office of the Gene Technology Regulator, and all other 
+relevant regulatory agencies operating in Australia and in any place in which the research 
+is being conducted 
+ State/territory legislation in relation to working with children (if applicable to your project) 
+ Commonwealth laws relating to the export of controlled goods. Information regarding 
+export controls legislation is available at Defence Export Controls (DEC) 
+ AIATSIS Code of Ethics for Aboriginal & Torres Strait Islander Research 
+ relevant Commonwealth and state/territory legislation, policies, and protocols in relation 
+to the collection and use of Traditional and Cultural knowledge; and biodiscovery 
+ the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). 
+10.7 How we pay the grant 
+The grant agreement will state the: 
+ maximum grant amount we will pay 
+ proportion of eligible expenditure covered by the grant (grant percentage) 
+ any in-kind contributions you or your project partners will make 
+ any financial contribution provided by you or that your project partners will make. 
+We will not exceed the maximum grant amount under any circumstances. If you incur extra 
+costs, you must meet them yourself. 
+We will make quarterly payments, according to an agreed schedule set out in the grant 
+agreement. Payments are subject to satisfactory progress on the project. 
+Indexation is a component of the grant payments and the grant agreement will outline how 
+and when indexation will be paid. 
+We set aside five per cent of the total grant funding for the final payment. We will pay this 
+when you submit a satisfactory end of project report demonstrating you have completed 
+outstanding obligations for the project.  
+10.8 Grant Payments and GST 
+We will add GST to your grant payment and provide you with a recipient created tax invoice. 
+You are required to notify us if your GST registration status changes during the project period. 
+GST does not apply to grant payments to government related entities7. 
+Grants are assessable income for taxation purposes, unless exempted by a taxation law. We 
+recommend you seek independent professional advice on your taxation obligations or seek 
+assistance from the Australian Taxation Office. We do not provide tax advice. 
+ 
+7 See Australian Taxation Office ruling GSTR 2012/2 available at ato.gov.au 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   20 
+OFFICIAL
+OFFICIAL
+11. Announcement of grants 
+If successful, your grant will be listed on the GrantConnect website within 21 calendar days 
+after the date of effect.  
+We will publish non-sensitive details of successful projects on GrantConnect. We are 
+required to do this by the Commonwealth Grants Rules and Principles, section 5.4. We may 
+also publish this information on business.gov.au. This information may include: 
+ name of your organisation 
+ title of the project 
+ description of the project and its aims 
+ amount of grant funding awarded 
+ grant term 
+ Australian Business Number 
+ business location 
+ your organisation’s industry sector 
+ project partners 
+ total project value. 
+12. How we monitor your grant activity 
+12.1. Keeping us informed 
+You should let us know if anything is likely to affect your project or organisation.  
+We need to know of any key changes to your organisation or its business activities, 
+particularly if they affect your ability to complete your project, carry on business and pay 
+debts due. 
+You must also inform us of any changes to your: 
+ name 
+ addresses 
+ nominated contact details 
+ bank account details. 
+You must also inform us of any material changes in the circumstances of project participants 
+including but not limited to: 
+ significant changes to company ownership or structure 
+ changes in financial and in-kind support contributions 
+ affiliations with foreign governments, including foreign militaries, intelligence 
+organisations, police forces and government-owned or sponsored organisations (see 
+section 13.6). 
+If you become aware of a breach of terms and conditions under the grant agreement, you 
+must contact us immediately.  
+You must notify us of events relating to your project and provide an opportunity for the 
+Minister or their representative to attend. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   21 
+OFFICIAL
+OFFICIAL
+12.2. Reporting 
+You must submit reports in line with the grant agreement. We will provide the requirements 
+for these reports as appendices in the grant agreement. We will remind you of your reporting 
+obligations before a report is due. We will expect you to report on: 
+ progress against agreed project milestones and outcomes 
+ project expenditure, including expenditure of grant funds 
+ contributions of project partners directly related to the project. 
+The amount of detail you provide in your reports should be relative to the project size, 
+complexity and grant amount.  
+We will monitor the progress of your project by assessing reports you submit and may 
+conduct site visits to confirm details of your reports if necessary. Occasionally we may need 
+to re-examine claims, seek further information or request an independent audit of claims and 
+payments.  
+12.2.1. Progress reports 
+Progress reports must: 
+ include details of your progress towards completion of agreed project activities 
+ provide the total partner cash and in-kind contributions provided in the reporting period 
+ provide the total eligible project expenditure incurred in the reporting period 
+ provide evidence of expenditure (if requested) 
+ be submitted by the report due date (you can submit reports ahead of time if you have 
+completed relevant project activities). 
+We will only make grant payments when we receive satisfactory progress reports.  
+You must discuss any project or milestone reporting delays with us as soon as you become 
+aware of them.  
+12.2.2. Ad-hoc reports 
+We may ask you for ad-hoc reports on your project. This may be to provide an update on 
+progress, or any significant delays or difficulties in completing the project. 
+12.2.3. End of project report 
+When you complete the project, you must submit an end of project report. 
+End of project reports must: 
+ include the agreed evidence as specified in the grant agreement 
+ provide the total partner cash and in-kind contributions in the final reporting period 
+ provide total eligible project expenditure incurred for the final reporting period 
+ include a declaration that the grant money was spent in accordance with the grant 
+agreement and to report on any underspends of the grant money 
+ be submitted by the report due date and include the independent financial audit (see 
+section 12.3). 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   22 
+OFFICIAL
+OFFICIAL
+12.2.4. Post project report 
+One year after you complete the project, you must submit a post-project report. Post-project 
+reports must: 
+ include the agreed evidence as specified in the grant agreement  
+ be submitted by the report due date. 
+12.3.  Independent financial audit report 
+We will ask you to provide an independent financial audit report with the submission of the 
+end of project report. An audit report will verify that you spent the grant in accordance with 
+the grant agreement. The audit report requires you to prepare a statement of grant income 
+and expenditure. The report must be audited by: 
+ a Registered Company Auditor registered under the Corporations Act 2001 (Cth); or 
+ a certified Practising Accountant; or 
+ a member of the Institute of Public Accountants; or 
+ a member of Chartered Accountants Australia and New Zealand; 
+ who is not a principal member, shareholder, officer or employee of the Grantee or a 
+related body corporate. 
+12.4. Grant agreement variations 
+We recognise that unexpected events may affect project progress. In these circumstances, 
+you can request a variation to your grant agreement, including: 
+ changing project milestones 
+ extending the timeframe for completing the project, you must clearly justify your need to 
+extend your project 
+ changing project activities and outcomes 
+ changing project partners. 
+The program does not allow for: 
+ an increase of grant funds. 
+If you want to propose changes to the grant agreement, you must put them in writing before 
+the grant agreement end date. A variation application form is available on business.gov.au.  
+If a delay in the project causes milestone achievement and payment dates to move to a 
+different financial year, you may need a variation to the grant agreement. We can only move 
+funds between financial years if there is enough program funding in the relevant year to allow 
+for the revised payment schedule. If we cannot move the funds, you may lose some grant 
+funding. 
+You should not assume that a variation request will be successful. We will consider your 
+request based on factors such as: 
+ how it affects the project outcome 
+ consistency with the program policy objective, grant opportunity guidelines and any 
+relevant policies of the department 
+ changes to the timing of grant payments 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   23 
+OFFICIAL
+OFFICIAL
+ availability of program funds. 
+12.5. Compliance visits 
+We may visit you during the project period, or at the completion of your project to review your 
+compliance with the grant agreement. We will provide you with reasonable notice of any 
+compliance visit. 
+12.6. Record keeping 
+We may also inspect the records you are required to keep under the grant agreement.  
+12.7. Evaluation 
+We will evaluate the grant program to measure how well the outcomes and objectives have 
+been achieved. We may use information from your application and project reports for this 
+purpose. We may also interview you, or ask you for more information to help us understand 
+how the grant impacted you and to evaluate how effective the program was in achieving its 
+outcomes. 
+We may contact you up to five years after you finish your project for more information to 
+assist with this evaluation.  
+12.8. Acknowledgement 
+You must not make any public announcement, including by social media, in connection with 
+the awarding of your grant until the Minister has publicly announced the outcome of the 
+round or as otherwise instructed by us.  
+If you make a public statement about a project funded under the program, including in a 
+publication or through social media, at a minimum you must acknowledge the grant by using 
+the following: 
+‘This project received grant funding from the Australian Government.’ 
+If you erect signage in relation to the project, the signage must contain an acknowledgement 
+of the grant. 
+13. Probity 
+We will make sure that the grant opportunity process is fair, according to the published 
+guidelines, incorporates appropriate safeguards against fraud, unlawful activities and other 
+inappropriate conduct and is consistent with the CGRPs. 
+13.1. Enquiries and feedback 
+For further information or clarification, you can contact us on 13 28 46 or by web chat or 
+through our online enquiry form on business.gov.au. 
+We may publish answers to your questions on our website as Frequently Asked Questions. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   24 
+OFFICIAL
+OFFICIAL
+Our Customer Service Charter is available at business.gov.au. We use customer satisfaction 
+surveys to improve our business operations and service. 
+If you have a complaint, call us on 13 28 46. We will refer your complaint to the appropriate 
+manager. 
+If you are not satisfied with the way we handle your complaint, you can contact:  
+General Manager  
+Business Grants Hub 
+Department of Industry, Science and Resources 
+GPO Box 2013 
+CANBERRA ACT 2601 
+You can also contact the Commonwealth Ombudsman8 with your complaint 
+(call  1300  362 072). There is no fee for making a complaint, and the Ombudsman may 
+conduct an independent investigation. 
+13.2. Conflicts of interest 
+Any conflicts of interest could affect the performance of the grant opportunity and/or 
+program. There may be a conflict of interest, or perceived conflict of interest, if any individual 
+or entity9 involved in assessing, funding, administering or undertaking the project: 
+ has a professional, commercial or personal relationship with a party which is able to 
+influence the application selection process, such as an Australian Government officer or 
+member of an external panel 
+ has a relationship with, or interest in, a party which could prevent the activity from being 
+carried out fairly and independently or otherwise compromise the integrity of the activity 
+or its participants 
+ has a relationship with, or interest in, a party from which they could receive personal gain 
+because the party receives a grant under the grant program/grant opportunity. 
+As part of your application, we will ask you to declare any perceived or existing conflicts of 
+interests or confirm that, to the best of your knowledge, there is no conflict of interest. 
+If you later identify an actual, apparent, or perceived conflict of interest, you must inform us 
+in writing immediately.  
+Conflicts of interest for Australian Government staff are handled as set out in the Australian 
+Public Service Code of Conduct (Section 13(7)) of the Public Service Act 1999. Committee 
+members and other officials including the decision maker must also declare any conflicts of 
+interest. 
+We publish our conflict of interest policy10 on the department’s website.  
+ 
+8 http://www.ombudsman.gov.au/ 
+9 Including: any of our staff able to influence the project, any member of a committee or advisor, you, your project partners, and 
+any personnel involved in the project. 
+10 https://www.industry.gov.au/publications/conflict-interest-policy  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   25 
+OFFICIAL
+OFFICIAL
+13.3. Privacy 
+Unless the information you provide to us is: 
+ confidential information as per 13.4, or 
+ personal information as per below 
+we may share the information with other government agencies for a relevant Commonwealth 
+purpose such as: 
+ to improve the effective administration, monitoring and evaluation of Australian 
+Government programs 
+ for research 
+ to announce the awarding of grants. 
+We must treat your personal information according to the Australian Privacy Principles 
+(APPs) and the Privacy Act 1988 (Cth). This includes letting you know: 
+ what personal information we collect 
+ why we collect your personal information  
+ to whom we give your personal information. 
+We may give the personal information we collect from you to our employees and contractors, 
+the committee, and other Commonwealth employees and contractors, so we can: 
+ manage the program 
+ research, assess, monitor and analyse our programs and activities 
+ identify and manage any financial, legal/regulatory, governance, national interest, or 
+national security risks. 
+We, or the Minister, may: 
+ announce the names of successful applicants to the public 
+ publish personal information on the department’s websites. 
+You may read our Privacy Policy11 on the department’s website for more information on: 
+ what is personal information 
+ how we collect, use, disclose and store your personal information 
+ how you can access and correct your personal information. 
+13.4. Confidential information 
+Other than information available in the public domain, you agree not to disclose to any 
+person, other than us, any confidential information relating to the grant application and/or 
+agreement, without our prior written approval. The obligation will not be breached where you 
+are required by law, Parliament or a stock exchange to disclose the relevant information or 
+where the relevant information is publicly available (other than through breach of a 
+confidentiality or non-disclosure obligation). 
+ 
+11 https://www.industry.gov.au/data-and-publications/privacy-policy  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   26 
+OFFICIAL
+OFFICIAL
+We may at any time, require you to arrange for you; or your employees, agents or 
+subcontractors to give a written undertaking relating to nondisclosure of our confidential 
+information in a form we consider acceptable.  
+We will treat the information you give us as sensitive and therefore confidential if it meets all 
+of the following conditions: 
+ you clearly identify the information as confidential and explain why we should treat it as 
+confidential 
+ the information is commercially sensitive 
+ disclosing the information would cause unreasonable harm to you or someone else 
+ you provide the information with an understanding that it will stay confidential. 
+We may disclose confidential information: 
+ to the committee, Industry Innovation and Science Australia and our Commonwealth 
+employees, contractors and service providers, to help us manage the program effectively 
+ to the Auditor-General, Ombudsman or Privacy Commissioner 
+ to the responsible Minister or Assistant Minister 
+ to a House or a Committee of the Australian Parliament 
+ to other Commonwealth agencies for risk management purposes. 
+We may also disclose confidential information if: 
+ we are required or authorised by law to disclose it 
+ you agree to the information being disclosed, or 
+ someone other than us has made the confidential information public. 
+13.5. Freedom of information 
+All documents in the possession of the Australian Government, including those about the 
+program, are subject to the Freedom of Information Act 1982 (Cth) (FOI Act). 
+The purpose of the FOI Act is to give members of the public rights of access to information 
+held by the Australian Government and its entities. Under the FOI Act, members of the public 
+can seek access to documents held by the Australian Government. This right of access is 
+limited only by the exceptions and exemptions necessary to protect essential public 
+interests and private and business affairs of persons in respect of whom the information 
+relates. 
+If someone requests a document under the FOI Act, we will release it (though we may need to 
+consult with you and/or other parties first) unless it meets one of the exemptions set out in 
+the FOI Act. 
+13.6. National security 
+Eligible activities under this grant may have national security implications. It is your 
+responsibility to consider any such implications of the proposed project and identify and 
+manage any risks, particularly relating to export controls, intellectual property protection, 
+espionage and foreign interference and unwanted transfer of technology, data or other 
+knowledge.  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   27 
+OFFICIAL
+OFFICIAL
+You must inform the department if you identify any material risks relating to national security. 
+To assist with managing security risks, you are strongly encouraged to review the 
+department’s Guide to undertaking international collaboration12.  
+13.6.1. Know your partner 
+You should ensure that you know who you are collaborating with by undertaking appropriate 
+due diligence, proportionate to the risk and subject to available information, on all partners 
+and personnel participating in the project. This should take into account any potential 
+security, ethical, legal and reputational risks, and, where necessary, you should be prepared 
+to demonstrate how you will manage and mitigate any identified risks. 
+13.6.2. Export controls  
+Australia’s export control regime limits the overseas transfer of goods and technologes listed 
+on the Defence and Strategic Goods List (DSGL). The regime may apply to the export of 
+products, and to any situation involving the overseas transfer, sharing, publication or 
+brokering of controlled goods, technology, software or related knowledge. 
+It is your responsibility to consider whether the export control regime applies to your activity. 
+If you are unsure whether your activity may require an export license, you should review the 
+resources on the Australian Defence Exports portal  and/or contact Defence Export Controls 
+(DEC). 
+13.6.3. Foreign affiliations 
+Eligible activities under this grant may involve partners or personnel with foreign affiliations. 
+You must inform us of any relationships between project participants and foreign parties that 
+could influence or benefit from the proposed activity. Such relationships may include foreign 
+ownership or sponsorship, connections to foreign governments, militaries, political parties, 
+or other organisations, and membership of foreign talent programs. You must also inform us 
+of the establishment of any such relationships throughout the life of the grant. 
+13.6.4. Foreign government affiliations 
+Eligible activities under this grant may involve partners or personnel with connections to 
+foreign governments. You must inform us if you, your project partners or any project 
+personnel are receiving funding or benefits from, or otherwise affiliated with, a foreign 
+government, including: 
+ a foreign state or local government 
+ a foreign military, intelligence organisation or police force 
+ an organisation owned or sponsored by a foreign government (such as a state-owned 
+corporation or state-sponsored university) 
+ a foreign government talent program. 
+ 
+12 https://www.industry.gov.au/strategies-for-the-future/increasing-international-
+collaboration/a-guide-to-undertaking-international-collaboration  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   28 
+OFFICIAL
+OFFICIAL
+You must also inform us of the establishment of any such relationships throughout the life of 
+the grant. 
+13.6.5. Intellectual property rights 
+Applicants must provide details of Intellectual Property (IP) arrangements in their 
+applications. This includes both the use of IP in the project and the proposed ownership 
+rights to IP generated by the project as well as strategies for protecting Australia’s interests. 
+Where IP is likely to be generated by the project, successful applicants are required to 
+provide protocols for its management including arrangements in place between partners on 
+management and ownership of IP. The agreements should be in accordance with laws and 
+regulations in Australia and provide for: 
+ adequate and effective protection and equitable distribution of any benefits from IP rights 
+created in or resulting directly from cooperative activities (foreground IP rights) 
+ ownership of foreground IP rights to be allocated on the basis of respective contribution 
+and equitable interests 
+ terms and conditions for the commercialisation and other forms of dissemination of the 
+foreground IP rights 
+ adequate and effective protection of IP rights provided by the organisations, enterprises 
+and institutions prior to or in the course of such cooperative activities, for example, the 
+licensing or utilisation of such IP rights on equitable terms (background IP rights). 
+Australian participants should approach IP negotiations in line with the principles outlined on 
+business.gov.au and may wish to refer to IP Australia’s resources on commercialisation and 
+collaboration. 
+13.7. Disclosure of Commonwealth, state or territory 
+financial penalties 
+You must disclose whether any of your board members, management or persons of authority 
+have been subject to any pecuniary penalty, whether civil, criminal or administrative, 
+imposed by a Commonwealth, state, or territory court or a Commonwealth, state, or territory 
+entity. If this is the case, you must provide advice to the department regarding the matter for 
+consideration. 
+  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   29 
+OFFICIAL
+OFFICIAL
+14. Glossary 
+Term Deﬁnition 
+Agreement period The timeframe from agreement start date to agreement 
+end date. During this period all eligible expenditure, 
+grant payment(s) and reporting milestones are to occur. 
+AI system A machine-based system that, for explicit or implicit 
+objectives, infers, from the input it receives, how to 
+generate outputs such as predictions, content, 
+recommendations, or decisions that can influence 
+physical or virtual environments. Different AI systems 
+vary in their levels of autonomy and adaptiveness after 
+deployment. 
+Application form The document issued by the Program Delegate that 
+applicants use to apply for funding under the program. 
+Assessment criteria The specified principles or standards, against which 
+applications will be judged. These criteria are also used 
+to assess the merits of proposals and, in the case of a 
+competitive grant opportunity, to determine application 
+ranking. 
+Australian industry entity An Australian business with an Australian Business 
+Number whose trading activities are a substantial and 
+not merely peripheral activity of the business and is not: 
+a research organisation or an entity whose primary 
+purpose is to undertake research 
+an entity whose primary function is administrative or to 
+provide support services to a CRC-P 
+a Commonwealth, state, territory or local government 
+body (including government business enterprises). 
+Australian industry entities include, but are not limited 
+to: 
+ sole traders 
+ partnerships 
+ cooperatives 
+ companies. 
+Capital item An asset of durable nature with a purchase price greater 
+than $20,000. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   30 
+OFFICIAL
+OFFICIAL
+Cash contributions Money contributed by project partners, which is not a 
+loan that is provided for the project and is immediately 
+available for use on the project. Excludes cash-staff 
+contributions. The contribution is not reimbursed from 
+grant funds. 
+Cash-staff contributions Money contributed by project partners for the payment 
+of staff salaries and on costs. The contribution is not 
+reimbursed from grant funds. 
+Commonwealth Grants Rules 
+and Principles (CGRPs)  
+Establish the overarching Commonwealth grants policy 
+framework and articulate the expectations for all non-
+corporate Commonwealth entities in relation to grants 
+administration. Under this overarching framework, non-
+corporate Commonwealth entities undertake grants 
+administration based on the mandatory requirements 
+and key principles of grants administration.  
+Consolidated group Has the same meaning as in section 703-5 of the 
+Income Tax Assessment Act 1997 (Cth). 
+Cooperative Research Centres 
+Advisory Committee 
+A committee of Industry Innovation and Science 
+Australia established under the Industry Research and 
+Development Act 1986 to consider and assess eligible 
+applications and make recommendations to the 
+Minister for funding under the program. 
+Date of effect Can be the date on which a grant agreement is signed or 
+a specified starting date. Where there is no grant 
+agreement, entities must publish information on 
+individual grants as soon as practicable.  
+Decision maker The person who makes a decision to award a grant. 
+Department  The Department of Industry, Science and Resources 
+(the department). 
+Eligibility criteria The mandatory criteria which must be met to be 
+considered for a grant. 
+Eligible activities The activities undertaken by a grantee in relation to a 
+project that are eligible for funding support as set out in 
+5.1. 
+Eligible application An application or proposal for services or grant funding 
+under the program that the Program Delegate has 
+determined is eligible for assessment in accordance 
+with these guidelines. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   31 
+OFFICIAL
+OFFICIAL
+Eligible expenditure The expenditure incurred by a grantee on a project and 
+which is eligible for funding support as set out in section 
+5.2. 
+Eligible expenditure guidance The guidance that is provided at Appendix C. 
+General Manager Position title for Senior Executive Service level staff 
+within the department. 
+Government priorities AI systems and technologies, the National AI Plan, the 
+National Reconstruction Fund priority areas, the 
+National Science and Research Priorities or any other 
+science, research, industry and innovation priorities 
+identified by the Australian Government from time to 
+time. See Appendix A. 
+Grant  For the purposes of the CGRPs, a ‘grant’ is an 
+arrangement for the provision of financial assistance by 
+the Commonwealth or on behalf of the Commonwealth: 
+a. under which relevant money13 or other 
+Consolidated Revenue Fund (CRF) money14 is to 
+be paid to a grantee other than the 
+Commonwealth; and 
+b. which is intended to help address one or more 
+of the Australian Government’s policy 
+outcomes while assisting the grantee achieve 
+its objectives.  
+Grant activity/activities Refers to the project/tasks/services that the grantee is 
+required to undertake 
+Grant agreement A legally binding contract that sets out the relationship 
+between the Commonwealth and a grantee for the grant 
+funding, and specifies the details of the grant. 
+Grant funding or grant funds The funding made available by the Commonwealth to 
+grantees under the program. 
+Grant opportunity Refers to the specific grant round or process where a 
+Commonwealth grant is made available to potential 
+grantees. Grant opportunities may be open or targeted, 
+and will reflect the relevant grant selection process. 
+ 
+13 Relevant money is defined in the PGPA Act. See section 8, Dictionary. 
+14 Other CRF money is defined in the PGPA Act. See section 105, Rules in relation to other CRF money. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   32 
+OFFICIAL
+OFFICIAL
+Grant program A ‘program’ carries its natural meaning and is intended 
+to cover a potentially wide range of related activities 
+aimed at achieving government policy outcomes. A 
+grant program is a group of one or more grant 
+opportunities under a single Portfolio Budget Statement 
+Program. 
+GrantConnect The Australian Government’s whole-of-government 
+grants information system, which centralises the 
+publication and reporting of Commonwealth grants in 
+accordance with the CGRPs. 
+Grantee The recipient of grant funding under a grant agreement. 
+Guidelines Guidelines that the Minister gives to the department to 
+provide the framework for the administration of the 
+program, as in force from time to time. 
+Incorporated Trustee An entity, acting in its capacity as trustee of a trust, 
+which is itself a corporation or other entity incorporated 
+in Australia. 
+Independent financial audit An independently audited financial acquittal report 
+verifying that the grant has been spent in accordance 
+with the grant agreement. 
+Industry Innovation and 
+Science Australia 
+The statutory board established by the Industry 
+Research and Development Act 1986 (Cth) and named 
+in that Act as Industry Innovation and Science Australia. 
+In-kind contributions Non-cash resources contributed by a partner to 
+conduct the CRC-P (see Appendix D). 
+Intellectual property (IP) Includes all copyright, patents, registered and 
+unregistered trademarks (including service marks), 
+registered designs, and other rights resulting from 
+intellectual activity (other than moral rights under the 
+Copyright Act 1968 (Cth)). 
+Lead applicant The industry entity partner in a CRC-P collaboration 
+responsible for managing the project on behalf of the 
+collaboration. The lead applicant must be a SME at 
+lodgement of application. 
+Medical Research Institute 
+(MRI) 
+An institute that has the primary purpose of conducting 
+medical research and is a currently registered charity 
+with the Australian Charities and Not-for-Profits 
+Commission. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   33 
+OFFICIAL
+OFFICIAL
+Minister The Commonwealth Minister for Industry and 
+Innovation. 
+Partner A person or body that provides support (cash 
+contributions or in-kind contributions) and contributes 
+to the success of the CRC-P. 
+Personal information Has the same meaning as in the Privacy Act 1988 (Cth) 
+which is: 
+Information or an opinion about an identified 
+individual, or an individual who is reasonably 
+identifiable: 
+a. whether the information or opinion is true or not; 
+and 
+b. whether the information or opinion is recorded 
+in a material form or not. 
+Program Delegate A general manager within the department with 
+responsibility for the program. 
+Program funding or program 
+funds 
+The funding made available by the Commonwealth for 
+the program. 
+Project A project described in an application for grant funding 
+under the program. 
+Project participants Participants that are directly engaged in the project, 
+including project partners and personnel. 
+Regional and remote Australia  Regional and remote Australia refers to areas that fall 
+outside of Major Cities of Australia under the Australian 
+Statistical Geography Standard (includes Inner Regional 
+Australia, Outer Regional Australia, Remote Australia, 
+Very Remote Australia). 
+Research organisation All higher education providers listed at Table A and 
+Table B of the Higher Education Support Act 2003 (Cth) 
+and corporate Commonwealth entities, and state and 
+territory business enterprises which undertake publicly 
+funded research and Medical Research Institutes. For 
+the purposes of eligibility in these guidelines, CRCs are 
+not considered research organisations. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   34 
+OFFICIAL
+OFFICIAL
+Security Measures taken to protect something, including 
+governance, physical, information and personnel 
+arrangements (e.g. vetting, access and planning). These 
+may sometimes extend to protecting something of 
+national security interest, such as advanced or dual-use 
+technologies (where national security issues are 
+identified they should be reported to the department as 
+soon as possible). 
+Small and medium enterprises 
+(SMEs) 
+Businesses with less than 200 employees by 
+headcount. If you are part of a consolidated group for 
+tax purposes, the consolidated group must have less 
+than 200 employees in total. 
+Trading activity The activity of providing or intending to provide goods or 
+services for payment. 
+Value with money Value with money in this document refers to ‘value with 
+relevant money’ which is a judgement based on the 
+grant proposal representing an efficient, effective, 
+economical and ethical use of public resources and 
+determined from a variety of considerations. 
+When administering a grant opportunity, an official 
+should consider the relevant financial and non-financial 
+costs and benefits of each proposal including, but not 
+limited to: 
+ the quality of the project proposal and activities; 
+ fitness for purpose of the proposal in contributing to 
+government objectives; 
+ that the absence of a grant is likely to prevent the 
+grantee and government’s outcomes being 
+achieved; and 
+ the potential grantee’s relevant experience and 
+performance history. 
+  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   35 
+OFFICIAL
+OFFICIAL
+Appendix A. Government Priorities 
+This section provides details on Government priorities. 
+Government priorities include AI systems and technologies, the National AI Plan, the 
+National Reconstruction Fund priority areas, the National Science and Research Priorities, or 
+any other science, research, industry and innovation priorities identified by the Australian 
+Government from time to time. The extent to which a project aligns with Government 
+priorities should be demonstrated in assessment criterion 1(a). An application which strongly 
+aligns with Government priorities will score higher in this part of the assessment criteria than 
+an application which does not. 
+A.1 Artificial intelligence systems and technologies 
+AI is already shaping Australia’s economy and society, presenting both opportunities and 
+challenges. Australia’s competitive edge in AI is in developing targeted, high-value AI 
+products and services for sectors such as healthcare, agriculture, resources and advanced 
+manufacturing.  
+The National AI Plan sets out the Government’s ambition to position Australia as a leader in 
+responsible, inclusive and innovative AI development and adoption.  
+The Government is seeking applications that develop or enhance AI systems and 
+technologies, to help accelerate the development and commercialisation of AI by 
+businesses and researchers across Australia. AI focused applications should support 
+Action 2 of the National AI Plan (Back Australian AI Capability) in sectors such as:  
+ healthcare  
+ agriculture  
+ resources and energy  
+ advanced manufacturing. 
+Further details are available at https://www.industry.gov.au/publications/national-ai-plan.    
+Recipients of AI-related CRC-P funding are encouraged to implement organisational 
+governance and controls as detailed in the Guidance for AI Adoption: Implementation 
+Practices. 
+A.2 National Reconstruction Fund Priority Areas 
+The Australian Government’s National Reconstruction Fund provides finance to diversify and 
+transform Australia’s industry and economy through targeted investment in the following 
+priority areas:  
+ value-add in resources 
+ value-add in agriculture, forestry and fisheries 
+ transport 
+ medical science 
+ renewables and low emission technologies 
+ defence capability 
+ enabling capabilities. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   36 
+OFFICIAL
+OFFICIAL
+Further details are available www.nrf.gov.au. 
+A.3 National Science and Research Priorities 
+The Australian Government’s National Science and Research Priorities guide Australian 
+science and research efforts and help the Australian Government align investments in the 
+science, research, technology, innovation and commercialisation system.  
+The five priorities focus on areas where research and innovation can help solve Australia’s 
+greatest challenges: 
+A.3.1 Priority 1: Transitioning to a net zero future  
+Critical research areas related to this priority are: 
+ new and innovative renewable energy, grid infrastructure, grid integration and storage 
+systems  
+ mitigating the environmental impacts of efforts to decarbonise industries and 
+infrastructure 
+ perceptions, beliefs, barriers and incentives regarding adopting and applying new 
+technologies  
+ approaches to partnering with Aboriginal and Torres Strait Islander communities to share 
+the economic benefits of emissions reduction projects that occur on Country 
+ technological solutions for sustainably reducing, reprocessing and recycling Australia’s 
+waste at scale 
+ new and innovative ways of extracting, refining and processing critical minerals while 
+minimising environmental impact 
+ solutions for removing carbon dioxide from the atmosphere at scale and for hard-to-
+abate processes and activities such as agriculture 
+ advancing critical technologies such as artificial intelligence (AI), quantum and robotics 
+to allow us to transition to net zero in environmentally responsible ways 
+ information, skills training and skills uptake of workers who support the transition to a net 
+zero economy. 
+A.3.2 Priority 2: Supporting healthy and thriving 
+communities  
+Critical research areas related to this priority are: 
+ social, cultural, developmental and environmental drivers of individual and community 
+health, particularly in infancy and childhood, and approaches to improve them at scale 
+ anticipating and responding to future pandemics and infectious disease outbreaks 
+ healthcare literacy and motivators for behavioural change 
+ technological and social solutions to providing services and diagnostics for aged care, 
+people with disability and people living in regional and remote communities 
+ technologies and techniques that support an affordable, inclusive, culturally 
+appropriate, and integrated preventive health system in Australia 
+ therapies that use precision medicine to treat diseases 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   37 
+OFFICIAL
+OFFICIAL
+ Aboriginal and Torres Strait Islander-led, place-based and culturally appropriate 
+approaches to build community capacity and achieve equity for Aboriginal and Torres 
+Strait Islander peoples in health, wellbeing and life expectancy 
+ likely impacts of climate change on communities’ physical and mental health. 
+A.3.3 Priority 3: Elevating Aboriginal and Torres Strait 
+Islander knowledge systems  
+Critical research areas related to this priority are: 
+ incorporating Aboriginal and Torres Strait Islander knowledge into the development and 
+application of critical and emerging technologies, particularly digital and data 
+technologies 
+ approaches for protecting and managing Aboriginal and Torres Strait Islander cultural 
+and intellectual property 
+ approaches to preserving language and promoting bilingual education 
+ approaches to climate change adaptation to support regional and remote communities. 
+A.3.4 Priority 4: Protecting and restoring Australia’s 
+environment  
+Critical research areas related to this priority are: 
+ past and likely future climate conditions in Australia, our coasts, neighbouring regions 
+and Antarctica. These include tipping points, shifting weather patterns, extreme events 
+and sea level rise 
+ predicting ecosystem and biodiversity changes caused by climate change and human 
+actions 
+ new and innovative approaches to discovering, protecting and restoring biodiversity 
+ effective partnerships and benefits sharing when using Caring for Country and Sea 
+Country in environmental management regimes 
+ tools and techniques to collect and analyse environmental data  
+ cumulative impacts of extractive and non-extractive uses of freshwater and marine 
+resources 
+ transitioning to a more circular economy 
+ carbon sources and sinks in soils, vegetation, coasts and oceans in Australia and 
+neighbouring regions. These include practical ways to manage carbon drawdown through 
+natural processes and Aboriginal and Torres Strait Islander practices. 
+A.3.5 Priority 5: building a secure and resilient nation 
+Critical research areas related to this priority are: 
+ secure and resilient technologies, including dual-use technology 
+ secure and resilient supply chains that underpin Australia’s prosperity 
+ technologies that support Australian resilience to natural and human-induced 
+challenges 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   38 
+OFFICIAL
+OFFICIAL
+ technology design frameworks (including for artificial intelligence) that increase 
+democratic resilience and reduce risks to social cohesion, economic prosperity and 
+national security  
+ cognitive and social causes of engaging with misinformation and disinformation, and 
+best practices for reducing their impact 
+ technologies for managing water and producing food under likely future Australian 
+climate conditions 
+ predicting, detecting and responding to biosecurity threats and natural disasters 
+ planning, design, materials and engineering of infrastructure and built environments for 
+Australia and our region that account for likely future climate conditions. 
+Further details are available www.industry.gov.au. 
+  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   39 
+OFFICIAL
+OFFICIAL
+Appendix B. Total eligible project expenditure and 
+applicant contributions 
+B.1 How we calculate your total eligible project 
+expenditure 
+     
+ 
+B.2 Applicant contributions 
+We treat cash, cash-staff and in-kind contributions equally for determining your minimum 
+matching 50 per cent share of total eligible project expenditure. 
+Rural Research and Development Corporation (RDC) direct cash contributions from their 
+discretionary funds (which includes levies and Commonwealth funds) are eligible in full as 
+cash contributions to a CRC-P. Where RDCs have issued funds to other parties for a specific 
+purpose and the resulting projects will be incorporated into the activities of a CRC-P, only the 
+value of the industry levy component of the funding can be counted as an in-kind 
+contribution to the CRC-P. 
+  
+Eligible expenditure 
+Appendix C 
+Eligible in-kind 
+contributions 
+Appendix D 
+TOTAL ELIGIBLE PROJECT EXPENDITURE 
+The maximum CRC-P grant is up to 50 per cent of total eligible project expenditure  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   40 
+OFFICIAL
+OFFICIAL
+Appendix C. Eligible expenditure 
+This section provides guidance on the eligibility of expenditure.  
+The Program Delegate makes the final decision on what is eligible expenditure and may give 
+additional guidance on eligible expenditure if required. 
+To be eligible, expenditure must: 
+ be incurred by you or your partners within the agreement period 
+ be a direct cost of the project or be incurred for project audit activities; and 
+ meet the eligible expenditure guidelines. 
+C.1 How we verify eligible expenditure 
+If your application is successful, we may ask you to verify the project budget that you 
+provided in your application when we negotiate your grant agreement. You may need to 
+provide evidence such as quotes for major costs.  
+The grant agreement will include details of the evidence you may need to provide when you 
+achieve certain milestones in your project. This may include evidence related to eligible 
+expenditure. 
+If requested, you will need to provide the agreed evidence along with your progress reports. 
+You must keep payment records of all eligible expenditure, and be able to explain how the 
+costs relate to the agreed project activities. At any time, we may ask you to provide records of 
+the expenditure you have paid. If you do not provide these records when requested, the 
+expense may not qualify as eligible expenditure.  
+At the end of the project, you will be required to provide an independent financial audit of all 
+eligible expenditure from the project. 
+C.2 Eligible expenditure items 
+You can only use CRC-P grant funds or cash contributions for eligible expenditure directly 
+related to the project. Eligible expenditure can include, but is not limited to: 
+ salaries and on-costs for personnel directly employed for the project activities (this 
+should be calculated on a pro-rata basis relative to their time commitment using the 
+formula detailed below) 
+ contractor costs as outlined below 
+ capital items you purchase to undertake your project 
+ costs of acquiring, licensing or registering intellectual property and technology 
+ student fellowships, stipends and scholarships 
+ education and training activities, for example primary, secondary and tertiary programs, 
+vocational education and training, industry exchange programs, internship programs, 
+workshops for industry, conferences, professional development, networking events, 
+forums and courses (including travel costs for key participants) and community/public 
+events (i.e. lecture series/art exhibition) 
+ engagement with SMEs to build their research and development capacity 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   41 
+OFFICIAL
+OFFICIAL
+ costs related to the publication of research and the deployment and take-up of research 
+outputs 
+ costs related to recruiting or contracting specialist staff 
+ purchase of computing equipment and software 
+ reasonable fit out expenditure 
+ building modifications where you own the modified asset and the modification is 
+required to undertake the project, for example installing a clean room. Modifications to 
+leased buildings may be eligible. You must use the leased building for activities related to 
+your manufacturing process 
+ costs you incur in order to obtain planning, environmental or other regulatory approvals 
+during the project period. However, associated fees paid to the Commonwealth, state, 
+territory and local governments are not eligible 
+ travel and overseas expenditure as outlined below 
+ financial auditing of project expenditure as outlined below 
+ costs associated with the development of new patents 
+ clinical trials of medical product, process or service innovations that are new to Australia 
+or the world, rather than only new to the business and represent minor incremental 
+improvements. 
+The Program Delegate may determine other expenditure items eligible. 
+Evidence you may need to supply can include supplier contracts, purchase orders, invoices 
+and supplier confirmation of payments. 
+C.3 Labour expenditure 
+Eligible labour expenditure for the grant covers the direct labour costs of employees you and 
+your partners directly employ on the core elements of the project. We consider a person an 
+employee when you pay them a regular salary or wage, out of which you make regular tax 
+instalment deductions. 
+We consider costs for technical, but not administrative, project management activities 
+eligible labour expenditure. However, we limit these costs to 10 per cent of the total amount 
+of eligible labour expenditure claimed. 
+Technical project management may include tasks such as planning, scoping, establishing 
+appropriate specs and monitoring undertaken by a technical expert or specialist in the field 
+that is the focus of the project. For example, a process engineer overseeing a manufacturing 
+process upgrade. 
+Administrative project management includes more generic project management activities 
+undertaken by administrative staff to manage day-to-day operations, for example project 
+planning, scheduling, supplier management, and financial tracking. The technical project 
+manager might call a project meeting to discuss technical issues that requires technical 
+understanding of activities, the administrative project manager might manage the budget or 
+ensure sufficient accommodation. 
+We do not consider labour expenditure for leadership or administrative staff (such as CEOs, 
+CFOs, accountants and lawyers) as eligible expenditure, unless they are carrying technical 
+activities on the core elements of the project. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   42 
+OFFICIAL
+OFFICIAL
+Eligible salary expenditure includes an employee’s total remuneration package as stated on 
+their Pay As You Go (PAYG) Annual Payment Summary submitted to the ATO. We consider 
+salary-sacrificed superannuation contributions as part of an employee’s salary package if 
+the amount is more than what the Superannuation Guarantee requires. 
+The maximum salary for an employee, director or shareholder, including packaged 
+components that you can claim through the grant is no more than equivalent to $200,000 full 
+time salary per financial year. If you or a partner are paying greater than $200,000 per 
+financial year to an employee, this excess should be paid from your or the partner’s 
+resources. It cannot be reported as eligible expenditure and cannot be claimed as a 
+contribution. 
+For periods of the project that do not make a full financial year, you must reduce the 
+maximum salary amount you claim proportionally. 
+You can only claim eligible salary costs when an employee is working directly on agreed 
+project activities during the agreed project period.  
+A contribution of employee time to a project which is paid for by a partner should be included 
+as a cash-staff contribution. This salary of the employee should be paid for by the partner 
+and not reimbursed using the grant funds. 
+C.4 Labour on-costs and administrative overhead 
+You may increase eligible salary costs by an additional 30 per cent allowance to cover on-
+costs such as employer paid superannuation, payroll tax, workers compensation insurance, 
+and overheads such as office rent and the purchase or provision of computing equipment 
+directly required or related to the delivery of the project 
+You should calculate eligible salary costs using the formula below: 
+You cannot calculate labour costs by estimating the employee’s worth. If you have not 
+exchanged money (either by cash or bank transactions) we will not consider the cost eligible.  
+Evidence you will need to provide can include: 
+ details of all personnel working on the project, including name, title, function, time spent 
+on the project and salary 
+ ATO payment summaries, pay slips and employment contracts. 
+C.5 Contract expenditure 
+Eligible contract expenditure is the cost of any agreed project activities that you contract 
+others to do. These can include contracting: 
+ another organisation 
+ an individual who is not an employee, but engaged under a separate contract. 
+
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   43 
+OFFICIAL
+OFFICIAL
+All contractors must have a written contract prior to starting any project work—for example, 
+a formal agreement, letter or purchase order which specifies: 
+ the nature of the work they perform  
+ the applicable fees, charges and other costs payable. 
+Invoices from contractors must contain: 
+ a detailed description of the nature of the work 
+ the hours and hourly rates involved 
+ any specific plant expenses paid.  
+Invoices must directly relate to the agreed project, and the work must qualify as an eligible 
+expense. The costs must also be reasonable and appropriate for the activities performed. 
+We may require evidence of contractor expenditure that may include: 
+ an exchange of letters (including email) setting out the terms and conditions of the 
+proposed contract work 
+ purchase orders 
+ supply agreements 
+ invoices and payment documents. 
+You must ensure all project contractors keep a record of the costs of their work on the 
+project. We may require you to provide a contractor’s records of their costs of doing project 
+work. If you cannot provide these records, the relevant contract expense may not qualify as 
+eligible expenditure. 
+C.6 Travel  expenditure 
+Eligible travel expenditure may include: 
+ domestic travel limited to the reasonable cost of accommodation and transportation 
+required to conduct agreed project and collaboration activities in Australia 
+ overseas travel limited to the reasonable cost of accommodation and transportation 
+required in cases where the overseas travel is material to the conduct of the project in 
+Australia. 
+Eligible air transportation is limited to the economy class fare for each sector travelled. 
+Where non-economy class air transport is used only the equivalent of an economy fare for 
+that sector is eligible expenditure. Where non-economy class air transport is used, the 
+grantee will require evidence showing what an economy airfare costs at the time of travel. 
+Overseas travel expenditure must be at an economy rate. You must demonstrate overseas 
+travel is material to the conduct of your project in Australia. 
+Total travel expenditure (domestic and overseas) is generally limited to 10 per cent of total 
+eligible project expenditure. 
+C.7 Overseas expenditure 
+Overseas expenditure is eligible expenditure incurred outside of Australia (excluding travel) 
+and must be directly related to the project. 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   44 
+OFFICIAL
+OFFICIAL
+We will consider value for money when determining whether the cost of overseas 
+expenditure is eligible. This may depend on:  
+ the proportion of total grant funding that you will spend on overseas expenditure 
+ the proportion of the service providers total fee that will be spent on overseas 
+expenditure 
+ how the overseas expenditure is likely to aid the project in meeting the program 
+objectives. 
+Total overseas expenditure is generally limited to 10 per cent of total eligible project 
+expenditure. 
+C.8 Independent audit costs 
+The cost of an independent audit of project expenditure up to a maximum of 1 per cent of 
+total eligible project expenditure. 
+ 
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   45 
+OFFICIAL
+OFFICIAL
+Appendix D. In-kind contributions 
+We treat cash and in-kind contributions equally for determining your share of total eligible 
+project expenditure. 
+In-kind contributions are the non-cash contributions to the CRC Project. In order for in-kind 
+contributions to count towards your total eligible project expenditure, they must directly 
+relate to eligible activities. 
+In-kind contributions may include facilities, equipment and services provided by a partner to 
+the project from its own resources. We do not prescribe a specific formula to determine the 
+value of these contributions. You need to determine the value of these contributions. They 
+must be realistic, justifiable, and valued proportionally to their use on the project. For 
+example, you should calculate the in-kind contribution of a capital item by the running costs 
+and the depreciation of the item. 
+The contribution of employee time to a project is not considered an in-kind contribution. It 
+should instead be included as the relevant partner’s ‘cash-staff’ contribution and eligible 
+expenditure as outlined in Appendix C.  
+Examples of in-kind contributions include: 
+ if a resource has an annual depreciation value of $100,000 and the project was using 10 
+per cent of the resource’s capacity then the resource could be valued at $10,000 per year 
+ if the fee for usage was $500 per use and the project was receiving 100 usages per year at 
+no cost, the value of the resource could be valued at $50,000 per year 
+ if intellectual property is being provided as an in-kind contribution, then a reasonable 
+estimated revenue of licensing the intellectual property to the project could be used 
+ if your project receives office space as an in-kind contribution from a partner, you should 
+value the contribution at the amount it would otherwise cost to rent equivalent office 
+space. 
+  
+ 
+Cooperative Research Centres Projects Round 19 
+Grant opportunity guidelines  February 2026 
+| business.gov.au   46 
+OFFICIAL
+OFFICIAL
+Appendix E. Ineligible expenditure 
+This section provides guidance on what we consider ineligible expenditure. 
+The Program Delegate may impose limitations or exclude expenditure, or further include 
+some ineligible expenditure listed in these guidelines in a grant agreement or otherwise by 
+notice to you. 
+Examples of ineligible expenditure include: 
+ research not directly supporting eligible activities 
+ activities, equipment or supplies that are already being supported through other sources 
+ costs incurred prior to us notifying you that your application is successful 
+ audit costs greater than 1 per cent of total eligible project expenditure 
+ financing costs, including interest 
+ capital expenditure for the purchase of assets such as office furniture and equipment, 
+motor vehicles, computers, printers or photocopiers and the construction, renovation or 
+extension of facilities such as buildings and laboratories (unless directly related to the 
+project) 
+ costs involved in the purchase or upgrade/hire of software (including user licences) and 
+ICT hardware (unless directly related to the project) 
+ costs such as rental, renovations and utilities (unless directly related to the project) 
+ non-project-related staff training and development costs 
+ insurance costs (the partners must effect and maintain adequate insurance or similar 
+coverage for any liability arising as a result of their participation in funded activities) 
+ costs related to recruiting or contracting non-specialist staff 
+ depreciation of plant and equipment beyond the life of the project 
+ maintenance costs 
+ costs of purchasing, leasing, depreciation of, or development of land 
+ routine operational expenses, including communications, accommodation, office 
+computing facilities, printing and stationery, postage, legal and accounting fees and bank 
+charges 
+ costs related to preparing the grant application, preparing any project reports (except 
+costs of independent audit reports we require) and preparing any project variation 
+requests 
+ travel expenditure exceeding 10 per cent of total eligible project expenditure except 
+where otherwise approved by the Program Delegate 
+ overseas expenditure exceeding 10 per cent of total eligible project expenditure except 
+where otherwise approved by the Program Delegate 
+ costs related to engaging lobbyists. 
+This list is not exhaustive. Other costs may be ineligible where we decide that they do not 
+directly support the achievement of the planned outcomes for the project or that they are 
+contrary to the objectives of the program. 
+You must ensure you have adequate funds to meet the costs of any ineligible expenditure 
+associated with the project. 

@@ -1,0 +1,2947 @@
+{
+  "packageId": "crcp-r19",
+  "version": "1.0.0",
+  "stateParts": {
+    "criterion": "criterion heading and points (verbatim)",
+    "subcriterion": "the full sub-criterion wording and points (verbatim)",
+    "row": "the requirement row's verbatim wording, with its context sentence if it has one",
+    "rows": "every requirement row of the given family",
+    "text": "a verbatim text from `texts`, by key",
+    "glossary": "a verbatim Glossary definition from `glossary`, by term",
+    "draft": "the current text of the given fields",
+    "fields": "other form fields, as drafted or filled",
+    "passages": "digest passages for the row: `cited` by the draft, or all `linked` (confirmed)",
+    "reference": "the matching answer from the reference application, if one was picked",
+    "project_scale": "grant amount requested and project duration",
+    "rule_results": "results of the code-checked rules (rules.json)",
+    "gap_context": "the row's scores, the weak/fix explanation, and whether re-search found anything new",
+    "document": "the document text (first ~28K tokens)",
+    "passage": "one passage's exact text"
+  },
+  "trimOrder": "When the state is over the decider role's limit, drop parts with trim 1, then trim 2. Parts without trim are never dropped (spec 05 §7.5). Thresholds are set per decision model and question kind in models.json (spec 05 §8), not here.",
+  "criteria": [
+    {
+      "id": "MC-1",
+      "field": "AF-I.1",
+      "points": 25,
+      "ref": "GL §6.1",
+      "heading": "Project alignment with the program objectives (25 points)",
+      "subcriteria": [
+        {
+          "id": "MC-1a",
+          "points": 10,
+          "wording": "how your project will address an industry-identified problem, improve the competitiveness, productivity and sustainability of Australian industries and the extent of alignment with government priorities (refer to Appendix A) (10 points)"
+        },
+        {
+          "id": "MC-1b",
+          "points": 8,
+          "wording": "how your project will foster high quality research through industry-led and outcome-focused collaborative industry-research partnerships (8 points)"
+        },
+        {
+          "id": "MC-1c",
+          "points": 7,
+          "wording": "how your project will encourage and facilitate SME participation (7 points)."
+        }
+      ]
+    },
+    {
+      "id": "MC-2",
+      "field": "AF-I.2",
+      "points": 25,
+      "ref": "GL §6.2",
+      "heading": "The quality of your project (25 points)",
+      "subcriteria": [
+        {
+          "id": "MC-2a",
+          "points": 10,
+          "wording": "the research you will do and the methodologies you will use, including describing the role of your partners in the project (10 points)"
+        },
+        {
+          "id": "MC-2b",
+          "points": 8,
+          "wording": "how your research will address the identified problem, build on the current body of knowledge and enhance the adoption of new technologies (8 points)"
+        },
+        {
+          "id": "MC-2c",
+          "points": 7,
+          "wording": "the education and training opportunities your project will provide to build capability and capacity in the industry and research sectors (7 points)."
+        }
+      ]
+    },
+    {
+      "id": "MC-3",
+      "field": "AF-I.3",
+      "points": 25,
+      "ref": "GL §6.3",
+      "heading": "Capacity, capability and resources to deliver your project (25 points)",
+      "subcriteria": [
+        {
+          "id": "MC-3a",
+          "points": 8,
+          "wording": "how you will manage and monitor your project, explaining the governance and planning arrangements, including security (8 points)"
+        },
+        {
+          "id": "MC-3b",
+          "points": 7,
+          "wording": "how you will manage risks, including but not limited to security (in particular any associated national security issues), involvement of international partners and intellectual property protection (7 points)"
+        },
+        {
+          "id": "MC-3c",
+          "points": 10,
+          "wording": "your access to required resources including personnel with the right skills and experience, funding, security, infrastructure, technology and intellectual property (10 points)."
+        }
+      ]
+    },
+    {
+      "id": "MC-4",
+      "field": "AF-I.4",
+      "points": 25,
+      "ref": "GL §6.4",
+      "heading": "Impact of the grant funding on your project (25 points)",
+      "subcriteria": [
+        {
+          "id": "MC-4a",
+          "points": 6,
+          "wording": "how the grant will impact the project in terms of scale and timing. This should include justification for the funding amount requested and whether the project could proceed without Australian Government funding (6 points)"
+        },
+        {
+          "id": "MC-4b",
+          "points": 6,
+          "wording": "the total investment the grant will leverage and why the Australian Government should invest in your project, including how grant benefits will be substantially retained in Australia (6 points)"
+        },
+        {
+          "id": "MC-4c",
+          "points": 4,
+          "wording": "how your project will have a positive impact for communities and businesses in regional and remote Australia (4 points)"
+        },
+        {
+          "id": "MC-4d",
+          "points": 9,
+          "wording": "the commercial potential of your project, including the expected commercial outputs such as new products, processes or services, any expected spill over benefits and plans at the end of the project (9 points)."
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "general-guidance": {
+      "source": "GL",
+      "ref": "GL §6",
+      "text": "The amount of detail and supporting evidence you provide in your application should be relative to the project size, complexity and grant amount requested. You should provide evidence to support your answers."
+    },
+    "competitive-each-criterion": {
+      "source": "GL",
+      "ref": "GL §6",
+      "text": "We will only consider funding applications that are competitive against each assessment criterion."
+    },
+    "priorities-scoring": {
+      "source": "GL",
+      "ref": "GL App A",
+      "text": "An application which strongly aligns with Government priorities will score higher in this part of the assessment criteria than an application which does not."
+    },
+    "program-delegate-eligibility": {
+      "source": "GL",
+      "ref": "GL §4",
+      "text": "The Program Delegate (who is a General Manager within the department with responsibility for administering the program) makes the final decision about whether an application meets the eligibility criteria and decisions will not be reviewed."
+    }
+  },
+  "glossary": {
+    "AI system": "A machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.",
+    "Australian industry entity": "An Australian business with an Australian Business Number whose trading activities are a substantial and not merely peripheral activity of the business and is not:\na research organisation or an entity whose primary purpose is to undertake research\nan entity whose primary function is administrative or to provide support services to a CRC-P\na Commonwealth, state, territory or local government body (including government business enterprises).\nAustralian industry entities include, but are not limited to:\nsole traders\npartnerships\ncooperatives\ncompanies.",
+    "Consolidated group": "Has the same meaning as in section 703-5 of the Income Tax Assessment Act 1997 (Cth).",
+    "Government priorities": "AI systems and technologies, the National AI Plan, the National Reconstruction Fund priority areas, the National Science and Research Priorities or any other science, research, industry and innovation priorities identified by the Australian Government from time to time. See Appendix A.",
+    "Incorporated Trustee": "An entity, acting in its capacity as trustee of a trust, which is itself a corporation or other entity incorporated in Australia.",
+    "Medical Research Institute (MRI)": "An institute that has the primary purpose of conducting medical research and is a currently registered charity with the Australian Charities and Not-for-Profits Commission.",
+    "Regional and remote Australia": "Regional and remote Australia refers to areas that fall outside of Major Cities of Australia under the Australian Statistical Geography Standard (includes Inner Regional Australia, Outer Regional Australia, Remote Australia, Very Remote Australia).",
+    "Research organisation": "All higher education providers listed at Table A and Table B of the Higher Education Support Act 2003 (Cth) and corporate Commonwealth entities, and state and territory business enterprises which undertake publicly funded research and Medical Research Institutes. For the purposes of eligibility in these guidelines, CRCs are not considered research organisations.",
+    "Security": "Measures taken to protect something, including governance, physical, information and personnel arrangements (e.g. vetting, access and planning). These may sometimes extend to protecting something of national security interest, such as advanced or dual-use technologies (where national security issues are identified they should be reported to the department as soon as possible).",
+    "Small and medium enterprises (SMEs)": "Businesses with less than 200 employees by headcount. If you are part of a consolidated group for tax purposes, the consolidated group must have less than 200 employees in total.",
+    "Trading activity": "The activity of providing or intending to provide goods or services for payment."
+  },
+  "questions": [
+    {
+      "id": "Q-MC-1a.1",
+      "rowId": "MC-1a.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how your project will address an industry-identified problem' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-1"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1a"
+        },
+        {
+          "type": "row",
+          "id": "MC-1a.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.1"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.2",
+            "AF-G.3",
+            "AF-G.5"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.1"
+      ]
+    },
+    {
+      "id": "Q-MC-1a.2",
+      "rowId": "MC-1a.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'improve the competitiveness, productivity and sustainability of Australian industries' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-1"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1a"
+        },
+        {
+          "type": "row",
+          "id": "MC-1a.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.1"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.3"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.1"
+      ]
+    },
+    {
+      "id": "Q-MC-1a.3",
+      "rowId": "MC-1a.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'the extent of alignment with government priorities (refer to Appendix A)' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-1"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1a"
+        },
+        {
+          "type": "row",
+          "id": "MC-1a.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "text",
+          "key": "priorities-scoring"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.1"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-J.1.2",
+            "AF-J.2",
+            "AF-J.3",
+            "AF-J.5"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.1"
+      ]
+    },
+    {
+      "id": "Q-MC-1b.1",
+      "rowId": "MC-1b.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how your project will foster high quality research through industry-led and outcome-focused collaborative industry-research partnerships' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-1"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1b"
+        },
+        {
+          "type": "row",
+          "id": "MC-1b.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.1"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-F.4b",
+            "AF-G.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.1"
+      ]
+    },
+    {
+      "id": "Q-MC-1c.1",
+      "rowId": "MC-1c.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how your project will encourage and facilitate SME participation' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-1"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1c"
+        },
+        {
+          "type": "row",
+          "id": "MC-1c.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.1"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-F.4a",
+            "AF-F.4b"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.1"
+      ]
+    },
+    {
+      "id": "Q-MC-2a.1",
+      "rowId": "MC-2a.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'the research you will do and the methodologies you will use' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2a"
+        },
+        {
+          "type": "row",
+          "id": "MC-2a.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.2"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.2",
+            "AF-G.9"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.2"
+      ]
+    },
+    {
+      "id": "Q-MC-2a.2",
+      "rowId": "MC-2a.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'describing the role of your partners in the project' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2a"
+        },
+        {
+          "type": "row",
+          "id": "MC-2a.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.2"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-F.4b",
+            "AF-G.4"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.2"
+      ]
+    },
+    {
+      "id": "Q-MC-2b.1",
+      "rowId": "MC-2b.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how your research will address the identified problem' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2b"
+        },
+        {
+          "type": "row",
+          "id": "MC-2b.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.2"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.2",
+            "AF-G.5"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.2"
+      ]
+    },
+    {
+      "id": "Q-MC-2b.2",
+      "rowId": "MC-2b.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'build on the current body of knowledge' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2b"
+        },
+        {
+          "type": "row",
+          "id": "MC-2b.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.2"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.5",
+            "AF-G.6.1",
+            "AF-G.6.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.2"
+      ]
+    },
+    {
+      "id": "Q-MC-2b.3",
+      "rowId": "MC-2b.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'enhance the adoption of new technologies' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2b"
+        },
+        {
+          "type": "row",
+          "id": "MC-2b.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.2"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.3",
+            "AF-G.6.1",
+            "AF-G.6.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.2"
+      ]
+    },
+    {
+      "id": "Q-MC-2c.1",
+      "rowId": "MC-2c.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'the education and training opportunities your project will provide to build capability and capacity in the industry and research sectors' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2c"
+        },
+        {
+          "type": "row",
+          "id": "MC-2c.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.2"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.2",
+            "AF-G.9"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.2"
+      ]
+    },
+    {
+      "id": "Q-MC-3a.1",
+      "rowId": "MC-3a.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how you will manage and monitor your project, explaining the governance and planning arrangements' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3a"
+        },
+        {
+          "type": "row",
+          "id": "MC-3a.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.9",
+            "AF-F.4b"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3a.2",
+      "rowId": "MC-3a.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'including security' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3a"
+        },
+        {
+          "type": "row",
+          "id": "MC-3a.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "glossary",
+          "term": "Security"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.13"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3b.1",
+      "rowId": "MC-3b.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how you will manage risks' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3b"
+        },
+        {
+          "type": "row",
+          "id": "MC-3b.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.2",
+            "AF-G.9"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3b.2",
+      "rowId": "MC-3b.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'including but not limited to security (in particular any associated national security issues)' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3b"
+        },
+        {
+          "type": "row",
+          "id": "MC-3b.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "glossary",
+          "term": "Security"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.12a.1",
+            "AF-G.12b.1",
+            "AF-G.12c.1",
+            "AF-G.12d.1",
+            "AF-G.13"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3b.3",
+      "rowId": "MC-3b.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'involvement of international partners' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3b"
+        },
+        {
+          "type": "row",
+          "id": "MC-3b.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-F.4a",
+            "AF-G.12a.1",
+            "AF-G.12b.1",
+            "AF-G.12c.1",
+            "AF-G.12d.1"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3b.4",
+      "rowId": "MC-3b.4",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'intellectual property protection' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3b"
+        },
+        {
+          "type": "row",
+          "id": "MC-3b.4"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-J.7"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3c.1",
+      "rowId": "MC-3c.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'your access to required resources including personnel with the right skills and experience' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3c"
+        },
+        {
+          "type": "row",
+          "id": "MC-3c.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.4"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3c.2",
+      "rowId": "MC-3c.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'funding' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3c"
+        },
+        {
+          "type": "row",
+          "id": "MC-3c.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-F.2",
+            "AF-H.1",
+            "AF-H.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-3c.3",
+      "rowId": "MC-3c.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'security, infrastructure, technology and intellectual property' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3c"
+        },
+        {
+          "type": "row",
+          "id": "MC-3c.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "glossary",
+          "term": "Security"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.3"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.10",
+            "AF-G.13",
+            "AF-J.7"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.3"
+      ]
+    },
+    {
+      "id": "Q-MC-4a.1",
+      "rowId": "MC-4a.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how the grant will impact the project in terms of scale and timing' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4a"
+        },
+        {
+          "type": "row",
+          "id": "MC-4a.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.8",
+            "AF-G.9"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4a.2",
+      "rowId": "MC-4a.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'justification for the funding amount requested' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4a"
+        },
+        {
+          "type": "row",
+          "id": "MC-4a.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-H.1",
+            "AF-H.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4a.3",
+      "rowId": "MC-4a.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'whether the project could proceed without Australian Government funding' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4a"
+        },
+        {
+          "type": "row",
+          "id": "MC-4a.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-H.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4b.1",
+      "rowId": "MC-4b.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'the total investment the grant will leverage' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4b"
+        },
+        {
+          "type": "row",
+          "id": "MC-4b.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-F.2",
+            "AF-H.1",
+            "AF-H.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4b.2",
+      "rowId": "MC-4b.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'why the Australian Government should invest in your project' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4b"
+        },
+        {
+          "type": "row",
+          "id": "MC-4b.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.3"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4b.3",
+      "rowId": "MC-4b.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how grant benefits will be substantially retained in Australia' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4b"
+        },
+        {
+          "type": "row",
+          "id": "MC-4b.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.10",
+            "AF-J.7"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4c.1",
+      "rowId": "MC-4c.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'how your project will have a positive impact for communities and businesses in regional and remote Australia' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4c"
+        },
+        {
+          "type": "row",
+          "id": "MC-4c.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "glossary",
+          "term": "Regional and remote Australia"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.10"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4d.1",
+      "rowId": "MC-4d.1",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'the commercial potential of your project, including the expected commercial outputs such as new products, processes or services' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4d"
+        },
+        {
+          "type": "row",
+          "id": "MC-4d.1"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.3",
+            "AF-G.6.1",
+            "AF-G.6.2"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4d.2",
+      "rowId": "MC-4d.2",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'any expected spill over benefits' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4d"
+        },
+        {
+          "type": "row",
+          "id": "MC-4d.2"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.3"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-MC-4d.3",
+      "rowId": "MC-4d.3",
+      "kind": "probability",
+      "template": "An expert on the Cooperative Research Centres Advisory Committee, assessing this application against other applications, would find the draft's response to the requirement 'plans at the end of the project' compelling: specific, supported by evidence, quantified where possible, and competitive for the points available.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4d"
+        },
+        {
+          "type": "row",
+          "id": "MC-4d.3"
+        },
+        {
+          "type": "text",
+          "key": "general-guidance"
+        },
+        {
+          "type": "text",
+          "key": "competitive-each-criterion"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.4"
+          ]
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.3",
+            "AF-G.9"
+          ],
+          "trim": 1
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        },
+        {
+          "type": "reference",
+          "trim": 1
+        },
+        {
+          "type": "project_scale"
+        }
+      ],
+      "family": "compelling",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-I.4"
+      ]
+    },
+    {
+      "id": "Q-EL-00.1",
+      "rowId": "EL-00.1",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'Each CRC-P must be an industry-led collaboration with a SME lead applicant who is the main driver of the project.'",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-00.1"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.2",
+            "AF-F.4b"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.2",
+        "AF-F.4b"
+      ]
+    },
+    {
+      "id": "Q-EL-04.1",
+      "rowId": "EL-04.1",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: The lead applicant is 'an entity incorporated in Australia and a trading corporation, where your trading activities form a sufficiently significant proportion of the corporation’s overall activities as to merit it being described as a trading corporation; or are a substantial and not merely peripheral activity of the corporation.'",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-04.1"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "glossary",
+          "term": "Trading activity"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-B.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-B.3"
+      ],
+      "anyOfGroup": "EL-04"
+    },
+    {
+      "id": "Q-EL-04.2",
+      "rowId": "EL-04.2",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: The lead applicant is 'an incorporated trustee on behalf of a trust where your trading activities form a sufficiently significant proportion of the corporation’s overall activities as to merit it being described as a trading corporation; or are a substantial and not merely peripheral activity of the corporation.'",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-04.2"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "glossary",
+          "term": "Incorporated Trustee"
+        },
+        {
+          "type": "glossary",
+          "term": "Trading activity"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-B.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-B.3"
+      ],
+      "anyOfGroup": "EL-04"
+    },
+    {
+      "id": "Q-EL-05b.1",
+      "rowId": "EL-05b.1",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: The second Australian industry entity partner is 'An Australian business with an Australian Business Number whose trading activities are a substantial and not merely peripheral activity of the business'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-05b.1"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "glossary",
+          "term": "Australian industry entity"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-F.4a"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-F.4a"
+      ]
+    },
+    {
+      "id": "Q-EL-11.1",
+      "rowId": "EL-11.1",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'be a short term, industry-identified and industry-led collaborative research project'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.1"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.2",
+            "AF-G.8"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.2",
+        "AF-G.8"
+      ]
+    },
+    {
+      "id": "Q-EL-11.2",
+      "rowId": "EL-11.2",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'industry-identified'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.2"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.2",
+            "AF-G.5"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.2",
+        "AF-G.5"
+      ]
+    },
+    {
+      "id": "Q-EL-11.3",
+      "rowId": "EL-11.3",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'industry-led'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.3"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.2",
+            "AF-F.4b"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.2",
+        "AF-F.4b"
+      ]
+    },
+    {
+      "id": "Q-EL-11.4",
+      "rowId": "EL-11.4",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'to develop a product, service or process that will solve problems for industry'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.4"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.2",
+            "AF-G.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.2",
+        "AF-G.3"
+      ]
+    },
+    {
+      "id": "Q-EL-11.5",
+      "rowId": "EL-11.5",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'deliver tangible outcomes'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.5"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.3"
+      ]
+    },
+    {
+      "id": "Q-EL-11.6",
+      "rowId": "EL-11.6",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'benefit SMEs and increase their capacity to grow and adapt in changing markets'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.6"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.3"
+      ]
+    },
+    {
+      "id": "Q-EL-11.7",
+      "rowId": "EL-11.7",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'Eligible activities must directly relate to the project and must include at least one of the following: new research proof of concept activities pre-commercialisation of research outcomes industry-focused education and training activities, such as internships and secondments between industry entities and research organisations conferences, workshops, and/or symposia related to the joint research information sharing and communication initiatives related to the joint research.'",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-11.7"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-G.2",
+            "AF-G.9"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-G.2",
+        "AF-G.9"
+      ]
+    },
+    {
+      "id": "Q-EL-12.1",
+      "rowId": "EL-12.1",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: The lead applicant is not 'a research organisation or an entity whose primary purpose is to undertake research'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-12.1"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "glossary",
+          "term": "Research organisation"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-B.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-B.3"
+      ]
+    },
+    {
+      "id": "Q-EL-12.2",
+      "rowId": "EL-12.2",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: The lead applicant is not 'an entity where the majority of your funding is from government grant programs'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-12.2"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-B.3",
+            "AF-J.6.1"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-B.3",
+        "AF-J.6.1"
+      ]
+    },
+    {
+      "id": "Q-EL-12.3",
+      "rowId": "EL-12.3",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: The lead applicant is not 'an entity whose primary purpose is administrative or to provide support services to a CRC-P'.",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-12.3"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-B.3"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-B.3"
+      ]
+    },
+    {
+      "id": "Q-EL-15.1",
+      "rowId": "EL-15.1",
+      "kind": "probability",
+      "template": "Based on the evidence provided, the application meets this eligibility requirement as the Program Delegate would read it: 'I confirm that the applicant, project partners and associated activities are in compliance with current Australian Government sanctions.'",
+      "stateRecipe": [
+        {
+          "type": "row",
+          "id": "EL-15.1"
+        },
+        {
+          "type": "text",
+          "key": "program-delegate-eligibility"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-M.2"
+          ]
+        },
+        {
+          "type": "passages",
+          "scope": "cited"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "family": "eligible",
+      "askedWhen": "assess: each pass of every field the row is answered in",
+      "fields": [
+        "AF-M.2"
+      ]
+    },
+    {
+      "id": "GAP",
+      "rowId": null,
+      "kind": "choice",
+      "template": "What is the main reason this draft falls short of the requirement?",
+      "stateRecipe": [
+        {
+          "type": "row"
+        },
+        {
+          "type": "draft"
+        },
+        {
+          "type": "gap_context"
+        },
+        {
+          "type": "passages",
+          "scope": "linked",
+          "trim": 2
+        }
+      ],
+      "options": [
+        "drafting",
+        "evidence",
+        "information",
+        "conflict",
+        "eligibility",
+        "strategic",
+        "space"
+      ],
+      "family": "gap",
+      "askedWhen": "decide: each row below threshold",
+      "optionDetails": [
+        {
+          "value": "drafting",
+          "meaning": "The evidence is in the digest table but unused or weakly phrased",
+          "next": "redraft"
+        },
+        {
+          "value": "evidence",
+          "meaning": "A claim is made but no passage supports it",
+          "next": "research-then-redraft-or-information-needed"
+        },
+        {
+          "value": "information",
+          "meaning": "No passage covers the requirement",
+          "next": "information-needed"
+        },
+        {
+          "value": "conflict",
+          "meaning": "Documents or fields disagree",
+          "next": "advisor-decision"
+        },
+        {
+          "value": "eligibility",
+          "meaning": "A gate fails, and drafting can't fix it",
+          "next": "blocker"
+        },
+        {
+          "value": "strategic",
+          "meaning": "A framing choice only the advisor or client can make",
+          "next": "advisor-decision"
+        },
+        {
+          "value": "space",
+          "meaning": "The row can't improve without taking characters from another row in the same box",
+          "next": "out-of-space"
+        }
+      ]
+    },
+    {
+      "id": "DG-1",
+      "rowId": null,
+      "kind": "choice",
+      "template": "Which type of document is this?",
+      "stateRecipe": [
+        {
+          "type": "document"
+        }
+      ],
+      "options": [
+        "annual report",
+        "financial statements",
+        "BAS or tax record",
+        "company or ASIC extract",
+        "trust deed",
+        "business plan",
+        "project plan",
+        "technical report",
+        "CV or bio",
+        "letter of support or commitment",
+        "partner agreement or MOU",
+        "IP record (patent, licence)",
+        "market or industry report",
+        "email or meeting notes",
+        "other"
+      ],
+      "family": "digest",
+      "askedWhen": "digest: each document"
+    },
+    {
+      "id": "DG-2",
+      "rowId": null,
+      "kind": "probability",
+      "template": "This file is a bundle of several separate documents.",
+      "stateRecipe": [
+        {
+          "type": "document"
+        }
+      ],
+      "family": "digest",
+      "askedWhen": "digest: each document"
+    },
+    {
+      "id": "DG-3",
+      "rowId": null,
+      "kind": "choice",
+      "template": "Which party does this document describe?",
+      "stateRecipe": [
+        {
+          "type": "document"
+        }
+      ],
+      "options": [
+        "lead applicant",
+        "industry partner",
+        "research organisation",
+        "multiple",
+        "none"
+      ],
+      "family": "digest",
+      "askedWhen": "digest: each document",
+      "optionDetails": [
+        {
+          "value": "lead applicant"
+        },
+        {
+          "value": "industry partner",
+          "meaning": "one option per partner of this type, named"
+        },
+        {
+          "value": "research organisation",
+          "meaning": "one option per partner of this type, named"
+        },
+        {
+          "value": "multiple"
+        },
+        {
+          "value": "none"
+        }
+      ]
+    },
+    {
+      "id": "DG-4",
+      "rowId": null,
+      "kind": "probability",
+      "template": "This passage provides evidence for the requirement '{row}'.",
+      "stateRecipe": [
+        {
+          "type": "row"
+        },
+        {
+          "type": "passage"
+        }
+      ],
+      "family": "digest",
+      "askedWhen": "digest: each candidate passage-to-row link",
+      "suggestFloor": 0.5
+    },
+    {
+      "id": "OV-C",
+      "rowId": null,
+      "kind": "probability",
+      "template": "An expert on the CRC Advisory Committee, comparing this application with others in the round, would find it compelling overall.",
+      "stateRecipe": [
+        {
+          "type": "criterion",
+          "id": "MC-1"
+        },
+        {
+          "type": "criterion",
+          "id": "MC-2"
+        },
+        {
+          "type": "criterion",
+          "id": "MC-3"
+        },
+        {
+          "type": "criterion",
+          "id": "MC-4"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1a"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1b"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-1c"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2a"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2b"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-2c"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3a"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3b"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-3c"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4a"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4b"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4c"
+        },
+        {
+          "type": "subcriterion",
+          "id": "MC-4d"
+        },
+        {
+          "type": "draft",
+          "fields": [
+            "AF-I.1",
+            "AF-I.2",
+            "AF-I.3",
+            "AF-I.4"
+          ]
+        }
+      ],
+      "family": "overall",
+      "askedWhen": "after each assessment pass, once all fields are final"
+    },
+    {
+      "id": "OV-E",
+      "rowId": null,
+      "kind": "probability",
+      "template": "This application meets every CRC-P eligibility requirement.",
+      "stateRecipe": [
+        {
+          "type": "rows",
+          "family": "eligible"
+        },
+        {
+          "type": "rows",
+          "family": "rule"
+        },
+        {
+          "type": "rule_results"
+        },
+        {
+          "type": "fields",
+          "fields": [
+            "AF-G.2",
+            "AF-F.4b",
+            "AF-B.3",
+            "AF-F.4a",
+            "AF-G.8",
+            "AF-G.5",
+            "AF-G.3",
+            "AF-G.9",
+            "AF-J.6.1",
+            "AF-M.2"
+          ]
+        }
+      ],
+      "family": "overall",
+      "askedWhen": "after each assessment pass, once all fields are final"
+    }
+  ]
+}

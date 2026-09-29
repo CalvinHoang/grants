@@ -1,0 +1,329 @@
+# Partners Agreement
+Cooperative Research Centre Project
+In relation to Commonwealth Grant Application Number
+Project title
+between
+Lead Partner (Lead Partner)
+and
+Partner 2
+and
+Partner 3
+and
+Partner 4
+etc.
+IMPORTANT
+This is an example template document only. It is provided as a possible starting point for a CRC-P to develop its Partners Agreement. Its use is not mandator.
+The Lead Partner, as the Grantee under the Grant Agreement, is responsible for ensuring the Partners Agreement meets the requirements of both the Commonwealth and the collaboration. The Lead Partner must ensure the Partners Agreement requires the Partners to comply with obligations consistent with the clauses that are referred to at clause B of the Grant Details of the Grant Agreement. It is recommended that whichever approach is taken in developing the Partners Agreement, the clauses relating to these obligations are retained without change or if this template is not used, that the clauses addressing these issues are carefully considered.
+Ensure this, and all other red advisory or instructional text, is removed from this template before finalising the Agreement.
+This document is not intended as legal or taxation advice. Any person intending to make use of this document should seek their own independent legal, financial and taxation advice to ensure that the document meets the circumstances and requirements of the user.
+Contents
+Parties to this Agreement	3
+Background	3
+Scope of this Agreement	3
+Agreed Terms	5
+A.	Project activity	5
+B.	Duration of the Project and the Agreement	6
+C.	Reporting	6
+Supplementary Terms	8
+Standard Conditions	13
+Signatures	17
+Schedule 1	18
+### Parties to this Agreement
+#### Lead Partner
+| Full legal name | Legal entity name |
+| Trading or business name | Trading name |
+| ABN (or ACN) | 00 000 000 000 |
+| Address |  |
+
+#### Partner 2
+| Full legal name | Legal entity name |
+| Trading or business name | Trading name |
+| ABN (or ACN) | 00 000 000 000 |
+| Address |  |
+
+#### Partner 3
+| Full legal name | Legal entity name |
+| Trading or business name | Trading name |
+| ABN (or ACN) | 00 000 000 000 |
+| Address |  |
+
+#### Partner 4
+| Full legal name | Legal entity name |
+| Trading or business name | Trading name |
+| ABN (or ACN) | 00 000 000 000 |
+| Address |  |
+
+### Background
+- The Parties have agreed to contribute to and participate in the Project.
+- Pursuant to the Grant Agreement with the Commonwealth, the Cooperative Research Centres (CRC) Project, insert Project title, is funded through the CRC Projects Program.
+- This Agreement specifies the terms and conditions of the arrangements between the Parties and obliges them, as Partners, to make the Contributions and comply with other obligations as set out in this Agreement.
+### Scope of this Agreement
+- This Agreement comprises:
+- this document;
+- the Supplementary Terms;
+- the Standard Conditions;
+- the Agreed Terms;
+- any other document referenced or incorporated in the Agreed Terms.
+- If there is any ambiguity or inconsistency between the documents comprising this Agreement in relation to a Grant, the document appearing higher in the list will have precedence to the extent of the ambiguity or inconsistency. In the event of any inconsistency between this Agreement and the Grant Agreement, the Grant Agreement takes precedence, as detailed in clause 11.1.
+## Agreed Terms
+Project activity
+#### Project title
+Insert Project title as per the Grant Agreement
+#### Short project description
+Insert short Project description as per the Grant Agreement
+#### Project description and outcomes
+Insert Project description and outcomes as per the Grant Agreement
+#### Project Partners
+Project Partners include the Lead Partner and all other Partners contributing to the Project and which are Parties to this Agreement.
+The Lead Partner must ensure that at all times it has among the Project Partners, and approved by the Commonwealth, at least:
+-	two industry entities (as defined in the Guidelines), including at least one SME; and
+-	one research organisation (as defined in the Guidelines).
+The Lead Partner may change or remove Project Partners during the Agreement Period in accordance with the provisions of the Grant Agreement and this Agreement.
+#### Partner contributions
+During the Agreement Period, the Partners agree to make the Contributions to the Project as set out in the following table: insert contribution details from the Grant Agreement into the table below
+| Name of Contribution | Financial Year | Amount / (GST exclusive) |
+|  | Cash | 2024/25 |  |
+|  | Cash - Staff | 2024/25 |  |
+|  | In-kind | 2024/25 |  |
+|  | Cash | 2025/26 |  |
+|  | Cash – Staff | 2025/26 |  |
+|  | In-kind | 2025/26 |  |
+|  |
+
+#### Milestone Schedule
+In undertaking the Project, the Partners agree to meet the following milestones by the due dates.
+| Milestone name and description | Due date |
+|  | Insert milestone names, descriptions and due dates from the Grant Agreement |  |
+|  |
+|  |
+|  |
+
+#### Partner expectations and obligations
+For the duration of the Agreement, the Lead Partner agrees to ensure the Grant and any Partner Contributions are used for, and only for, the purposes of undertaking the Project consistent with the activity budget in the Grant Agreement.
+During the Agreement Period, the Lead Partner will provide the Partners with products, services and/or access as follows:
+Insert details or dot points as appropriate of the products, services/access the Partners will receive through the collaboration. Examples include: copies of all research reports prepared by the Partners; attendance at stakeholder meetings; recognition in publications and website as a sponsor/Partner of the project, etc.
+For the duration of this Agreement each Partner agrees that it will:
+-	undertake the Project at the times and in the manner specified in this Agreement;
+-	undertake the Project in accordance with Guidelines;
+-	diligently perform its obligations as set out in this Agreement to a high professional standard;
+-	cooperate with and provide to the Lead Partner any information about their Contributions and activities reasonably required by the Lead Partner for it to meet its reporting and other obligations under the Grant Agreement.
+-	support the Lead Partner to meet its obligations to the Commonwealth under the Grant Agreement concerning compliance with law and policy, with any relevant statutes, regulations, or by-laws, and with requirements of any Commonwealth, State, Territory or local authority; and
+-	act reasonably and in good faith with the other Partners.
+Duration of the Project and the Agreement
+The Project activity begins on insert the date the Activity starts as per section C of the Grant Agreement and ends on insert date of the “Activity Completion Date” as per section C of the Grant Agreement.
+This Agreement starts on insert the date the Activity starts as per section C of the Grant Agreement and ends on insert a date no sooner than the “Agreement End Date” as per section C of the Grant Agreement, or when all reporting requirements relating to the Project under the Grant Agreement have been met, whichever is the later, unless otherwise terminated in accordance with this Agreement.
+Reporting
+The Lead Partner must provide the reports indicated in the table below to the Commonwealth in accordance with the reporting requirements under the Grant Agreement. Each Partner agrees to provide all required information to enable the Lead Partner to prepare, complete and submit the reports within the required timeframes.
+| Period start date | Period end date | Due date for partner to report to lead partner | Due date for lead partner to report to Department |
+| First day of each of quarters 1, 2 and 3 in which the Project is active | Final day of each of quarters 1, 2 and 3 in which the Project is active | XX days after the period end date | 30 days after the period end date |
+| First day of each quarter 4 in which the Project is active | Final day of each quarter 4 in which the Project is active | XX days after the period end date | 30 days after the period end date |
+| End of Project Report (including independent audit report) | First day of the last quarter in which the Project is active | Final day of the last quarter in which the Project is active | XX days after the period end date | 90 days after the period end date |
+
+Financial year quarters are:
+Quarter 1 - 1 July to 30 September
+Quarter 2 - 1 October to 31 December
+Quarter 3 - 1 January to 31 March
+Quarter 4 - 1 April to 30 June.
+Partners agree to retain appropriate records as evidence to support reporting, as detailed in clause 5 ‘Record keeping’.
+## Supplementary Terms
+Intellectual Property Rights
+- This clause ST1 does not affect the ownership of the Intellectual Property Rights in Existing Material.
+- The Intellectual Property Rights in the Project Material will vest in the Lead Partner / Partners or other as appropriate and determined by the Partners as detailed in Schedule 1 of this Agreement.
+- Each Partner:
+- will adhere to the documented arrangements and procedures for dealing with Intellectual Property Rights in Project Material as set out in Schedule 1 of this Agreement;
+- will adhere to the documented arrangements and procedures as set out in Schedule 1 of this Agreement, if applicable, to ensure that, prior to the publication or disclosure of Project Material, consideration is given to the potential prejudice to its subsistence or Utilisation, including the possibility that publication or disclosure might preclude the grant of a patent or cause the loss of Intellectual Property Rights;
+- must ensure that any Utilisation of Project Material in the context of this Agreement:
+is consistent with the nature of the Project and the Program; and,
+maximises the benefits to Australia and the Partners;
+- will use its reasonable efforts to obtain from its Personnel any consent in relation to their Moral Rights that may be reasonably necessary for the Project or for Utilisation of the Project Material; and
+- will not use another Partner’s name or trademarks without the express permission of that Partner.
+- The Partners provide to the Commonwealth a permanent, non‐exclusive, irrevocable, royalty‐free licence to use, modify, communicate, publish, adapt and sub-license the Reporting Material for Commonwealth Purposes. This licence does not apply to the Project Material.
+Equipment and assets
+Detail here, or alternatively, in a separate schedule, any ownership arrangements of equipment or assets purchased or acquired through the Project in accordance with the provisions of the Guidelines.
+Other government funding
+Each Partner must provide to the Lead Partner full details of any financial assistance for activities in connection with the Project which the Partner receives from another Commonwealth, State or Territory government agency or source after the commencement of this Agreement, including;
+- the amount and source of the funding, and
+- the name of the program under which it was provided
+within 10 business days of the Partner receiving notice that the financial assistance has been approved.
+Breach of the Partners Agreement
+- Each Partner agrees to notify the Lead Partner immediately upon becoming aware of any circumstance that is likely to adversely affect the Partner’s ability to comply with the terms of this Agreement, in particular its solvency or ability to ensure that the Project is carried out in accordance with this Agreement.
+- Each Partner must, within 5 business days of becoming aware of any breach or suspected breach of this Agreement that would affect the Lead Partner’s ability to comply with its obligations under the Grant Agreement:
+- provide notice to the Lead Partner of that breach or suspected breach;
+- provide all information reasonably required by the Lead Partner in relation to the breach or suspected breach;
+- identify to the Lead Partner the steps the Partner intends to take to address the matter;
+- keep the Lead Partner informed of any action it takes to remedy the breach; and
+- provide notice to the Lead Partner once the breach is remedied.
+Change or removal of Partners
+- Subject to clause ST5.3, the Lead Partner may, acting reasonably, elect to remove from the Project another Partner by providing written notice to that Partner, with a copy to all other Partners and the Commonwealth.
+- A change of Partner is subject to the Lead Partner gaining the Commonwealth’s approval as detailed in the Grant Agreement section B. Activity - Project partners and under clause 8 of Schedule 1.
+- The Lead Partner may remove a Partner from the Project with immediate effect by written notice to that Partner, if:
+- the Partner breaches any provision of this Agreement and fails to remedy the breach within 14 days after receiving notice requiring it to do so;
+- the Partner breaches a provision of this Agreement which is not capable of remedy;
+- the Partner persistently breaches a provision of this Agreement despite notice of the breach;
+- in the reasonable opinion of the Lead Partner, the Partner is not conducting the Project in a competent and diligent manner;
+- the Partner fails to notify the Lead Partner of a conflict of interest, or in the opinion of the Lead Partner a conflict of interest exists, which would prevent the Partner from performing its obligations under this Agreement;
+- the Partner fails to provide its Contributions in accordance with the Agreed Terms of this Agreement, or in time to provide for the Project outcomes, activities or Milestones as outlined in the Agreed Terms of this Agreement;
+- the Partner does not comply with a Commonwealth direction requiring the Partner to comply with any obligation owed to the Commonwealth under this Agreement; or
+- an event specified in clause ST5.4 occurs.
+- The Partner must notify the Lead Partner immediately if:
+- there is any change in the direct or indirect beneficial ownership or control of the Partner;
+- the Partner disposes of the whole or any part of its assets, operations or business other than in the ordinary course of business;
+- the Partner ceases to carry on business;
+- the Partner ceases to be able to pay its debts as they become due;
+- proceedings are initiated with a view to obtaining an order for the winding up of the Partner, or any person convenes a meeting for the purpose of considering or passing any resolution for the winding up of the Partner;
+- the Partner applies to come under, the Partner receives a notice requiring it to show cause why it should not come under, an order has been made for the purpose of placing the Partner under, or the Partner otherwise comes under one of the forms of external administration referred to in Chapter 5 of the Corporations Act 2001 (Cth) or Chapter 11 of the Corporations (Aboriginal and Torres Strait Islander) Act 2006 (Cth) or equivalent provisions in State or Territory legislation in relation to incorporated associations;
+- the Partner being a natural person is declared bankrupt or assigns his or her estate for the benefit of creditors;
+- where the Partner is a partnership, any step is taken to dissolve that partnership; or
+- anything analogous to an event referred to in clause ST5.4 (e) to (h) occurs in relation to the Partner.
+- If a Partner is removed from the Project pursuant to this clause ST5, it is not entitled to reimbursement of any costs incurred as a result of expulsion, and must assign its share of ownership of the Project Material/Intellectual Property Rights in accordance with Schedule 1 of this Agreement or as otherwise agreed in writing by the Partners.
+- Subject to clause ST5.1, removal will not affect the enforceability of any rights or obligations accrued under this Agreement which survive termination.
+- From the date of removal, the Lead Partner will cease to be liable to pay or provide to the removed Partner any monies due under this Agreement, except to the extent those monies have been legally committed for expenditure by the Partner in accordance with this Agreement and are payable by the Partner as a current liability (written evidence of which will be required) before the date on which the Partner receives notice of the removal
+- From the date of removal, the removed Partner will cease to be liable to make any Contribution to the Project scheduled to be made after the removal date.
+Agreement Termination
+- The Lead Partner may terminate this Agreement for default, with immediate effect by written notice to the other Partners, if any of the events detailed in clauses ST5.3 (a) to (h) occurs.
+- The Lead Partner may terminate this Agreement by notice, with immediate effect by OR with x days’ written notice, where the Commonwealth terminates the Grant Agreement.
+- If the Lead Partner terminates this Agreement under clause ST6.1 or ST6.2, all Partners must assign their share of ownership of the Project Material/Intellectual Property Rights in accordance with Schedule 1 of this Agreement or as otherwise agreed in writing by the Partners.
+- If the Lead Partner terminates this Agreement under clause ST6.1 or ST6.2:
+- termination will not affect the enforceability of any rights or obligations accrued under this Agreement which survive termination;
+- the Lead Partner is not obliged to pay to the Partners any outstanding amount of the monies due under this Agreement, except to the extent that those monies have been legally committed for expenditure by the Partner in accordance with this Agreement and payable by the Partner as a current liability (written evidence of which will be required) by the date the Partner receives the notice of termination;
+- as of the date the Partners receive the notice of termination, the Partners will cease to be liable to make further Contributions to the Project;
+- the Lead Partner is entitled to recover from Partners any Project monies provided by the Lead Partner to a Partner which have not been spent, or legally committed for expenditure by the Partner in accordance with this Agreement and payable by the Partner as a current liability (written evidence of which will be required), by the date the Partner receives the notice of termination; and
+- any licences of Existing Material and copyright in reports remain in force and survive termination.
+Access/monitoring/inspection
+- Each Partner agrees to give the Commonwealth, or any persons authorised in writing by the Commonwealth:
+- access to premises where the Project is being performed and/or where Material relating to the Project is kept within the time period specified in a Commonwealth notice; and
+- permission to inspect and take copies of any Material relevant to the Project.
+- The Auditor-General and any information officer under the Australian Information Commissioner Act 2010 (Cth) (including their delegates) are persons authorised for the purposes of clause ST7.1.
+- This clause ST7 does not detract from the statutory powers of the Auditor-General or an Information Officer (including their delegates).
+Fraud
+- Each Partner:
+- acknowledges that giving false or misleading information to the Commonwealth is a serious offence under section 137.1 of the Criminal Code Act 1995 (Cth); and
+- must ensure that all of its Personnel engaged in connection with this Agreement acknowledges the information contained in this clause.
+- In this Agreement, Fraud means dishonestly obtaining a benefit, or causing a loss, by deception or other means, and includes alleged, attempted, suspected or detected fraud.
+- Each Partner must ensure that its Personnel and subcontractors do not engage in any Fraud in relation to the Project.
+- If a Partner becomes aware of:
+- any Fraud in relation to the performance of the Project; or
+- any other Fraud that has had or may have an effect on the performance of the Project;
+- it must, within 5 business days, report the matter to the Lead Partner, the Commonwealth, and all appropriate law enforcement and regulatory agencies.
+- This clause ST8 survives termination or expiry of the Agreement.
+Compliance with legislation
+- In this Agreement, Legislation means a provision of a statute or subordinate legislation of the Commonwealth, or of a State, Territory or local authority
+- Each Partner agrees to comply with all Legislation applicable to its performance of this Agreement.
+- Each Partner agrees, in carrying out its obligations under this Agreement, to comply with any of the Commonwealth’s policies as notified, referred or made available by the Commonwealth to the Lead Partner (including by reference to an internet site).
+- In carrying out the Project, each Partner must comply with the following applicable policies/laws:
+- all relevant ethics codes and guidelines adopted by the National Health and Medical Research Council, the Office of the Gene Technology Regulator, and all other relevant regulatory agencies operating in Australia and in any place in which the research is being conducted
+- The NHMRC/ARC/UA Australian Code for the Responsible Conduct of Research (2018), and, if applicable, the NHMRC/ARC/AVCC National Statement on Ethical Conduct in Human Research (2007 or subsequent updates)
+- State, Territory or Commonwealth laws relating to the employment or engagement of persons in any capacity where they may have contact with individuals under the age of 18 years, including all necessary Working With Children Checks
+- National Principles for Child Safe Organisations, which have been accepted in draft form by the Commonwealth Government (available at: https://www.humanrights.gov.au/national-principles-child-safe-organisations)
+- AIATSIS Code of Ethics for Aboriginal & Torres Strait Islander Research
+- relevant Commonwealth and state/territory legislation, policies, and protocols in relation to the collection and use of Traditional and Cultural knowledge; and biodiscovery
+- the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act).
+Work health and safety
+- Each Partner agrees to ensure that it complies at all times with all applicable work health and safety legislative and regulatory requirements and any additional work health and safety requirements set out in the Grant Agreement.
+- If requested by the Commonwealth, each Partner agrees to provide copies of its work health and safety management plans and processes and such other details of the arrangements it has in place to meet the requirements referred to in clause ST10.1.
+- When using the Commonwealth’s premises or facilities, the Partners agree to comply with all reasonable directions and procedures relating to work health and safety and security in effect at those premises or in regard to those facilities, as notified by the Commonwealth or as might reasonably be inferred from the use to which the premises or facilities are being put.
+Counterparts
+- This Agreement may be executed in any number of counterparts. All counterparts, taken together, constitute one instrument. A Party may execute this Agreement by signing any counterpart.
+## Standard Conditions
+Acknowledgements
+- Each Partner agrees to acknowledge the Commonwealth’s support in all Material, publications and promotional and advertising materials published in connection with this Agreement, in accordance with any notification the Commonwealth may provide to the Lead Partner concerning the form of acknowledgement to be used.
+Relationship between the Parties
+- A Party is not by virtue of this Agreement the employee, agent or partner of any other Party, or the Commonwealth, and is not authorised to bind or represent any other Party, or the Commonwealth.
+Conflict of interest
+- Each Partner warrants that, to the best of its knowledge, at the commencement of this Agreement, neither it nor its Personnel have any actual, perceived or potential conflicts of interest in relation the Project.
+- If during the term of the Agreement, any actual, perceived or potential conflict arises or there is any material change to a previously disclosed conflict of interest, each Partner agrees to:
+- notify the Lead Partner promptly and make full disclosure of all relevant information relating to the conflict; and
+- take any steps the Lead Partner or Commonwealth reasonably requires to resolve or otherwise deal with that conflict.
+Changes to the Agreement
+- No agreement or understanding varying this Agreement shall be legally binding unless it is signed in writing by all Parties.
+Record keeping
+- Each partner agrees to keep financial accounts and other Records that:
+- detail and document the conduct and management of their contribution to the Project;
+- enable all receipts and payments related to the Project to be identified and reported in accordance with this Agreement.
+- Each Partner agrees to keep the Records for five years after the expiry or termination of this Agreement or such other time specified in the Grant Agreement and provide copies of the Records to the Lead Partner or the Commonwealth upon request.
+Privacy
+- When dealing with Personal Information in carrying out the Project, each Partner agrees:
+- to comply with the requirements of the Privacy Act 1988 (Cth);
+- not to do anything which, if done by the Commonwealth, would be a breach of an Australian Privacy Principle (as per its meaning in the Privacy Act 1988 (Cth);
+- to ensure that any of the Partner’s subcontractors or Personnel who deal with Personal Information for the purposes of this Agreement are aware of the requirements of the Privacy Act 1988 (Cth) and the Partner’s obligations under this clause;
+- to immediately notify the Lead Partner if the Partner becomes aware of an actual or possible breach of this clause by the Partner or any of the Partner’s subcontractors or Personnel.
+- In carrying out the Project, each Partner agrees not to send any Personal Information outside of Australia without the Commonwealth’s prior written approval. The Commonwealth may impose any conditions it considers appropriate when giving its approval.
+Confidentiality
+- The Parties agree not to disclose any other Party’s Confidential Information, including any Confidential Information identified at item B of Schedule 1, without the other Party’s prior written consent unless required or authorised by law or Parliament to disclose.
+Insurance
+- Each Partner agrees to maintain adequate insurance for as long as any obligations remain in connection with this Agreement and provide proof of insurance to the Commonwealth upon request.
+Dispute resolution
+- The Parties agree not to initiate legal proceedings in relation to a dispute arising under this Agreement unless they have first tried and failed to resolve the dispute by negotiation.
+- Unless clause 9.3 applies, the Parties agree to continue to perform their respective obligations under this Agreement when a dispute exists.
+- The Parties may agree to suspend performance of the Agreement pending resolution of the dispute.
+- Failing settlement by negotiation in accordance with clause 9.1, the Parties may agree to refer the dispute to an independent third person with power to intervene and direct some form of resolution, in which case the Parties will be bound by that resolution. If the Parties do not agree to refer the dispute to an independent third person, either Party may initiate legal proceedings.
+- Each Party will bear their own costs in complying with this clause 9, and the Parties will share equally the cost of any independent third person engaged under clause 9.4.
+- The procedure for dispute resolution under this clause does not apply to any action relating to termination, cancellation or urgent interlocutory relief.
+Survival
+- The following Agreed Terms and clauses survive termination, cancellation or expiry of this Agreement:
+- ST1 (Intellectual Property Rights);
+- ST7 (Access/Monitoring/Inspection)
+- ST8 (Fraud)
+- clause 1 (Acknowledgements)
+- clause 5  (Record keeping);
+- clause 6  (Privacy);
+- clause 7  (Confidentiality);
+- clause 8  (Insurance)
+- clause 10 (Survival);
+- clause 12 (Definitions); and
+- any other clause which expressly or by implication from its nature is meant to survive.
+Relationship to the Grant Agreement
+- Nothing in this Agreement will reduce or otherwise affect the obligations of the Lead Partner under the Grant Agreement. In the event of any inconsistency between this Agreement and the Grant Agreement, the Grant Agreement takes precedence.
+Definitions
+- In this Agreement, unless the contrary appears:
+- Agreement means this agreement between the Partners, as may be varied from time to time in accordance with clause 4, including any schedules and attachments.
+- Agreement Period means the term of the Agreement specified at item B of the Agreed Terms of this Agreement.
+- Commonwealth means the Commonwealth of Australia.
+- Commonwealth Purposes includes:
+- the Commonwealth verifying and assessing funding proposals, including a grant application;
+- the Commonwealth administering, monitoring, reporting on, auditing, publicising and evaluating a grant program or exercising its rights under this Agreement;
+- the Commonwealth preparing, managing, reporting on, auditing and evaluating agreements, including this Agreement;
+- the Commonwealth developing and publishing policies, programs, guidelines and reports, including Commonwealth annual reports;
+- but in all cases:
+- excludes the commercialisation (being for‐profit use) of the Material by the Commonwealth.
+- Confidential Information means information that is by its nature confidential and:
+- is designated by a Party as confidential; or
+- a Party knows or ought to know is confidential,
+- but does not include:
+- information that is or becomes public knowledge otherwise than by breach of this Agreement or any other confidentiality obligation.
+- Contributions means the cash, personnel, facilities and services to be provided by the Partners, from their own resources, for the purposes of undertaking the Project, as specified under item A of the Agreed Terms of this Agreement.
+- Existing Material means Material developed independently of this Agreement that is incorporated in or supplied as part of Reporting Material or Project Material.
+- Grant means the money, or any part of it, payable by the Commonwealth to the Lead Partner (‘Grantee’) for the Project as specified in the Grant Agreement and includes any interest earned on that money.
+- Grant Agreement means the agreement between the Commonwealth and the Lead Partner (‘Grantee’) for the purposes of funding and managing the Project.
+- Guidelines means the Cooperative Research Centres Projects Program Round Grant Opportunity Guidelines (under which the grant was awarded), and any other guidelines issued by the Commonwealth from time to time in relation to the Program and its administration.
+- Intellectual Property Rights means all copyright, patents, registered and unregistered trademarks (including service marks), registered designs, and other rights resulting from intellectual activity (other than moral rights under the Copyright Act 1968 (Cth)).
+- Lead Partner means the Partner that entered into the Grant Agreement with the Commonwealth as the ‘Grantee’.
+- Material includes documents, equipment, software (including source code and object code versions), goods, information and data stored by any means including all copies and extracts of them.
+- Moral Rights means the right of integrity of authorship (that is, not to have a work subjected to derogatory treatment), the right of attribution of authorship of a work, and the right not to have authorship of a work falsely attributed, as defined in the Copyright Act 1968 (Cth).
+- Partner means a person, body or organisation that is a signatory to this Agreement and has agreed to support the Project and provide Contributions.
+- Party means a party to this Agreement.
+- Personal Information has the same meaning as in the Privacy Act 1988 (Cth).
+- Personnel means, in relation to a Party, any employee, officer, agent, professional adviser or subcontractor of that Party.
+- Program means the Cooperative Research Centres (CRC) Projects Program.
+- Project means the collaborative effort of the Partners and all associated activities to deliver the project identified in clause A of the Agreed Terms.
+- Project Material means any Material, other than Reporting Material, created or developed by the Partners as a result of the Project.
+- Records includes documents, information and data stored by any means and all copies and extracts of the same.
+- Reporting Material means all Material which the Lead partner is required to provide to the Commonwealth for reporting purposes as specified in this Agreement and includes any Existing Material that is incorporated in or supplied with the Reporting Material.
+- Utilisation means technology transfer, take-up and use of research outputs by end-users. Commercial utilisation includes the manufacture, sale, hire or other exploitation of a product or process, or the provision of a service, incorporating Project Material or licensing of any third party to do any of those things, or otherwise licensing or assigning the Project Material.
+## Signatures
+[Select and replicate as necessary the appropriate execution block from the following for each of the contracting Parties.]
+Executed by [insert company name] in accordance with section 127 of the Corporations Act 2001 (Cth) in the presence of
+|  | Name | Signature |
+| Director |  |
+| Director/ sole director/ company secretary/ |  |
+| Date |  |
+
+Signed for [insert party name] by an authorised officer in the presence of
+|  | Name | Signature |
+| Authorised officer |  |
+| Witness |  |
+| Date |  |
+
+## Schedule 1
+- Intellectual Property Arrangements
+- Confidential Information

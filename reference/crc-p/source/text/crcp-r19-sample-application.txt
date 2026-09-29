@@ -1,0 +1,534 @@
+# Cooperative Research Centres Program -
+Cooperative Research Centres Projects (CRC-P) Grant Round 19
+This document shows the questions included in the online application form for this grant opportunity. It will help you prepare your responses and the mandatory attachments you need before you apply online.
+Instructions
+The online form captures the information required by the department to assess and manage your application for services and funding.
+The first page of the application page contains the following instructions.
+Internet browsers supported by the portal
+We recommend that you use the following browsers for optimum functionality:
+- On Windows: The latest versions of Mozilla Firefox, Google Chrome and Microsoft Edge
+- On Mac: The latest versions of Safari and Google Chrome
+Selecting a program
+On the following page you must enter your details and then select the program you are applying for. For example: Cooperative Research Centres Projects Grant Round 19
+Are you eligible to apply?
+Before you start your application, you must answer some questions to self-assess whether you are eligible to apply.
+Completing your application
+The application consists of separate pages, shown in a navigation menu on the left hand side of the portal page. You can navigate between pages using the menu or the buttons at the bottom of each page.
+A warning message may appear if you have not completed all of the mandatory questions or if there is an issue with information you have entered. If a question is not mandatory it will be clearly marked – Optional.
+Saving your responses
+Once you start your application, you can save your changes at any time by using the Save button.
+To prevent you losing your work you should save often. The portal will time out after 30 minutes if you do not save. Typing or moving your mouse does not reset the time out.
+You must use the Save and Continue button to validate the information on each page. A tick indicates a validated page.
+You can modify saved responses up until you submit your application.
+Participants
+Once you start your application, you may invite others to assist, via the application summary page. To do this:
+- select the Application summary link at the top of the page
+- select the Participants button
+- enter the details.
+An email will be sent to the participant inviting them to access the application.
+Saving with multiple participants
+If more than one participant is working on your application at the same time you cannot save simultaneously. You should coordinate your entries to prevent losing your work.
+Submitting your application
+You must complete every page of the application before you can submit.
+You must also read and agree to the declaration which advises you of your responsibilities.
+Check all your answers before you submit your application. After you submit, it will no longer be editable.
+Getting help
+If you require further assistance completing your application, contact us by email or web chat or on 13 28 46.
+## Program selection
+Before you start your application, we need to first identify what type of entity is applying.
+Some programs we offer allow entities without an ABN to apply. The form is designed to accommodate these entities. However, for this grant opportunity, an ABN is mandatory. If you do not have an ABN this grant opportunity will not appear in the program selection at the bottom of the first page and you will not be able to continue.
+If you are a trustee applying on behalf of a trust we will need details of both the trust and trustee.
+Before you start you should have the following details ready if they are applicable to you.
+- Australian Business Number (ABN)
+- or
+- Australian Company Number (ACN)
+- Indigenous Corporation Number
+### Program selection
+You must select from a drop-down menu the program that you are applying for. If you have been provided with an Invitation code, you will be able to enter it here which will select the program for you.
+- Field 1 select - Cooperative Research Centres Projects Round 19
+When you have selected the program, the following text will appear.
+The Australian Government has committed a total of $847 million over four years for the program from 2025-26 to 2028-29. CRCs and CRC-Ps are funded by the same appropriation. There is no specific amount allocated to each of the two funding streams, however past round have totalled approximately $30 million to $50 million. For this grant opportunity, up to $20 million in funding is allocated to applications that develop or enhance AI systems and technologies.
+The Cooperative Research Centres Program (the program) supports industry-led collaborations between industry, researchers and the community. The program is a proven model for linking researchers with industry to focus on research and development towards use and commercialisation.
+The objectives of the program are to:
+improve the competitiveness, productivity and sustainability of Australian industries, especially where Australia has a competitive strength, and in line with government priorities
+foster high quality research to solve industry-identified problems through industry-led and outcome-focused collaborative research partnerships between industry entities and research organisations
+encourage and facilitate small and medium enterprise (SME) participation in collaborative research.
+The program consists of two elements:
+Cooperative Research Centres (CRC) grants to support medium to long term, industry-led collaborations; and
+Cooperative Research Centres Projects (CRC-Ps) grants to support short term, industry-led collaborative research.
+This grant opportunity is for the CRC-P element. It is open to applications for short-term industry-led collaborative research in all industry sectors, with a focus on Government priorities including the National Artificial Intelligence (AI) Plan, National Reconstruction Fund (NRF) priority areas and the National Science and Research Priorities. The maximum project period is 3 years.
+The maximum grant amount is $3 million and the minimum is $100,000.
+You should read the grant opportunity guidelines and sample grant agreements before filling out this application. We recommend you keep the guidelines open as you are completing your application so you can refer to them when providing your responses.
+You may submit your application at any time up until 5.00pm AEST on 12 May 2026. Please take account of time zone differences when submitting your application.
+To prevent you losing your work you should save often. The portal will time out after 30 minutes if you do not save. Typing or moving your mouse does not reset the time out.
+If more than one participant is working on your application at the same time you cannot save simultaneously. You should coordinate your entries to prevent losing your work.
+## Eligibility
+We will ask you the following questions to establish your eligibility for the Cooperative Research Centres Projects Round 19 grant opportunity.
+Questions marked with an asterisk are mandatory.
+- Are you a SME at lodgement of this application?
+- SMEs are businesses with less than 200 employees by headcount. If you are part of a consolidated group for tax purposes, the consolidated group must have less than 200 employees in total.
+- You must answer yes to proceed to next question.
+- Are you registered for the Goods and Services Tax (GST)?
+- You must answer yes to proceed to next question
+- Are you one of the following:
+- an entity incorporated in Australia and a trading corporation, where your trading activities:
+- form a sufficiently significant proportion of the corporation’s overall activities as to merit it being described as a trading corporation; or
+- are a substantial, and not merely peripheral activity of the corporation?
+- an incorporated trustee on behalf of a trust, where the trust’s trading activities:
+- form a sufficiently significant proportion of the trust’s overall activities as to merit it being described as a trading corporation; or
+- are a substantial and not merely peripheral activity of the corporation?
+- You must answer yes to proceed to next question.
+- Will your CRC Project include amongst its project partners at least:
+- a lead applicant which is an Australian industry entity SME
+- a second Australian industry entity of any size
+- an Australian research organisation?
+- You must answer yes to proceed to next question.
+- Is the grant amount requested up to 50 percent of total eligible project expenditure?
+- The remaining eligible project costs not covered by the grant amount must be covered by you and your partner’s contributions.
+You must answer yes to proceed to next question.
+- Does your project have at least $200,000 in total eligible project value?
+You must answer yes to proceed to next section.
+## Applicant address
+### Applicant street address
+You must provide your street address.
+When you start typing the address in the field you can select the correct one from the drop down list that appears. If it is not there you can enter manually.
+### Applicant postal address
+You must provide your postal address.
+When you start typing the address in the field you can select the correct one from the drop down list that appears. If it is not there you can enter manually.
+## Key contacts
+You must provide the details of a primary contact for your application.
+The primary contact is the person authorised to act on behalf of the applicant and we send all email correspondence to this person. If you are not the primary contact, we will send an email to this person to invite them to register as a participant in the application. It is important that they register, or our emails will not be received. We recommend you let them know this.
+If these details change, inform us as soon as possible so emails can be redirected.
+If this application is successful, the primary contact will also need to nominate an authorised signatory to accept an agreement with the Commonwealth. The primary contact will not be able to accept an agreement unless they invite themselves to be the authorised signatory as well.
+Primary contact
+- Title (optional)
+- Given name
+- Family name
+- Phone number
+- Email address
+- Relationship to applicant
+Authorised signatory
+- Title (optional)
+- Given name
+- Family name
+- Phone number
+- Email address
+## About your organisation
+We collect the following data from all applicants. We use this data to better understand your organisation and to help us develop better policies and programs.
+### Latest financial year figures
+Values must be that of the entity applying (the ‘applicant’), regardless of whether the entity belongs to a consolidated group for tax purposes. These fields are mandatory and entering $0 is acceptable if applicable for your organisation.
+All values must be whole numbers. For example:
+6.5 months should be presented as 7 months
+$2 million should be presented as $2,000,000.
+- Has your organisation existed for a complete financial year?
+- If yes, what was the latest financial year completed?
+- If no, enter the number of months completed in the financial year to date.
+Provide the following figures for the financial year you have entered above.
+- Sales revenue (turnover)
+Total revenue from the sale of goods and services, as reported in your organisation’s Business Activity Statement (BAS).
+- Export revenue
+Total revenue from export sales, as reported in your organisation’s Business Activity Statement (BAS).
+- R&D expenditure
+Expenditure on research and development, i.e. creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of humankind, culture and society, and the use of this stock of knowledge to devise new applications.
+- Taxable income
+Taxable income or loss as per your organisation’s income tax return form.
+- Number of employees including working proprietors and salaried directors (headcount)
+Number of individuals who are entitled to paid leave (sick and holiday), or generate income from managing your organisation. This should include working proprietors and salaried directors.
+- Number of independent contractors (headcount)
+Number of individuals engaged by your organisation under a commercial contract (rather than an employment contract) to provide employee-like services on site.
+### ANZSIC code
+Provide the Australian and New Zealand Standard Industrial Classification (ANZSIC) details for your organisation from a drop-down menu:
+- your organisation’s main revenue earning ANZSIC division.
+- your organisation’s main revenue earning ANZSIC class.
+### Indigenous organisations
+Is your organisation Indigenous owned?
+An organisation is considered Indigenous owned where at least 51% of the organisation’s members or proprietors are Indigenous.
+Is your organisation Indigenous controlled?
+An organisation is considered Indigenous controlled where at least 51% of the organisation’s board or management committee is Indigenous.
+## Project Partners
+You must list all the project partners, including the lead applicant, that are in the collaboration and making contributions (cash, cash-staff and/or in-kind). The lead partner must be a SME. If the lead partner is part of a consolidated group for tax purposes, the consolidated group must have less than 200 employees in total.
+- Each CRC-P applicant must include amongst its project partners at least:
+- a lead applicant which is an Australian industry entity SME
+- a second Australian industry entity of any size
+- an Australian research organisation.
+- Partners from existing or former CRCs or CRC-Ps can be partners in other CRCs or CRC-Ps.
+Partners do not need to commit resources for the entire project period.
+All partners must make cash, cash-staff and/or in-kind contributions to the CRC-P. We treat partners’ proposed cash, cash-staff and in-kind contributions equally for the purposes of calculating the maximum grant amount. Partner contributions are money and non-cash resources contributed by project partners, which is not a loan that is provided for the project and is immediately available for use on the project. The contributions are not reimbursed from grant funds.
+For each partner, including your organisation, enter their ABN and click the ‘Validate’ button to retrieve the project partner’s details.
+If a project partner other than the lead applicant is Australian, but does not have an ABN, contact us.
+### Legal or Registered Entity Name
+Entity name refers to the name that appears on all official documents or legal papers. The entity name may be different from the business name.
+### Project partner contributions
+The project partners are required to contribute cash, cash-staff and/or in-kind resources which, combined, at least equal the grant funding sought. See Appendix D in the grant opportunity guidelines for details of in-kind contributions.
+Not all the project partners’ share of funding needs to be available at the time of application.
+As all partners must contribute resources to the CRC-P, you should not select 'No'. If you have $0 contributions for a particular field, you still need to enter a 0, otherwise you get an error message alerting that no value has been entered.
+### CRC Project Application Financial workbook
+The department has developed an Excel template designed specifically for a CRC-P to develop/calculate the project finances prior to inputting data to the online application. You are strongly advised to use this workbook to ensure your budget is eligible.
+The workbook (CRC Project Application Financial Workbook – funds, contributions and budget) includes grant request, project partner contributions, and expenditure on a financial year by year basis. It automatically calculates totals and incorporates a range of checks to ensure the finances are internally consistent and that amounts received for the project balance with expenditure. The workbook values can then be copied to the Project Partner and Project Funding Information pages of the application.
+The template can be downloaded from the key documents listing at business.gov.au.
+Cash - Cash contributed by project partners, which is not a loan that is provided for the project, excluding staff salaries and associated on costs. The contribution is not reimbursed from grant funds.
+Staff - Cash contributed by project partners for the payment of staff salaries and on costs. The contribution is not reimbursed from grant funds.
+In-kind - Non-cash resources contributed by a partner to conduct the CRC-P (see Guidelines Appendix D).
+As all partners must contribute resources to the CRC-P, you should select 'Yes'. If you have $0 contributions for a particular field, you still need to enter a 0, otherwise you get an error message alerting that no value has been entered.
+| Contribution Type | Financial Year | Amount | Description |
+| Cash |  | $ |  |
+|  | 2026/27 | $ |  |
+|  | 2027/28 | $ |  |
+|  | 2028/29 | $ |  |
+|  | 2029/30 | $ |  |
+| Staff |  | $ |  |
+|  | 2026/27 | $ |  |
+|  | 2027/28 | $ |  |
+|  | 2028/29 | $ |  |
+|  | 2029/30 | $ |  |
+| In-kind |  | $ |  |
+|  | 2026/27 | $ |  |
+|  | 2027/28 | $ |  |
+|  | 2028/29 | $ |  |
+|  | 2029/30 | $ |  |
+| Total |  |
+
+### Partner Details
+You must provide:
+Organisation name
+ABN details
+Authorised representative name
+Position
+Business address
+Postal address
+Phone
+Email
+Partner type (large industry, SME, research organisation or other)
+Partner’s involvement in the CRC-P.
+describe the partner's role and involvement in the CRC-P, and how the partner will provide their contributions.
+describe the project partner’s company structure and relationships with the other project partners (This may include related entities, entities with the same ultimate holding company, entities with common directorship, entities with common major shareholders.).
+Your partner involvement response is limited to 1000 characters including spaces and does not support formatting.
+Is the project partner Indigenous owned?
+An organisation is considered Indigenous owned where at least 51% of the organisation’s members or proprietors are Indigenous.
+Is the project partner Indigenous controlled? An organisation is considered Indigenous controlled where at least 51% of the organisations’ board or management committee is Indigenous.
+In regards to this project partner:
+The partner has been made aware of its obligations under the CRC Projects Grant Opportunity Guidelines.
+Subject to this application being successful, the partner will support and actively participate in the proposed project by entering into a partner agreement.
+Subject to this application being successful, the partner will contribute the staff, funds and other resources indicated in the application and the partner has obtained, or will obtain, the necessary authorisations to do so.
+The partner is aware of the eligible expenditure guidance outlined in the CRC Projects Grant Opportunity Guidelines, especially in relation to expenditure associated with clinical trials.
+By checking this box I can confirm the authorised representative of this partner is aware of and agrees to the above statements.
+## Project information
+On this page you must provide the detailed information about your proposed project.
+If your application is successful, we will publish some grant details on GrantConnect and other government publications. Published details include:
+- name of the grant recipient
+- a project title
+- a brief project description and its intended outcome
+- amount of grant funding awarded.
+### Project title and description
+Provide a project title.
+Your response is limited to 75 characters including spaces and does not support formatting.
+Provide a brief project description for publication.
+Your response is limited to 750 characters including spaces and does not support formatting.
+Ensure your project description focuses on your project’s key activities and outcomes. Outline what it is you are going to do and how these activities will benefit your organisation.
+### Detailed project description and key activities
+This information will be included in your grant agreement if your application is successful.
+Provide a detailed description of your project and key activities.
+Your response is limited to 5000 characters including spaces and does not support formatting.
+Describe in detail what your project involves, including the project scope, what activities are involved and how are you going to implement them?
+### Project outcomes
+This information will be included in your grant agreement if your application is successful.
+Provide a summary of the expected project outcomes.
+Your response is limited to 5000 characters including spaces and does not support formatting.
+What result do you anticipate in undertaking this project? Explain how this will help your organisation, referencing the objectives of the grant opportunity.
+### Key Personnel
+Provide details of up to 3 key personnel working on the project. For example, include the staff leading the project and key researchers involved. This reflects the individual’s position in the project, for example project manager, project coordinator, research leader, researcher.
+- Title
+- Name
+- Organisation
+- Position
+- Project role
+- Your response to the project role is limited to 75 characters including spaces and does not support formatting.
+### Industry context
+What is the national and international state of play in the research area that is contributing to solve the identified industry problem or opportunity?
+Your response is limited to 2000 characters including spaces and does not support formatting.
+Provide a description of the research landscape relating to the identified industry problem and how this relates to or complements your proposed project.
+### Technology Readiness Level
+Technology Readiness Levels (TRLs) track progress of the development of an innovation. There are nine TRL levels ranging from TRL 1 to TRL 9. The TRL for a project may be determined using a generalised TRL scale or a TRL scale aligned to a specific sector. For example, there are TRL scales specifically designed for crop research, emerging renewables technologies and the development of software.
+Indicate below the starting and target TRLs for your CRC Project. Note that different projects will move through the TRL scale at different rates and with different funding requirements. Depending on the complexity of your project, it may even be appropriate to nominate the same TRL for your starting and target levels.
+What is the estimated TRL for your project at the commencement date?
+Enter number
+What is the expected TRL for your project at the completion date?
+Enter number
+### Working with Indigenous communities
+Does your project involve working with Indigenous communities?
+Yes or No.
+If yes describe how this will be carried out (for example, research, consultation, use of Traditional and Cultural Knowledge)
+Your response is limited to 2000 characters including spaces and does not support formatting
+### Project duration
+Your project must be completed in line with the dates provided in the grant opportunity guidelines.
+Your project can be no longer than 36 months.
+- Estimated project start date
+- Estimated project end date
+- Estimated project duration (in months)
+### Project milestones
+Provide measurable milestones you will reach while undertaking your project. You must add between 3 and 10 milestones.
+The milestone start and end dates must be within the project start and end dates.
+- Milestone title
+Your response is limited to 100 characters including spaces and does not support formatting.
+- Milestone description
+Your response is limited to 750 characters including spaces and does not support formatting.
+Explain what you plan to achieve at this point in your project. Include details of key activities occurring by this stage.
+If your project is successful, we will assess your progress according to agreed measurable milestones.
+- Estimated start date
+- Estimated end date
+### Project location
+You must provide the address where your project will be undertaken and the estimated percentage of project value expected to be undertaken at that site. If you have multiple sites you must add the address of each site.
+A project location must be a street address. Do not provide a postal address, institution or building name.
+- Project site address
+- Estimated percentage of project value expected to be undertaken at site
+### Disclosure of financial penalties
+Have any of your board members, management or persons of authority been subject to any pecuniary penalty?
+A pecuniary penalty is a monetary penalty that can be civil, criminal or administrative, imposed by a Commonwealth, state, or territory court or entity.
+If yes, provide details of the penalty.
+Your response is limited to 750 characters including spaces and does not support formatting.
+### Foreign affiliations
+Does your project receive any funding or non-financial support from a foreign source?
+If yes, provide details of the foreign financial support.
+Your response is limited to 750 characters including spaces and does not support formatting.
+Do any entities or key personnel involved with the project receive financial support or benefits from a foreign source?
+If yes, provide details of the arrangement.
+Your response is limited to 750 characters including spaces and does not support formatting.
+Do any entities or key personnel involved with the project have any current or former association with a foreign talent program?
+If yes, provide details of the foreign talent program.
+Your response is limited to 750 characters including spaces and does not support formatting.
+Do any entities or key personnel involved with the project have any ties to a foreign government, military or state-owned enterprise?
+If yes, provide details of the affiliations or associations.
+Your response is limited to 750 characters including spaces and does not support formatting.
+### National security plan
+Do you have a plan to manage any potential security risks associated with the project and your organisation more broadly?
+The plan should include protecting your organisation from potential national security risks including cyber security threats and the secure handling of data. We may ask for a copy of your plan at a later stage.
+## Project budget
+### Eligible expenditure
+Enter grant amount sought below. We will add GST to this where applicable.
+Provide a summary of your eligible project expenditure over the life of the project.
+Registered for GST - enter amounts exclusive of GST.
+Not registered for GST – enter amounts inclusive of GST.
+In order to achieve the minimum grant amount, your expenditure must be at least $200,000. We only provide grant funding based on eligible expenditure. Refer to the guidelines for guidance on eligible expenditure.
+The financial years displayed are determined by your project start and end dates. You should confirm the project duration before providing your eligible expenditure.
+You are strongly advised to use the CRC Project Application Financial Workbook provided at business.gov.au It will assist you in calculating the correct  funds and contributions required for your budget.
+| Head of expenditure | Financial Year | Total |
+|  | $ |
+| Audit costs (up to 1 per cent of eligible project expenditure) |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Capital |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Consumables |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Contractors |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| IP & technology |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Labour including on-costs |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Other eligible expenditure |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Overseas (up to 10 per cent of eligible project expenditure) |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Travel (up to 10 per cent of eligible project expenditure) |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| In-kind expenditure |  | $ |
+|  | 2026/27 | $ |
+|  | 2027/28 | $ |
+|  | 2028/29 | $ |
+|  | 2029/30 | $ |
+| Total project expenditure | $ |
+
+Details of ‘Other’ eligible expenditure.
+Your response is limited to 750 characters including spaces and does not support formatting.
+Details of ‘In-kind’ eligible expenditure.
+Your response is limited to 750 characters including spaces and does not support formatting.
+### Grant amount sought
+Enter grant amount sought $
+The grant amount can be up to 50% of the total eligible project expenditure.
+## Assessment criteria
+We will assess your application based on the weighting given to each criterion and against the indicators listed beneath each criterion. We will only consider funding applications that are competitive against each criterion as these represent best value for money.
+The amount of detail and supporting evidence you provide should be commensurate with the project size, complexity and grant amount requested. You should define, quantify and provide evidence to support your answers.
+### Assessment criterion 1 (25 points)
+Your response is limited to 5000 characters including spaces and does not support formatting.
+###### Project alignment with the program objectives
+###### You should demonstrate this by describing:
+###### how your project will address an industry-identified problem, improve the competitiveness, productivity and sustainability of Australian industries and the extent of alignment with government priorities (refer to Appendix A of the guidelines for further information) (10 points)
+###### how your project will foster high quality research through industry-led and outcome-focused collaborative industry-research partnerships (8 points)
+###### how your project will encourage and facilitate SME participation (7 points).
+### Assessment criterion 2 (25 points)
+Your response is limited to 5000 characters including spaces and does not support formatting.
+###### The quality of your project
+###### You should demonstrate this by describing:
+###### the research you will do and the methodologies you will use, including describing the role of your partners in the project (10 points)
+###### how your research will address the identified problem, build on the current body of knowledge and enhance the adoption of new technologies (8 points)
+###### the education and training opportunities your project will provide to build capability and capacity in the industry and research sectors for example include the number of students the project will impact (7 points).
+### Assessment criterion 3 (25 points)
+Your response is limited to 5000 characters including spaces and does not support formatting.
+###### Capacity, capability and resources to deliver your project
+###### You should demonstrate this by describing:
+###### how you will manage and monitor your project, explaining the governance and planning arrangements, including security (8 points)
+###### how you will manage risks, including but not limited to security (in particular any associated national security issues), involvement of international partners and intellectual property protection (7 points)
+###### your access to required resources including naming personnel with the right skills and experience, funding, security, infrastructure, technology and intellectual property (10 points).
+### Assessment criterion 4 (25 points)
+Your response is limited to 5000 characters including spaces and does not support formatting.
+Impact of the grant funding on your project
+###### You should demonstrate this by explaining:
+###### how the grant will impact the project in terms of scale and timing. This should include justification for the funding amount requested and whether the project could proceed without Australian Government funding (6 points)
+###### the total investment the grant will leverage and why the Australian Government should invest in your project, including how grant benefits will be substantially retained in Australia (6 points)
+###### how your project will have a positive impact for communities and businesses in regional and remote Australia (4 points)
+###### the commercial potential of your project, including the expected commercial outputs such as new products, processes or services, any expected spill over benefits and plans at the end of the project (9 points).
+## Government priorities
+You must answer the following questions and add any supporting documentation required.
+### Artificial intelligence systems and technologies
+Does your CRC-P develop or enhance AI systems and technologies, to help accelerate the development and commercialisation of AI by businesses and researchers across Australia?
+Yes/No
+$20 million in funding is specifically for applications that develop or enhance AI systems and technologies. Further information on the National AI Plan sectors is available at National AI Plan.
+If yes, explain how your project meets this criterion.
+Your response is limited to 500 characters including spaces and does not support formatting.
+### National Reconstruction Fund priority areas
+Indicate the priority areas of the National Reconstruction Fund the CRC-P will contribute to.
+Further information on the National Reconstruction Fund priority areas is available National Reconstruction Fund.
+Primary alignment:
+Enter priority
+Secondary alignment:
+Enter priority
+### National Science and Research Priorities areas
+Indicate the priority areas of the Science and Research Priorities the CRC-P will contribute to.
+Further information on the Science and Research priority areas is available Science and Research Priorities.
+Primary alignment:
+Enter priority
+Secondary alignment:
+Enter priority
+### First Nations
+Are you an Aboriginal and Torres Strait Islander organisation with an Indigenous Corporation Number (ICN) or Supply Nation registered?
+Yes/No
+If yes, upload evidence.
+- Evidence for Aboriginal and Torres Strait Islander organisations
+If applying as an Aboriginal and Torres Strait Islander organisation and would like to be prioritised when the CRC Advisory Committee is recommending applications for funding you must provide one of the following:
+an Indigenous Corporation Number (ICN)
+evidence of Supply Nation registration.
+### Other government priorities
+There may be other government priorities that the CRC Project addresses. List up to three of these below.
+Your response is limited to 300 characters including spaces and does not support formatting.
+Basis for government priority (report, statement, etc.)
+Your response is limited to 300 characters including spaces and does not support formatting.
+### Other government assistance
+Have any of the project partners received any Commonwealth, state and/or territory government assistance during the past five years that has assisted in the development of this project?
+Yes or No response
+Assistance Source (Agency and Program)
+Your response is limited to 500 characters including spaces and does not support formatting.
+start date
+end date
+amount
+details
+Discuss the results of any government assistance received in the last five years, specifically what the assistance was used for, what results were achieved and how this has contributed to the proposed project.
+Your response is limited to 500 characters including spaces and does not support formatting.
+### Intellectual property
+If the project depends on access to protected IP, select the relevant category:
+- Applicant developed and owns IP
+- Applicant has licensed IP from a third party
+- Third party will license or assign IP to the applicant
+- Not applicable to project.
+## Bank account details
+### Bank account details
+If your application is successful, we will need to set up a payment process to pay your grant. We need your bank account details to do this. If your application is not successful we will not process these details.
+We can only pay grant funding to the applicant organisation, who if successful will be party to a grant agreement with the Commonwealth. You must provide bank account details for this organisation.
+### Account details
+All payments are in AU$ and must be made into an account with an Australian financial institution.
+Account name
+BSB
+Account number
+### Payment contact
+We will send the payment remittance advice to this person. All other notifications are sent to the primary contact.
+Title (optional)
+Given name
+Family name
+Email address
+Phone number
+## Application finalisation
+You must answer the following questions and add any supporting documentation required.
+### Conflict of interest
+Do you have any perceived or existing conflicts of interest to declare?
+Refer to the grant opportunity guidelines for further information on your conflict of interest responsibilities.
+If yes, describe the perceived or existing conflicts of interest.
+Your response is limited to 750 characters including spaces and does not support formatting.
+If yes, describe how you anticipate managing this conflict.
+Your response is limited to 750 characters including spaces and does not support formatting.
+### Additional information
+Attach additional supporting documentation here. You should only attach documents that we have requested (where applicable).
+The total of all attachments cannot exceed 50 MB.
+Individual files must be smaller than 25 MB, and be one of the following types: docx, rtf, pdf, xlsx, csv, jpg, jpeg, png, gif.
+Filenames should only include letters or numbers and should be fewer than 40 characters.
+- A trust deed
+Where you have indicated your entity type is a trustee applying on behalf of a trust, you must attach trust documents showing the relationship of the incorporated trustee to the trust.
+### Program feedback
+Your responses help us improve the design and delivery of programs. They will not affect the assessment or outcome of this application.
+How did you hear about this grant opportunity?
+You must select from a drop-down menu.
+Did you read the grant opportunity guidelines?
+You must select from a drop-down menu.
+If yes, how useful were the guidelines in completing your application?
+We welcome any additional feedback on the guidelines.
+Your response is limited to 750 characters including spaces and does not support formatting.
+How satisfied were you with the process of applying for this grant?
+You must select from a drop-down menu.
+We welcome any additional feedback on the application process
+Your response is limited to 750 characters including spaces and does not support formatting.
+## Declaration
+In order to submit your application you will be required to agree to the following declaration.
+### Privacy and confidentiality provisions
+I acknowledge that this is an Australian Government program and that the Department of Industry, Science and Resources (the department) will use the information I provide in accordance with the following:
+- Australian Government Data and Digital Strategy
+- Commonwealth Grants Rules and Principles
+- grant opportunity guidelines
+- applicable Australian laws.
+Accordingly, I understand that the department may collect, use and share my personal information provided in this application within this department and other government agencies:
+- for purposes directly related to administering the program, including governance, research and the distribution of funds to successful applicants
+- to facilitate research, assessment, monitoring and analysis of other programs and activities
+- for the purposes of due diligence, preventing, detecting, investigating or dealing with suspected fraud in grant applications and related processes
+- unless otherwise prohibited by law
+- I understand that where I am successful in obtaining a grant, the financial information that I provide for the purposes of payment will be accessible to departmental staff to enable payments to be made through the department’s accounts payable software system.
+- I understand that information that is deemed ‘confidential’ in accordance with the grant opportunity guidelines may also be shared for a relevant Commonwealth purpose.
+The department will publish information on individual grants in the public domain, including on the department’s website, unless otherwise prohibited by law.
+### Applicant declaration
+I declare that I have read and understood the grant opportunity guidelines, including the grant agreement, privacy, confidentiality and disclosure provisions.
+I declare that the proposed project outlined in this application and any associated expenditure has been endorsed by the applicant’s board/ management committee or person with authority to commit the applicant to this project.
+I declare that the applicant will comply with, and require that its subcontractors and independent contractors comply with, all applicable laws.
+I declare that the applicant and any project partners are not listed on the National Redress Scheme list of institutions, where sexual abuse has occurred, that have not joined or signified their intent to join the Scheme.
+I declare that the applicant is not named by the Workplace Gender Equality Agency as an organisation that has not complied with the Workplace Gender Equality Act 2012.
+I confirm that the applicant, project partners and associated activities are in compliance with current Australian Government sanctions.
+I declare that the information contained in this application together with any statement provided is, to the best of my knowledge, accurate, complete and not misleading and that I understand that giving of false or misleading information is a serious offence under the Criminal Code Act 1995 (Cth).
+I acknowledge that I may be requested to provide further clarification or documentation to verify the information supplied in this form and that the department may, during the application process, consult with other government agencies, including state and territory government agencies, about the applicant’s claims and may also engage external technical or financial advisors to advise on information provided in the application.
+I agree to participate in the periodic evaluation of the services undertaken by the department.
+I approve the information in this application being communicated to the department in electronic form.
+I understand that the applicant is responsible for ensuring that it has met relevant state or territory legislation obligations related to working with children, and that any person that has direct, unsupervised contact with children as part of a project under this grant opportunity, has undertaken and passed, a working with children check, if required under relevant state or territory legislation. The applicant is also responsible for assessing the suitability of people I engage in this project to ensure children are kept safe.
+I acknowledge that if the department is satisfied that any statement made in an application is incorrect, incomplete, false or misleading the department may, at its absolute discretion, take appropriate action. I note such action may include excluding an application from further consideration; withdrawing an offer of funding; using the information contained in the application for a fraud investigation that would be consistent with the Australian Government’s Investigations Standards and Commonwealth Fraud Control Framework and/or for a grant under management, terminating a grant agreement between the Commonwealth and the grantee including recovering funds already paid.
+I declare that I am authorised to submit this form on behalf of the applicant and acknowledge that this is the equivalent of signing this application.
+By checking this box I agree to all of the above declarations and confirm all of the above statements to be true.

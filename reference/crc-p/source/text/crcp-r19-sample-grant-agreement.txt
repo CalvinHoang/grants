@@ -1,0 +1,987 @@
+# Commonwealth Standard Grant Agreement
+between the Commonwealth of Australia represented by
+Department of Industry, Science and Resources
+and
+<Grantee>
+The Commonwealth Acknowledges the Aboriginal and Torres Strait Islander Peoples throughout Australia and their continuing connection to land, water, culture and community. We pay our respects to the Elders both past and present. We acknowledge that our services are provided on many Indigenous lands. We continue to recognise that to achieve true reconciliation we need to work together with Aboriginal and Torres Strait Islander peoples, communities, staff and stakeholders to ensure that we are meeting the needs of the community.
+NB: This is an example standard grant agreement intended for use with the <Program name>. The Commonwealth reserves the option to amend or adjust the form of the grant agreement.
+Contents
+Grant Agreement <grant number>	4
+Parties to this Agreement	4
+Background	4
+Scope of this Agreement	5
+Grant Details <grant number>	6
+A.	Purpose of the Grant	6
+B.	Activity	6
+C.	Duration of the Grant	6
+D.	Payment of the Grant	7
+E.	Reporting	8
+F.	Party representatives and address for notices	9
+G.	Activity Material	9
+Supplementary Terms	10
+Schedule 1: Commonwealth Standard Grant Conditions	26
+Signatures	43
+Commonwealth	43
+Grantee	43
+Schedule 2 Reporting requirements	44
+## Grant Agreement <grant number>
+Once completed, this document, together with the Grant Details and the Commonwealth Standard Grant Conditions (Schedule 1), forms an Agreement between the Commonwealth of Australia (the Commonwealth) and the Grantee.
+### Parties to this Agreement
+#### The Grantee
+| Full legal name of Grantee | <entity name> |
+| Legal entity type (e.g. individual, incorporated association, company, partnership, etc) | <ABR entity type> |
+| Trading or business name | <trading name> |
+| Any relevant licence, registration or provider number | Not applicable |
+| Australian Business Number (ABN) or other entity identifiers | <ABN> |
+| Australian Company Number (ACN) | <ACN> |
+| Registered for Goods and Services Tax (GST)? | <GST status + if statement> |
+| Date from which GST registration was effective? | <GST registered date> |
+| Registered office address | <ABR registered address> / <city>  <state>  <postcode> |
+| Relevant business place | <business street address> / <city>  <state>  <postcode> |
+
+#### The Commonwealth
+The Commonwealth of Australia represented by the
+Department of Industry, Science and Resources
+of 10 Binara Street CANBERRA ACT 2600
+ABN 74 599 608 295
+### Background
+The Commonwealth has agreed to enter this Agreement under which the Commonwealth will provide the Grantee with a Grant for the purpose of assisting the Grantee to undertake the associated Activity.
+The Grantee agrees to use the Grant and undertake the Activity in accordance with this Agreement and the relevant Grant Details.
+### Scope of this Agreement
+- This Agreement comprises:
+- this document;
+- the Supplementary Terms (if any);
+- the Standard Grant Conditions (Schedule 1);
+- the Grant Details;
+- any other document referenced or incorporated in the Grant Details.
+If there is any ambiguity or inconsistency between the documents comprising this Agreement in relation to a Grant, the document appearing higher in the list will have precedence to the extent of the ambiguity or inconsistency.
+This Agreement represents the Parties' entire agreement in relation to the Grant provided under it and the relevant Activity and supersedes all prior representations, communications, agreements, statements and understandings, whether oral or in writing.
+Certain information contained in or provided under this Agreement may be used for public reporting purposes.
+## Grant Details <grant number>
+Purpose of the Grant
+The Grant is being provided as part of the <grant opportunity name> grant opportunity.
+<Grant opportunity objectives>
+<Grant opportunity outcomes>
+Activity
+The Activity is made up of the Grantee’s project and all eligible project activities as specified in these Grant Details.
+#### Project title
+<project title>
+#### Project scope and description
+<detailed project description>
+#### Project outcomes
+<project outcomes>
+In undertaking the Activity, the Grantee must comply with the requirements of the grant opportunity guidelines (as in force at the time of application).
+The Grantee must notify the Commonwealth about events relating to the project and provide an opportunity for the Minister or their representative to attend.
+#### Project partners
+Project partners include the lead partner and all other partners contributing to the project and included at ST1 of the Supplementary Terms. Under this Agreement the lead partner is the Grantee.
+The Grantee must ensure that at all times it has among the project partners, and approved by the Commonwealth, at least:
+-	two Australian industry entities (one of which is the lead partner), (as defined in the Cooperative Research Centres Projects Round 19 Grant Opportunity Guidelines); and
+-	one Australian research organisation (as defined in the Cooperative Research Centres Projects Round 19 Grant Opportunity Guidelines).
+The Grantee may substitute or change project partners during the Agreement period, with the Commonwealth's prior written approval.
+The Grantee must notify the Commonwealth 30 days prior to any proposed substitution or change of a project partner. This notice must include:
+-	the details of the exiting project partner and their reason for leaving, and details of any incoming project partner and a breakdown comparison of their contributions to enable side by side comparison of component parts;
+-	the amount of any shortfall in contributions for that financial year, or any future financial years that is anticipated to arise from the substitution or change in project partner, and any steps the Grantee proposes to take to resolve or otherwise deal with the shortfall;
+-	an assessment as to the degree to which the viability or capacity to undertake the project and achieve the milestones is likely to be affected.
+If after receiving a notice of a change of project partners, the Commonwealth is reasonably satisfied that the proposed substitution or change of a project partner is likely to impact on the Grantee’s capacity to undertake the project or achieve the milestones, the Commonwealth, at its sole discretion and on 10 business days’ notice to the Grantee, may without limiting any of its other rights under this Agreement, reduce or suspend payment of the Grant until the Commonwealth is satisfied that a suitable substitute or replacement project partner is proposed.
+#### Partner Agreement and obligations
+The Grantee must ensure that all project partners enter into an agreement (the Partner Agreement) to undertake the project within 60 days of the execution or commencement of the Grant Agreement whichever is the later. For the entire term of this Agreement, the Partner Agreement will require the partners to:
+-	undertake the project at the times and in the manner specified in this Agreement;
+-	make their contributions to the project which are specified at ST1 Other Contributions of this Agreement;
+-	cooperate with and provide to the Grantee any information about the partner contributions and other activities reasonably required by the Grantee;
+-	make clear the ownership arrangements for intellectual property associated with the project;
+-	be bound to equivalent terms and conditions to those of this Agreement, except where due to the context it is not relevant to do so; and
+-	where terms of this Agreement are expressed to survive termination or expiry of this Agreement, the equivalent terms used in the Partner Agreement will also be expressed to survive termination or expiry of the Partner Agreement.
+The Grantee must:
+(a)	ensure the Partner Agreement and any other contractual arrangements allow the Grantee to meet its obligations under this Agreement, and ensure the Partner Agreement requires the project partners to comply with obligations consistent with those in this Agreement relating to:
+- Breach of the Partner Agreement (below);
+- Intellectual property (Schedule 1 clause 17);
+- Access/monitoring/inspection (ST4);
+- Fraud (ST13);
+- Compliance with legislation (ST20, including ST20.4);
+- Work health and safety (ST21);
+- Acknowledgements (Schedule 1 clause 3);
+- Relationship between the Parties (Schedule 1 clause 5);
+- Conflict of interest (Schedule 1 clause 7);
+- Record keeping (Schedule 1 clause 12);
+- Reporting and liaison (Schedule 1, clause 13);
+- Privacy (Schedule 1 clause 14);
+- Confidentiality (Schedule 1 clause 15);
+- Insurance (Schedule 1 clause 16); and
+- Survival (Schedule 1 clause 21);
+(b)	ensure no variation or alteration is made to the Partner Agreement that is, or may be, inconsistent with this Agreement without the prior written consent of the Commonwealth; and
+(c)	provide the Commonwealth with a copy of any variation to the Partner Agreement within 10 business days of completion of the change.
+#### Breach of the Partner Agreement
+The Grantee must, within 5 business days of becoming aware of a breach or suspected breach of the Partner Agreement that would affect the Grantee's ability to comply with its obligations under this Agreement:
+(a)	provide notice to the Commonwealth of that breach or suspected breach;
+(b)	provide all information reasonably required by the Commonwealth in relation to the breach or suspected breach;
+(c)	identify to the Commonwealth the steps the Grantee intends to take to remedy the matter;
+(d)	keep the Commonwealth informed of any action it takes to remedy the breach; and
+(e)	provide notice to the Commonwealth once the breach is remedied.
+Duration of the Grant
+The Activity starts on <project start date>.
+The Activity (other than the provision of any final reports) ends on <project end date>, which is the Activity Completion Date.
+The Agreement ends on <agreement end date> which is the Agreement End Date.
+#### Activity Schedule
+In undertaking the Activity, the Grantee will meet the following milestones by the due dates.
+| Milestone number | Milestone name and description | Due date |
+| <No> | <milestone name> / <milestone description> | <dd/mm/yyyy> / |
+
+Payment of the Grant
+The total amount of the Grant is <grant amount> (plus GST if applicable) as adjusted from time to time as a result of indexation.
+GST is payable on the Grant.
+Interest can be earned on the Grant.
+The Grant will be provided at up to <grant percentage> per cent of eligible expenditure as defined in the grant opportunity guidelines subject to availability of Program funds.
+The Grant will be paid in accordance with clause ST2.
+The Grant will be paid according to the following schedule. Payments are subject to satisfactory progress on the project and compliance by the Grantee with its obligations under this Agreement.
+| Payment event | Payment amount / (GST excl) | Anticipated payment date |
+| <Payment trigger> | <insert amount> | <insert date> |
+| <Payment trigger> | <insert amount> | <insert date> |
+| Total | <total grant amount> |  |
+
+Indexation will be paid under this Agreement based on WCI-6, calculated as at Federal Budget annually. The Commonwealth will notify the Grantee of the amount of indexation payable and the expected date of payment in writing. The Commonwealth will use best endeavours to pay any amounts in the nature of indexation on or before 30 September annually. Any amounts paid as a result of indexation will form part of the Grant.
+#### Invoicing
+The Grantee agrees to allow the Commonwealth to issue it with a Recipient Created Tax Invoice (RCTI) for any taxable supplies it makes in relation to the Activity.
+Reporting
+The Grantee agrees to provide the following reports to the Commonwealth representative in accordance with the reporting requirements (Schedule 2).
+<reporting table>
+During the Agreement period, the Commonwealth may ask the Grantee for ad-hoc reports on the project. The Grantee must provide these reports in the timeframes notified by the Commonwealth.
+Party representatives and address for notices
+#### Grantee's representative and address
+| Grantee’s representative name | <primary contact name> |
+| Position | <primary contact position> |
+| Address | <primary contact address> |
+| Phone number | <phone number> |
+| Email | <email address> |
+
+#### Commonwealth representative and address
+| Name of representative | <Program Officer name> |
+| Position | <Program Officer position> |
+| Postal address | GPO Box 2013 / CANBERRA ACT 2601 |
+| Physical address | <Program Officer physical address>  / If blank / 10 Binara Street  / CANBERRA ACT 2600 |
+| Business hours telephone | <Program Officer phone> |
+| Email | <Program email address> |
+
+The Parties' representatives will be responsible for liaison and the day-to-day management of the Grant, as well as accepting and issuing any written notices in relation to the Grant.
+Activity Material
+Not applicable
+## Supplementary Terms
+Other Contributions
+ST1.1	In this Agreement, Other Contributions means the financial or in-kind contributions other than the Grant set out in the following table:
+| Contributor | Nature of Contribution | Amount (GST exclusive) | Timing |
+| Grantee | < insert description of contribution, e.g., cash, access to equipment, secondment of personnel etc> | $<insert amount> | <project end date> |
+| <name of third party providing the Other Contribution> | <insert description of contribution, e.g., cash, access to equipment, secondment of personnel etc> | $<insert amount> | <insert date or Milestone to which the Other Contribution relates> |
+| Total |  | $<total other contributions> |  |
+
+ST1.2	The Grantee agrees to provide, or to ensure the provision of, the Other Contributions and to use them to undertake the Activity. If the Other Contributions are not provided in accordance with this clause, then the Commonwealth may:
+suspend payment of the Grant until the Other Contributions are provided; or
+terminate this Agreement in accordance with clause 19 of this Agreement.
+Activity Budget
+- ST2.1	In this Agreement, Appropriation means money drawn from the Consolidated Revenue Fund.
+ST2.2	The Grantee agrees to use the Grant and any Other Contributions and undertake the Activity consistently with the Activity Budget in the following table:
+<budget table>
+Figures in the above table are GST inclusive amounts less GST credits that can be claimed in relation to the expenditure.
+ST2.3	Subject to sufficient appropriation being available, the Grant will be paid up to the Annual Capped Amounts over the financial years specified in the following table.
+Annual Capped Amounts
+| Financial year | Annual capped amount (GST excl) |
+| <Insert financial year: yyyy-yy> | $<amount> |
+| <Insert financial year: yyyy-yy> | $<amount> |
+| <Insert financial year: yyyy-yy> | $<amount> |
+| <Insert financial year: yyyy-yy> | $<amount> |
+| Total | $<total grant amount> |
+
+ST2.4	The Commonwealth is not required to make a payment if it would result in the amount paid in a financial year exceeding the Annual Capped Amount for that financial year specified in the table under clause ST2.3.
+ST2.5	In accordance with the Activity Budget under clause ST2.2, the Annual Capped Amounts may not be exceeded unless the Commonwealth specifically approves an increase of that amount under clause ST2.8.
+ST2.6	Subject to this clause, the Grantee may reallocate expenditure in respect of categories of expenditure in the Activity Budget, provided it does not materially change the Activity, any Milestone(s) set out in this Agreement, or cause the Grantee to be in breach of any of its obligations under this Agreement.
+ST2.7	The Grantee must give the Commonwealth:
+(a)	at any time the Grantee wishes to request a variation to any one or more of the Annual Capped Amounts; or
+(b)	if otherwise requested by the Commonwealth,
+a revised Activity Budget in a form acceptable to the Commonwealth. The revised Activity Budget must clearly identify any proposed changes, including of any proposed changes to the Annual Capped Amounts, and explain the reasons for the proposed changes.
+ST2.8	The Commonwealth may, at its discretion, approve or reject a revised Activity Budget provided under clause ST2.7 and/or any proposed changes to the Annual Capped Amounts. The Commonwealth’s approval may be granted subject to conditions.
+ST2.9	If a revised Activity Budget and any proposed changes to the Annual Capped Amounts are approved by the Commonwealth, then it will become the Activity Budget and, if relevant, the Annual Capped Amounts will be adjusted accordingly.
+Intellectual property in Activity Material
+Not applicable
+Access/monitoring/inspection
+ST4.1	The Grantee agrees to give the Commonwealth, or any persons authorised in writing by the Commonwealth:
+(a)	access to premises where the Activity is being performed and/or where Material relating to the Activity is kept within the time period specified in a Commonwealth notice; and
+(b)	permission to inspect and take copies of any Material relevant to the Activity.
+ST4.2	The Auditor-General and any Information Officer under the Australian Information Commissioner Act 2010 (Cth) (including their delegates) are persons authorised for the purposes of clause ST4.1.
+ST4.3	This clause ST4 does not detract from the statutory powers of the Auditor-General or an Information Officer (including their delegates).
+Equipment and Assets
+Not applicable
+Specified Personnel
+Not applicable
+Relevant qualifications, licences, permits, approvals or skills
+ST7.1	The Grantee agrees to ensure that personnel performing work in relation to the Activity:
+(a)	are appropriately qualified to perform the tasks indicated;
+(b)	have obtained the required qualifications, licences, permits, approvals or skills before performing any part of the Activity
+(c)	continue to maintain all relevant qualifications, licences, permits, approvals or skills for the duration of their involvement in the Activity.
+Vulnerable Persons
+ST8.1	In this Agreement
+| Criminal or Court Record | means any record of any Other Offence; |
+| Other Offence | means, in relation to a person, a conviction, finding of guilt, on-the-spot fine for, or court order relating to: / an apprehended violence or protection order made against the person; / the consumption, dealing in, possession or handling of alcohol, a prohibited drug, narcotic or other prohibited substance; / violence against another person or the injury, but excluding the death, of another person; or / an attempt to commit a crime or offence, or to engage in any conduct or activity, described in paragraphs (a) to (c); |
+| Police Check | means a formal inquiry made to the relevant police authority in each State or Territory and designed to obtain details of an individual’s criminal conviction or a finding of guilt in all places (within and outside Australia) that the Grantee knows the person has resided in; |
+| Serious Offence | means: / a crime or offence involving the death of a person; / a sex-related offence or a crime, including sexual assault (whether against an adult or child); child pornography, or an indecent act involving a child; / fraud, money laundering, insider dealing or any other financial offence or crime, including those under legislation relating to companies, banking, insurance or other financial services; or / an attempt to commit a crime or offence described in (a) to (c); |
+| Serious Record | means a conviction or any finding of guilt regarding a Serious Offence; and |
+| Vulnerable Person | means an individual aged 18 years and above who is or may be unable to take care of themselves, or is unable to protect themselves against harm or exploitation for any reason, including age, physical or mental illness, trauma or disability, pregnancy, the influence, or past or existing use, of alcohol, drugs or substances or any other reason. |
+
+ST8.2	Before any person commences performing work on any part of the Activity that involves working or contact with a Vulnerable Person, the Grantee must:
+(a)	obtain a Police Check for that person;
+(b)	confirm that the person is not prohibited by any law from being engaged in a capacity where they may have contact with a Vulnerable Person;
+(c)	comply with all State, Territory or Commonwealth laws relating the employment or engagement of persons in any capacity where they may have contact with a Vulnerable Person; and
+(d)	ensure that the person holds all licences or permits for the capacity in which they are to be engaged, including any specified in the Grant Details, and the Grantee must ensure that Police Checks and any licences or permits obtained in accordance with this clause ST8.2 remain current for the duration of their involvement in the Activity.
+ST8.3	The Grantee must ensure that a person does not perform work on any part of the Activity that involves working or contact with a Vulnerable Person if a Police Check indicates that the person at any time has:
+(a)	a Serious Record; or
+(b)	a Criminal or Court Record and the Grantee has not conducted a risk assessment and determined that any risk is acceptable.
+ST8.4	In undertaking a risk assessment under clause ST8.3, the Grantee must have regard to
+(a)	the nature and circumstances of the offence(s) on the person’s Criminal or Court Record and whether the charge or conviction involved Vulnerable Persons;
+(b)	whether the person’s Criminal or Court Record is directly relevant to, or reasonably likely to impair the person’s ability to perform, the role that the person will, or is likely to, perform in relation to the Activity;
+(c)	the length of time that has passed since the person’s charge or conviction and his or her record since that time;
+(d)	the circumstances in which the person will, or is likely to, have contact with a Vulnerable Person as part of the Activity;
+(e)	any other relevant matter,
+and must ensure it fully documents the conduct and outcome of the risk assessment.
+ST8.5	The Grantee agrees to notify the Commonwealth of any risk assessment it conducts under this clause and agrees to provide the Commonwealth with copies of any relevant documentation on request.
+ST8.6	If during the term a person involved in performing work on any part of the Activity that involves working or contact with a Vulnerable Person is:
+(a)	charged with a Serious Offence or Other Offence, the Grantee must immediately notify the Commonwealth; or
+(b)	convicted of a Serious Offence, the Grantee must immediately notify the Commonwealth and ensure that that person does not, from the date of the conviction, perform any work or role relating to the Activity.
+Child safety
+ST9.1	In this Agreement
+| Child | means an individual(s) under the age of 18 years and Children has a similar meaning; |
+| Child-Related Personnel | means officers, employees, contractors (including subcontractors), agents and volunteers of the Grantee involved with the Activity who as part of that involvement may interact with Children; |
+| Legislation | means a provision of a statute or subordinate legislation of the Commonwealth, or of a State, Territory or local authority; |
+| National Principles for Child Safe Organisations | means the National Principles for Child Safe Organisations, which have been endorsed in draft form by the Commonwealth Government (available at: https://humanrights.gov.au/our-work/childrens-rights/projects/child-safe-organisations) and subsequently, from the time of their endorsement by the Council of Australian Governments, the final National Principles for Child Safe Organisations as published by the Australian Government; |
+| Relevant Legislation | means Legislation in force in any jurisdiction where any part of the Activity may be carried out; |
+| Working With Children Check or WWCC | means the process in place pursuant to Relevant Legislation to screen an individual for fitness to work with Children. |
+
+Relevant checks and authority
+ST9.2	Where the grantee has Child-Related Personnel, the Grantee must
+(a)	comply with all Relevant Legislation relating to the employment or engagement of Child-Related Personnel in relation to the Activity, including all necessary Working With Children Checks however described;
+(b)	ensure that Working With Children Checks obtained in accordance with this clause ST9.2 remain current and that all Child-Related Personnel continue to comply with all Relevant Legislation for the duration of their involvement in the Activity; and
+(c)	ensure that any subcontract entered into by the Grantee for the purposes of this Agreement imposes the same obligations in clauses ST9.2(a) and (b) on the subcontractor and also requires the subcontractor to include those obligations in any secondary subcontracts.
+National Principles for Child Safe Organisations and other action for the safety of Children
+ST9.3	Where the grantee has Child-Related Personnel, the Grantee agrees in relation to the Activity to:
+(a)	implement the National Principles for Child Safe Organisations;
+(b)	ensure that all Child-Related Personnel implement the National Principles for Child Safe Organisations;
+(c)	complete and update, at least annually, a risk assessment to identify the level of responsibility for Children and the level of risk of harm or abuse to Children;
+(d)	put into place and update, at least annually, an appropriate risk management strategy to manage risks identified through the risk assessment required by this clause ST9.3;
+(e)	provide training and establish a compliance regime to ensure that all Child Related Personnel are aware of, and comply with
+(i)	the National Principles for Child Safe Organisations;
+(ii)	the Grantee’s risk management strategy required by this clause ST9.3;
+(iii)	Relevant Legislation relating to requirements for working with Children, including Working With Children Checks;
+(iv)	Relevant Legislation relating to mandatory reporting of suspected child abuse or neglect, however described;
+(f)	provide the Commonwealth with a statement of compliance with clauses ST9.2 and ST9.3, in such form as may be specified by the Commonwealth; and
+(g)	ensure that any subcontract entered into by the Grantee for the purposes of this Agreement imposes the same obligations in clauses ST9.3(a) to (e) on the subcontractor and also requires the subcontractor to include those obligations in any secondary subcontracts.
+ST9.4	With reasonable notice to the Grantee, the Commonwealth may conduct a review of the Grantee’s compliance with this clause ST9.
+ST9.5	The Grantee agrees to:
+(a)	notify the Commonwealth of any failure to comply with this clause ST9;
+(b)	co-operate with the Commonwealth in any review conducted by the Commonwealth of the Grantee’s implementation of the National Principles for Child Safe Organisations or compliance with this clause ST9; and
+(c)	promptly, and at the Grantee’s cost, take such action as is necessary to rectify, to the Commonwealth’s satisfaction, any failure to implement the National Principles for Child Safe Organisations or any other failure to comply with this clause ST9.
+Commonwealth Material, facilities and assistance
+Not applicable
+Jurisdiction
+ST11.1	This Agreement is governed by the law of the Australian Capital Territory.
+Grantee trustee of trust (if applicable)
+ST12.1	In this Agreement, Trust means the trust specified in the Parties to the Agreement section of this Agreement.
+ST12.2	The Grantee warrants that:
+(a)	it is the sole trustee of the Trust; and
+(b)	it has full and valid power and authority to enter into this Agreement and perform the obligations under it on behalf of the Trust; and
+(c)	it has entered into this Agreement for the proper administration of the Trust; and
+(d)	all necessary resolutions, consents, approvals and procedures have been obtained or duly satisfied to enter into this Agreement and perform the obligations under it; and
+(e)	it has the right to be indemnified out of the assets of the Trust for all liabilities incurred by it under this Agreement.
+Prohibited dealings
+ST13.1	In this Agreement
+| Listed Terrorist Organisation | means an organisation listed as a terrorist organisation pursuant to Division 102 of the Criminal Code Act 1995 (Cth). This list is available at: / https://www.nationalsecurity.gov.au/what-australia-is-doing/terrorist-organisations/listed-terrorist-organisations |
+| Consolidated List | means the list of all individuals and entities subject to targeted financial sanctions pursuant to the Charter of the United Nations Act 1945 (Cth) and the Autonomous Sanctions Act 2011 (Cth). This list is available at: / https://dfat.gov.au/international-relations/security/sanctions/Pages/consolidated-list.aspx; |
+| World Bank Listing of Ineligible Firms and Individuals | means the list of firms and individuals ineligible to be awarded a World Bank-financed contract. This list is available at: / https://www.worldbank.org/en/projects-operations/procurement/debarred-firms / |
+
+ST13.2	The Grantee agrees to take all reasonable steps to ensure that all individuals or entities involved in carrying out the Activity, including the Grantee itself and its officers, employees, contractors and agents:
+(a)	are not directly or indirectly engaged in preparing, planning, assisting in or the doing of a terrorist act;
+(b)	are not, and do not become a Listed Terrorist Organisation;
+(c)	are not, and do not become listed on the Consolidated List;
+(d)	are not, and to do not become listed on the World Bank Listing of Ineligible Firms and Individuals;
+(e)	are not owned or controlled by any individual or entity mentioned in the lists referred to in ST13.2 (b) to (d); and
+(f)	do not provide direct or indirect support, resources or assets (including any Commonwealth funding) to any individual or entity associated with terrorism or mentioned in the lists referred to in ST13.2 (b) to (d).
+ST13.3	The Grantee agrees to inform the Commonwealth immediately if the Grantee discovers that the Grantee itself or any of its officers, employees, contractors or agents or any other individual or entity involved in carrying out the Activity may have contravened this clause ST13.
+Anti-corruption
+ST14.1	In this Agreement:
+Illegal or Corrupt Practice means directly or indirectly:
+(a)	making or causing to be made, any offer, gift, payment, consideration or benefit of any kind to any party, or
+(b)	receiving or seeking to receive, any offer, gift, payment, consideration or benefit of any kind from any party, as an inducement or reward in relation to the performance of the Activity, which would or could be construed as an illegal or corrupt practice.
+ST14.2	The Grantee warrants that the Grantee, its officers, employees, contractors, agents and any other individual or entity involved in carrying out the Activity have not, engaged in an Illegal or Corrupt Practice.
+ST14.3	The Grantee agrees not to, and to take all reasonable steps to ensure that its officers, employees, contractors, agents and any other individual or entity involved in carrying out the Activity do not:
+(a)	engage in an Illegal or Corrupt Practice; or
+(b)	engage in any practice that could constitute the offence of bribing a foreign public official contained in section 70.2 of the Criminal Code Act 1995 (Cth).
+ST14.4	The Grantee agrees to inform the Commonwealth within five business days if the Grantee becomes aware of any activity as described in ST14.3 in relation to the performance of the Activity.
+Step‐in rights
+ST15.1	If:
+(a)	the Commonwealth issues a notice under clause 2.2;
+(b)	an event in clause 19.3.1(c) of the Agreement occurs; or
+(c)	the Grantee requests that the Commonwealth exercise its rights under this clause,
+the Commonwealth may, at its discretion, give a notice to the Grantee that the Commonwealth intends to exercise its rights under this clause ST16 and the date from which this notice will take effect (Step In Notice).
+ST15.2	From the date specified in the Step-in Notice:
+(a)	other than as directed by the Commonwealth, the Grantee will cease being responsible for the performance of the Activity;
+(b)	the Commonwealth may, acting on its own behalf or through a nominee, take any step to manage the Activity that is reasonably necessary as determined by the Commonwealth and having regard to the trigger event(s) giving rise to the relevant Step-in Notice;
+(c)	the Commonwealth’s obligation to pay the Grant is suspended; and
+(d)	the Grantee agrees to provide all reasonable assistance and comply with any direction of the Commonwealth to enable the Commonwealth to exercise its rights under this clause and manage the Activity.
+ST15.3	The Commonwealth may withdraw the Step-in Notice if in the Commonwealth’s reasonable opinion:
+(a)	the circumstances giving rise to the trigger event have ceased or are able to be appropriately managed by the Grantee; and
+(b)	the Grantee will otherwise be able to comply with its obligations under this Agreement.
+ST15.4	The Commonwealth will by written notice advise the Grantee of:
+(a)	the date upon which the Step-in Notice will be withdrawn and the Grantee will resume responsibility for the Activity; and
+(b)	the amount by which the amount of the Grant will be reduced, which will be proportionate to the costs incurred by the Commonwealth in exercising its rights under this clause.
+Grant administrator
+ST16.1	If the Commonwealth issues a notice under clause 2.2 the Commonwealth may appoint an administrator to oversee the performance of the Activity and the management of the Grant (Grant Administrator).
+ST16.2	The Commonwealth can appoint a Grant Administrator for any period and on any terms and conditions that the Commonwealth considers appropriate.
+ST16.3	The Commonwealth will give the Grantee notice of the appointment of a Grant Administrator that specifies:
+(a)	the proposed period of the appointment;
+(b)	the roles and responsibilities of the Grant Administrator; and
+(c)	a summary of reasons why the Commonwealth has made the appointment, if the Commonwealth considers that providing such a summary is practicable and appropriate.
+ST16.4	The Commonwealth may appoint more than one Grant Administrator at the same time.
+ST16.5	The Grantee agrees to:
+(a)	consider in a timely manner and in good faith, all advice given to the Grantee by a Grant Administrator;
+(b)	co-operate actively, fully and in good faith with, and provide all assistance, material and facilities reasonably required by a Grant Administrator; and
+(c)	comply with all directions given by a Grant Administrator relating to the administration of the Grant.
+ST16.6	A Grant Administrator that provides a report to the Commonwealth:
+(a)	does so independently of the Grantee; and
+(b)	does not reduce the Grantee’s obligations to provide reports under this Agreement.
+ST16.7	A Grant Administrator is not an employee, officer, director, agent or contractor of the Grantee nor an agent of the Commonwealth, and is not appointed to act, and does not act, in any such capacity. A Grant Administrator cannot enter into agreements for or on behalf of the Grantee or otherwise incur debts or other obligations on the Grantee’s behalf.
+Management Adviser
+ST17.1	If the Commonwealth issues a notice under clause 2.2, the Commonwealth may at its own discretion and at its own cost, appoint an adviser to perform functions as determined by the Commonwealth (Management Adviser), which may include:
+(a)	advising the Grantee on:
+(i)	the Grantee’s operations and corporate governance arrangements;
+(ii)	the management of the Activity;
+(iii)	the management of the Grantee’s personnel;
+(b)	with the Grantee’s consent, assisting the Grantee with any of the matters specified in the Grant Details;
+(c)	cooperating with any Grant Administrator appointed in respect of the Grantee under this Agreement; and
+(d)	providing any other advice to the Grantee that the Commonwealth requires.
+ST17.2	The Commonwealth will give the Grantee notice of the appointment of a Management Adviser that specifies:
+(a)	the proposed period of the appointment;
+(b)	the roles and responsibilities of the Management Adviser; and
+(c)	if the Commonwealth considers it practicable and appropriate, a summary of reasons why the Commonwealth intends to make the appointment.
+ST17.3	Without limiting the Commonwealth’s discretion to appoint a Management Adviser and where practicable, the Grantee shall have 14 days after the Grantee receives the Commonwealth’s notice of intention given pursuant to ST17.2 to provide the Commonwealth with reasons why a Management Adviser should not be appointed.
+ST17.4	Upon appointment of a Management Adviser, the Commonwealth shall inform the Grantee of the scope of the appointment and its duration and of any extensions to the period of appointment.
+ST17.5	The Grantee agrees to cooperate with a Management Adviser and comply with any directions and recommendations given by the Management Adviser in relation to the performance of this Agreement.
+ST17.6	A Management Adviser who provides a report to the Commonwealth in relation to the Grantee:
+(a)	does so independently of the Grantee; and
+(b)	does not reduce the Grantee’s obligations to provide Reports to the Commonwealth under this Agreement.
+ST17.7	A Management Adviser is not an employee, officer, director, agent or contractor of the Grantee, nor an agent of the Commonwealth and is not appointed to act, and does not act, in any such capacity. A Management Adviser is not appointed to act, and does not act, as a member or shadow member of the Grantee’s governing board. A Management Adviser cannot enter into agreements for or on behalf of the Grantee or otherwise incur debts or other obligations on the Grantee’s behalf.
+Indemnities
+ST18.1	The Grantee indemnifies the Commonwealth, its officers, employees and contractors against any claim, cost (including reasonable legal expenses), loss or damage arising out of or in connection with the Activity that was caused by:
+- any breach of this Agreement by the Grantee, or any act, failure to act or omission by the Grantee contrary to the terms of this Agreement, but only to the extent the Grantee caused or was at fault for that breach, act, failure to act or omission; or
+- use of the Activity Material, Existing Material and Reporting Material by the Commonwealth, its officers, employees and contractors.
+ST18.2	The Grantee's obligation to indemnify the Commonwealth will reduce proportionally to the extent any act or omission involving fault on the part of the Commonwealth contributed to the claim, loss or damage.
+Compliance with Legislation and policies
+ST19.1	In this Agreement:
+Legislation means a provision of a statute or subordinate legislation of the Commonwealth, or of a State, Territory or local authority.
+ST19.2	The Grantee agrees to comply with all Legislation applicable to its performance of this Agreement.
+ST19.3	The Grantee agrees, in carrying out its obligations under this Agreement, to comply with any of the Commonwealth’s policies as notified, referred or made available by the Commonwealth to the Grantee (including by reference to an internet site).
+ST19.4	In carrying out the Activity, the Grantee must comply with the following applicable policies/laws:
+the NHMRC/ARC/UA Australian Code for the Responsible Conduct of Research (2018 or subsequent updates), co-authored by the NHMRC, Australian Research Council (ARC) and Universities Australia (UA) and, if applicable, the NHMRC/ARC/UA National Statement on Ethical Conduct in Human Research (updated in 2018 or subsequent updates)
+all relevant ethics codes and guidelines adopted by the National Health and Medical Research Council (NHMRC), the Office of the Gene Technology Regulator, and all other relevant regulatory agencies operating in Australia and in any place in which the research is being conducted
+State, Territory or Commonwealth law relating to the employment or engagement of people who work or volunteer with children in relation to the Activity including mandatory reporting and working with children checks however described and, if requested, provide the Commonwealth, at the Grantee’s cost, with an annual statement of compliance with these requirements in such form as may be specified by the Commonwealth
+Commonwealth laws relating to the export of controlled goods. Information regarding export controls legislation is available at http://www.defence.gov.au/ExportControls/Legislation.asp.
+AIATSIS Code of Ethics for Aboriginal & Torres Strait Islander Research
+relevant Commonwealth and state/territory legislation, policies, and protocols in relation to the collection and use of Traditional and Cultural knowledge; and biodiscovery
+the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act).
+Commonwealth policies, including but not limited to the National Redress Scheme, Australian Industry Participation obligations and Workplace Gender Equality policies
+(b)	The Australian Government’s Work Health and Safety Accreditation Scheme (the Scheme)
+(c)	the National Principles for Child Safe Organisations.
+Work Health and Safety
+ST20.1	The Grantee agrees to ensure that it complies at all times with all applicable work health and safety legislative and regulatory requirements and any additional work health and safety requirements set out in the Grant Details.
+ST20.2	If requested by the Commonwealth, the Grantee agrees to provide copies of its work health and safety management plans and processes and such other details of the arrangements it has in place to meet the requirements referred to in clause ST20.1.
+ST20.3	When using the Commonwealth’s premises or facilities, the Grantee agrees to comply with all reasonable directions and procedures relating to work health and safety and security in effect at those premises or facilities, as notified by the Commonwealth or as might reasonably be inferred from the use to which the premises or facilities are being put.
+Transition
+ST21.1	If the Agreement is reduced in its scope or terminated under clause 19, the Grantee must at its own expense cooperate and give assistance as directed by the Commonwealth to enable the transition of some or all of the Activity to the Commonwealth or a third party nominated by the Commonwealth (Successor).
+ST21.2	The assistance to be provided under clause ST21.1 may include, amongst other things:
+(a)	making available to the Commonwealth or any Successor information relevant to the performance of the Activity;
+(b)	allowing representatives of the Commonwealth or any Successor to observe the performance of the Activity;
+(c)	providing a briefing to the Commonwealth or any Successor personnel on the Activity;
+(d)	transferring to the Commonwealth or any Successor:
+(i)	Activity Material specified in the Grant Details;
+(ii)	Assets purchased with the Grant; and
+(iii)	Records maintained under clause 12.1;
+(e)	facilitating the novation or transfer to the Commonwealth or any Successor subcontracts and facilitating discussions with any subcontractors associated with the Activity;
+(f)	assigning or licensing Intellectual Property Rights in Reporting Material, and any Activity Material specified in the Grant Details, to the Commonwealth or any Successor on terms acceptable to the Commonwealth;
+(g)	preparing and executing any agreement or other documentation reasonably necessary or appropriate to facilitate any of the matters referred to above; and
+(h)	any other matter specified in the Grant Details.
+ST21.3	This clause does not apply where the Agreement is cancelled or reduced in scope for convenience under clause 20.
+Corporate Governance
+ST22.1	In this Agreement:
+Constitution means (depending on the context):
+(a)	a company’s, body corporate’s or incorporated association’s constitution, or equivalent documents, which (where relevant) includes rules and any amendments that are part of the constitution;
+(b)	in relation to any other kind of body:
+(i)	the body’s charter or memorandum; or
+(ii)	any instrument or law constituting or defining the constitution of the body or governing the activities of the body or its members.
+ST22.2	The Grantee warrants that nothing in its constitution conflicts with its obligations under this Agreement.
+ST22.3	The Grantee agrees to provide a copy of its constitution to the Commonwealth upon request and inform the Commonwealth whenever there is a change in the Grantee’s constitution, structure or management.
+Counterparts
+ST23.1	If requested by the Commonwealth, this Agreement may be executed in any number of counterparts. All counterparts, taken together, constitute one instrument. A Party may execute this Agreement by signing any counterpart, including electronically by affixing an electronic copy of their signature, or by signing the document electronically.
+ST23.2	If requested by the Commonwealth, the Grantee must provide an audit trail for any electronically signed counterpart and any other information reasonably requested by the Commonwealth in relation to the electronic execution of that counterpart.
+Secret and Sacred Indigenous Material
+ST24.1	In this clause:
+Aboriginal Person has the same meaning given in the Aboriginal and Torres Strait Islander Act 2005 (Cth);
+Aboriginal Tradition has the meaning given in the Aboriginal and Torres Strait Islander Heritage Protection Act 1984 (Cth);
+Indigenous Person means a person who is or identifies and is accepted as an Aboriginal Person or a Torres Strait Islander;
+Secret and Sacred Indigenous Material means all information, knowledge or Material of special spiritual, cultural or customary significance which is considered to be sacred or of significance by an Indigenous Person or according to Aboriginal Tradition; and
+Torres Strait Islander has the same meaning given in the Aboriginal and Torres Strait Islander Act 2005 (Cth)
+ST24.2	The parties agree that, for the purposes of this Agreement:
+(a)	the definition of Activity Material in clause 22 excludes any Secret and Sacred Indigenous Material;
+(b)	the definition of Reporting Material in clause 22 excludes any Secret and Sacred Indigenous Material;
+(c)	the record keeping requirements in clause 12 do not apply to any Secret and Sacred Indigenous Material; and
+(d)	any Secret and Sacred Indigenous Material is the confidential information of the relevant Indigenous Person or Indigenous community.
+ST24.3	The Grantee agrees to inform the Commonwealth of the existence of Secret and Sacred Indigenous Material relevant to the performance of the Activity which is not disclosed to the Commonwealth due it being Secret and Sacred Indigenous Material.
+Force Majeure
+ST25.1	Neither Party will have any liability under or be deemed to be in breach of this Agreement for any failure to perform the Party’s obligations if such failure results from circumstances beyond the reasonable control of that Party.
+ST25.2 The Grantee must promptly notify the Commonwealth under clause 4.1 of this Agreement of the obligations affected from circumstances beyond its reasonable control.
+## Schedule 1: Commonwealth Standard Grant Conditions
+Undertaking the Activity
+1.1	The Grantee agrees to undertake the Activity for the purpose of the Grant in accordance with this Agreement.
+1.2	The Grantee is fully responsible for the Activity and for ensuring the performance of all its obligations under this Agreement in accordance with all relevant laws. The Grantee will not be relieved of that responsibility because of:
+(a)	the grant or withholding of any approval or the exercise or non‐exercise of any right by the Commonwealth; or
+(b)	any payment to, or withholding of any payment from, the Grantee under this Agreement.
+1.3	The Grantee agrees that for the term of this Agreement, the Grantee will continue to meet the eligibility obligations relating to the National Redress Scheme set out under the relevant grant opportunity guidelines to receive the Grant.
+Payment of the Grant
+2.1	The Commonwealth agrees to pay the Grant to the Grantee in accordance with the Grant Details.
+2.2	Notwithstanding any other provision of this Agreement, the Commonwealth may by notice withhold payment of any amount of the Grant and/or take any other action specified in the Supplementary Terms if it reasonably believes that:
+(a)	the Grantee has not complied with this Agreement;
+(b)	the Grantee is unlikely to be able to perform the Activity or manage the Grant in accordance with this Agreement; or
+(c)	there is a serious concern relating to this Agreement that requires investigation.
+2.3	A notice under clause 2.2 will contain the reasons any action taken under clause 2.2 and, where relevant, the steps the Grantee can take to address those reasons.
+2.4	The Commonwealth will only be obliged to pay the withheld amount once the Grantee has addressed the reasons contained in a notice under clause 2.2 to the Commonwealth’s reasonable satisfaction.
+Acknowledgements
+3.1	The Grantee agrees not to make any public announcement, including by social media, in connection with the awarding of the Grant without the Commonwealth’s prior written approval.
+3.2	The Grantee agrees to acknowledge the Commonwealth’s support in all Material, publications and promotional and advertising materials published in connection with this Agreement. The Commonwealth may notify the Grantee of the form of acknowledgement that the Grantee is to use.
+3.3	The Grantee agrees not to use the Commonwealth Coat of Arms in connection with the Grant or the Activity without the Commonwealth’s prior written approval.
+Notices
+4.1	Each Party agrees to promptly notify the other Party of anything reasonably likely to adversely affect the undertaking of the Activity, management of the Grant or its performance of any of its other requirements under this Agreement.
+4.2	A notice given by a Party under this Agreement must be in writing and addressed to the other Party’s representative as set out in the Grant Details or as most recently updated by notice given in accordance with this clause.
+4.3 	A notice is deemed to be effective:
+(a)	if delivered by hand – upon delivery to the relevant address;
+(b)	if sent by post – upon delivery to the relevant address; or
+(c)	if transmitted electronically – upon actual receipt by the addressee.
+4.4 	A notice received after 5.00 pm, or on a day that is a Saturday, Sunday or public holiday, in the place of receipt, is deemed to be effected on the next day that is not a Saturday, Sunday or public holiday in that place.
+4.5 	The Commonwealth may, by notice, advise the Grantee of changes to the Agreement that are minor or of an administrative nature, provided that any such changes do not increase the Grantee’s obligations under this Agreement. Such changes, while legally binding, are not variations for the purpose of clause 8.
+4.6 	If the Commonwealth proposes to make any changes that are not considered minor or administrative in nature or any changes that will increase a Grantee’s obligations under this Agreement, the Commonwealth will use best endeavours to provide prior notice to the Grantee of the proposed changes and the parties must comply with clause 8 of this Agreement.
+Relationship between the Parties
+5.1	A Party is not by virtue of this Agreement the employee, agent or partner of the other Party and is not authorised to bind or represent the other Party.
+Subcontracting
+6.1	The Grantee is responsible for the performance of its obligations under this Agreement, including in relation to any tasks undertaken by subcontractors.
+6.2	The Grantee agrees to make available to the Commonwealth the details of any of its subcontractors engaged to perform any tasks in relation to this Agreement upon request.
+6.3	The Grantee agrees not to subcontract any part of the performance of the Activity without the Commonwealth’s prior written consent. The Commonwealth may impose any conditions it considers reasonable and appropriate when giving its consent.
+6.4	The Grantee agrees to remove a subcontractor from the Activity at the reasonable request of the Commonwealth and at no additional cost to the Commonwealth.
+Conflict of interest
+7.1	Other than those which have already been disclosed to the Commonwealth, the Grantee warrants that, to the best of its knowledge, at the date of this Agreement, neither it nor its officers have any actual, perceived or potential conflicts of interest in relation to the Activity.
+7.2	If during the term of the Agreement, any actual, perceived or potential conflict arises or there is any material change to a previously disclosed conflict of interest, the Grantee agrees to:
+(a)	notify the Commonwealth promptly and make full disclosure of all relevant information relating to the conflict; and
+(b)	take any steps the Commonwealth reasonably requires to resolve or otherwise deal with that conflict.
+Variation, assignment and waiver
+8.1	This Agreement may be varied in writing only, signed by both Parties.
+8.2	The Grantee cannot assign its obligations, and agrees not to assign its rights, under this Agreement without the Commonwealth’s prior approval.
+8.3	The Grantee agrees not to enter into negotiations with any other person for the purposes of entering into an arrangement that will require novation of, or involve any assignment of rights under, this Agreement without first consulting the Commonwealth.
+8.4	A waiver by a Party of any of its rights under this Agreement is only effective if it is in a signed written notice to the other Party and then only to the extent specified in that notice.
+Taxes, duties and government charges
+9.1	The Grantee agrees to pay all taxes, duties and government charges imposed or levied in Australia or overseas in connection with the performance of this Agreement, except as provided by this Agreement.
+9.2	If Goods and Services Tax (GST) is payable by a supplier on any supply made under this Agreement, the recipient of the supply will pay to the supplier an amount equal to the GST payable on the supply, in addition to and at the same time that the consideration for the supply is to be provided under this Agreement.
+9.3	The Parties acknowledge and agree that they each:
+(a)	are registered for GST purposes;
+(b)	have quoted their Australian Business Number to the other; and
+(c)	must notify the other of any changes to the matters covered by this clause.
+9.4	The Grantee agrees that the Commonwealth will issue it with a recipient created tax invoice for any taxable supply it makes under this Agreement.
+9.5	The Grantee agrees not to issue tax invoices in respect of any taxable supplies.
+9.6	If the Grantee is not, or not required to be, registered for GST, then:
+(a)	clauses 9.3(a), 9.4 and 9.5 do not apply; and
+(b)	the Grantee agrees to notify the Commonwealth in writing within 7 days of becoming registered for GST if during the term of the Agreement it becomes, or is required to become, registered for GST.
+Spending the Grant
+10.1	The Grantee agrees to spend the Grant for the purpose of performing the Activity and otherwise in accordance with this Agreement.
+10.1.1 If any amount of the grant is additional to the requirements of the Activity, the Commonwealth may, by written notice, agree to the appropriate use of any remaining funds as proposed by the Grantee providing proposed activities are consistent with the Activity as described in sections A and B of this agreement.
+10.2	Within 90 days after the Activity Completion Date, the Grantee agrees to provide the Commonwealth with an independently audited financial acquittal report verifying that the Grant has been spent in accordance with this Agreement.
+10.3	The reports under clause 10.2 must be audited by:
+(a)	a Registered Company Auditor registered under the Corporations Act 2001 (Cth); or
+(b)	a certified Practising Accountant; or
+(c)	a member of the Institute of Public Accountants; or
+(d)	a member of Chartered Accountants Australia and New Zealand;
+who is not a principal member, shareholder, officer or employee of the Grantee or a related body corporate.
+Repayment
+11.1	If any amount of the Grant:
+(a)	has been spent other than in accordance with this Agreement; or
+(b)	is additional to the requirements of the Activity
+then the Commonwealth may, by written notice:
+(c)	require the Grantee to repay that amount to the Commonwealth;
+(d)	require the Grantee to deal with that amount as directed by the Commonwealth; or
+(e)	deduct the amount from subsequent payments of the Grant or amounts payable under another agreement between the Grantee and the Commonwealth.
+11.2	If the Commonwealth issues a notice under this Agreement requiring the Grantee to repay a Grant amount:
+(a)	the Grantee must do so within the time period specified in the notice;
+(b)	the Grantee must pay interest on any part of the amount that is outstanding at the end of the time period specified in the notice until the outstanding amount is repaid in full; and
+(c)	the Commonwealth may recover the amount and any interest under this Agreement as a debt due to the Commonwealth without further proof of the debt being required.
+Record keeping
+12.1	The Grantee agrees to keep financial accounts and other records that relating to the expenditure of the Grant the conduct and management of the Activity and provide copies of the records to the Commonwealth upon request including:
+(a)	detail and document the conduct and management of the Activity;
+(b)	identify the receipt and expenditure of the Grant and any Other Contributions separately within the Grantee's accounts and records so that at all times the Grant is identifiable;
+(c)	enable all receipts and payments related to the Activity to be identified and reported.
+12.2	The Grantee agrees to keep the records for five years after the Activity Completion Date or such other time specified in the Grant Details.
+Reporting and liaison
+13.1	The Grantee agrees to provide the Reporting Material specified in the Grant Details to the Commonwealth.
+13.2	In addition to the obligations in clause 13.1, the Grantee agrees to:
+(a)	liaise with and provide assistance and information to the Commonwealth as reasonably required by the Commonwealth; and
+(b)	comply with the Commonwealth’s reasonable requests, directions and monitoring requirements in relation to the Activity.
+13.3	If the Commonwealth acting reasonably has concerns regarding the performance of the Activity or the management of the Grant, the Commonwealth may by written notice require the Grantee to provide one or more additional reports, containing the information and by the date(s), specified in the notice.
+13.4	The Grantee acknowledges that the giving of false or misleading information to the Commonwealth is a serious offence under the Criminal Code Act 1995 (Cth).
+Privacy
+14.1	When dealing with Personal Information in carrying out the Activity, the Grantee agrees:
+(a)	to comply with the requirements of the Privacy Act 1988 (Cth);
+(b)	not to do anything which, if done by the Commonwealth, would be a breach of an Australian Privacy Principle;
+(c)	to ensure that any of the Grantee’s subcontractors or personnel who deal with Personal Information for the purposes of this Agreement are aware of the requirements of the Privacy Act 1988 (Cth) and the Grantee’s obligations under this clause;
+(d)	to immediately notify the Commonwealth if the Grantee becomes aware of an actual or possible breach of this clause by the Grantee or any of the Grantee’s subcontractors or personnel.
+14.2	In carrying out the Activity, the Grantee agrees not to send any Personal Information outside Australia or to otherwise permit parties outside of Australia to have access to Personal Information without the Commonwealth’s prior written approval. The Commonwealth may impose any conditions it considers appropriate when giving its approval. Any breach of a condition imposed by the Commonwealth will be a breach of this clause by the Grantee.
+Confidentiality
+15.1	The Parties agree not to disclose each other’s confidential information without the other Party’s prior written consent unless required or authorised by law or Parliament to disclose.
+15.2	The Commonwealth may disclose the Grantee’s confidential information where the Commonwealth is:
+(a)	providing information about the Activity or Grant in accordance with Commonwealth accountability and reporting requirements;
+(b)	disclosing the information to a Minister of the Australian Government, a House or Committee of the Commonwealth Parliament; or
+(c)	disclosing the information to its personnel or another Commonwealth agency where this serves the Commonwealth's legitimate interests.
+Insurance
+16.1	The Grantee agrees to effect and maintain adequate insurance for as long as any obligations remain in connection with this Agreement and provide proof of insurance to the Commonwealth upon request:
+(a)	workers compensation insurance as required by law;
+(b)	adequate and appropriate public liability insurance;
+(c)	insurance against any loss or damage to an asset for its full replacement cost including where relevant the costs of demolition and removal of debris and the cost of architects, engineers and other consultants; and
+(d)	any other additional insurance specified in the Grant Details.
+16.2	The Grantee agrees to provide proof of insurance to the Commonwealth upon request and within the time specified in the request.
+Intellectual property
+17.1	Subject to clause 17.2, the Grantee owns the Intellectual Property Rights in Activity Material and Reporting Material.
+17.2	This Agreement does not affect the ownership of Intellectual Property Rights in Existing Material.
+17.3	The Grantee provides the Commonwealth a permanent, non‐exclusive, irrevocable, royalty‐free licence to use, modify, communicate, reproduce, publish, adapt and sub-license the Reporting Material for Commonwealth Purposes.
+17.4	The licence in clause 17.3 does not apply to Activity Material.
+Dispute resolution
+18.1	The Parties agree not to initiate legal proceedings in relation to a dispute arising under this Agreement unless they have first tried and failed to resolve the dispute by negotiation.
+18.2	Unless clause 18.3 applies, the Parties agree to continue to perform their respective obligations under this Agreement when a dispute exists.
+18.3	The Parties may agree to suspend performance of the Agreement pending resolution of the dispute.
+18.4	Failing settlement by negotiation in accordance with clause 18.1, the Parties may agree to refer the dispute to an independent third person with power to intervene and direct some form of resolution, in which case the Parties will be bound by that resolution. If the Parties do not agree to refer the dispute to an independent third person, either Party may initiate legal proceedings.
+18.5	Each Party will bear their own costs in complying with this clause 18, and the Parties will share equally the cost of any third person engaged under clause 18.4.
+18.6	The procedure for dispute resolution under this clause does not apply to any action relating to termination, cancellation or urgent interlocutory relief.
+Reduction, Suspension and Termination
+19.1	Reduction in scope of agreement for fault
+19.1.1	If the Grantee does not comply with an obligation under this Agreement and the Commonwealth believes that the non‐compliance is incapable of remedy, or if the Grantee has failed to comply with a notice to remedy, the Commonwealth may by written notice reduce the scope of the Agreement.
+19.1.2	The Grantee agrees, on receipt of the notice of reduction, to:
+(a)	stop or reduce the performance of the Grantee’s obligations as specified in the notice;
+(b)	take all available steps to minimise loss resulting from the reduction;
+(c)	continue performing any part of the Activity or the Agreement not affected by the notice if requested to do so by the Commonwealth;
+(d)	report on, and return any part of the Grant to the Commonwealth, or otherwise deal with the Grant, as directed by the Commonwealth.
+19.1.3	In the event of reduction under clause 19.1.1, the amount of the Grant will be reduced in proportion to the reduction in the scope of the Agreement.
+19.2	Suspension
+19.2.1	If:
+(a)	the Grantee does not comply with an obligation under this Agreement and the Commonwealth believes that the non‐compliance is capable of remedy;
+(b)	the Commonwealth reasonably believes that the Grantee is unlikely to be able to perform the Activity or manage the Grant in accordance with this Agreement; or
+(c)	the Commonwealth reasonably believes that there is a serious concern relating to this Agreement that requires investigation;
+the Commonwealth may by written notice:
+(d)	immediately suspend the Grantee from further performance of the Agreement (including expenditure of the Grant); and/or
+(e)	require that the non‐compliance or inability be remedied, or the investigation be completed, within the time specified in the notice.
+19.2.2	If the Grantee:
+(a)	remedies the non‐compliance or inability specified in the notice to the Commonwealth’s reasonable satisfaction, or the Commonwealth reasonably concludes that the concern is unsubstantiated, the Commonwealth may direct the Grantee to recommence performing the Activity; or
+(b)	fails to remedy the non‐compliance or inability within the time specified, or the Commonwealth reasonably concludes that the concern is likely to be substantiated, the Commonwealth may reduce the scope of the Agreement in accordance with clause 19.1 or terminate the Agreement immediately by giving a second notice in accordance with clause 19.3.
+19.3	Termination for fault
+19.3.1	The Commonwealth may terminate this Agreement by notice where the Grantee has:
+(a)	failed to comply with an obligation under this Agreement and the Commonwealth believes that the non‐compliance is incapable of remedy or where clause 19.2.2(b) applies; or
+(b)	provided false or misleading statements in relation to the Grant; or
+(c)	become bankrupt or insolvent, entered into a scheme of arrangement with creditors, or come under any form of external administration; or
+(d)	failed to comply with the eligibility obligations relating to the National Redress Scheme in clause 1.3.
+19.3.2	The Grantee agrees, on receipt of the notice of termination, to:
+(a)	stop the performance of the Grantee’s obligations;
+(b)	take all available steps to minimise loss resulting from the termination; and
+(c)	report on, and return any part of the Grant to the Commonwealth, or otherwise deal with the Grant, as directed by the Commonwealth.
+Cancellation or reduction for convenience
+20.1	The Commonwealth may cancel or reduce the scope of this Agreement by notice, due to:
+(a)	a change in government policy; or
+(b)	a Change in the Control of the Grantee which the Commonwealth reasonably believes will negatively affect the Grantee’s ability to comply with this Agreement.
+20.2	On receipt of a notice of reduction or cancellation under this clause, the Grantee agrees to:
+(a)	stop or reduce the performance of the Grantee's obligations as specified in the notice; and
+(b)	take all available steps to minimise loss resulting from that reduction or cancellation; and
+(c)	continue performing any part of the Activity or the Agreement not affected by the notice if requested to do so by the Commonwealth;
+(d)	report on, and return any part of the Grant to the Commonwealth, or otherwise deal with the Grant, as directed by the Commonwealth.
+20.3	In the event of reduction or cancellation under this clause, the Commonwealth will be liable only to:
+(a)	pay any part of the Grant due and owing to the Grantee under this Agreement at the date of the notice; and
+(b)	reimburse any reasonable and substantiated expenses the Grantee unavoidably incurs that relate directly and entirely to the reduction in scope or cancellation of the Agreement.
+20.4	In the event of reduction, the amount of the Grant will be reduced in proportion to the reduction in the scope of the Agreement.
+20.5	The Commonwealth’s liability to pay any amount under this clause is:
+(a)	subject to the Grantee's compliance with this Agreement; and
+(b)	limited to an amount that when added to all other amounts already paid under the Agreement will not exceed the total amount of the Grant.
+20.6	The Grantee will not be entitled to compensation for loss of prospective profits or benefits that would have been conferred on the Grantee but for the cancellation or reduction in scope of the Agreement under clause 20.1.
+20.7	The Commonwealth will act reasonably in exercising its rights under this clause.
+Fraud and corruption
+21.1	The Grantee must take all reasonable steps to prevent and detect Fraud and corruption in relation to the Activity (including by ensuring its personnel and subcontractors do not engage in any Fraud in relation to the Activity).
+21.2	In this Agreement, Fraud means dishonestly obtaining a benefit, or causing a loss, by deception or other means, and includes alleged, attempted, suspected or detected fraud.
+21.3	If the Grantee becomes aware of:
+(a)	any Fraud and corruption in relation to the performance of the Activity; or
+(b)	any other Fraud and corruption that has had or may have an effect on the performance of the Activity;
+then it must within 5 Business Days report the matter to the Commonwealth and all appropriate law enforcement and regulatory agencies.
+21.4	The Grantee must, at its own cost, investigate any Fraud and corruption referred to in clause 21.3 in accordance with the Australian Government Investigations Standards available at www.ag.gov.au.
+21.5	The Commonwealth may, at its discretion, investigate any Fraud and corruption in relation to the Activity. The Grantee agrees to co-operate and provide all reasonable assistance at its own cost with any such investigation.
+21.5 	This clause survives the termination or expiry of the Agreement.
+National Anti-Corruption Commission
+22.1	The Grantee acknowledges that:
+(a)	this Agreement may be a ‘Commonwealth contract’; and
+(b)	the Grantee may be a ‘contracted services provider’,
+for the purposes of the National Anti-Corruption Commission Act 2022 (Cth) (NACC Act).
+22.2	The Grantee must comply with, and must ensure that any subcontractors engaged by the Grantee in accordance with this Agreement comply with, any reasonable request, policy or direction issued or given by the Commonwealth and otherwise cooperate with the Commonwealth in relation to any action taken, required to be taken, or authorised by the NACC Act.
+Survival
+23.1	The following clauses survive termination, cancellation or expiry of this Agreement:
+- clause 10 (Spending the Grant);
+- clause 11 (Repayment);
+- clause 12 (Record keeping);
+- clause 13 (Reporting and liaison);
+- clause 14 (Privacy);
+- clause 15 (Confidentiality);
+- clause 16 (Insurance);
+- clause 17 (Intellectual property);
+- clause 19 (Reduction, Suspension and Termination);
+- clause 21 (Fraud and corruption);
+- clause 22 (National Anti-Corruption Commission);
+- clause 23 (Survival);
+- clause 24 (Definitions);
+- ST4 (Access/monitoring/inspection);
+- ST18 (Indemnities); and
+- any other clause which expressly or by implication from its nature is meant to survive.
+Definitions
+24.1	In this Agreement, unless the contrary appears:
+- Activity means the activities described in the Grant Details and includes the provisions of the Reporting Material.
+- Activity Completion Date means the date specified in the Grant Details that the Activity, other than the provision of any final reports, is to end.
+- Activity Material means any Material, other than Reporting Material, created or developed by the Grantee as a result of the Activity and includes any Existing Material that is incorporated in or supplied with the Activity Material.
+- Agreement means the Grant Details, Supplementary Terms (if any), the Commonwealth Standard Grant Conditions and any other document referenced or incorporated in the Grant Details.
+- Agreement End Date means the date specified in the Grant Details that the Grant Agreement, including the provision of all Reporting Material is to end.
+- Australian Privacy Principle has the same meaning as in the Privacy Act 1988.
+- Business Day means any day other than a Saturday, a Sunday or a public holiday in the place where the action is performed.
+- Change in the Control means any change in any person(s) who directly exercise effective control over the Grantee.
+- Commonwealth means the Commonwealth of Australia as represented by the Commonwealth entity specified in the Agreement and includes, where relevant, its officers, employees, contractors and agents.
+- Commonwealth Purposes includes the following:
+- the Commonwealth verifying and assessing grant proposals, including a grant application;
+- the Commonwealth administering, monitoring, reporting on, auditing, publicising and evaluating a grant program or exercising its rights under this Agreement;
+- the Commonwealth preparing, managing, reporting on, auditing and evaluating agreements, including this Agreement; and
+- the Commonwealth developing and publishing policies, programs, guidelines and reports, including Commonwealth annual reports;
+- but in all cases:
+- excludes the commercialisation (being for‐profit use) of the Material by the Commonwealth.
+- Commonwealth Standard Grant Conditions means this document.
+- Contracted Service Provider means a person who is a party to a Commonwealth contract or is a party to a subcontract with a contracted service provider and is responsible for the provision of goods or services under the contract, either directly or indirectly.
+- Corruption is a dishonest, fraudulent, or even criminal act of an individual or organisation, using entrusted authority or power to make a personal gain or other unethical or illegal benefits.
+- Existing Material means Material developed independently of this Agreement that is incorporated in or supplied as part of Reporting Material or Activity Material.
+- Fraud means dishonestly obtaining (including attempting to obtain) a gain or benefit, or causing a loss or risk or loss, by deception or other means and is not limited to conduct that represents a breach of criminal law. A benefit of loss is not restricted to a material benefit or loss, and may be tangible or intangible. A benefit may also be obtained by a third party.
+- Grant means the money, or any part of it, payable by the Commonwealth to the Grantee for the Activity as specified in the Grant Details and includes any interest earned by the Grantee on that money once the Grant has been paid to the Grantee.
+- Grantee means the legal entity other than the Commonwealth specified in the Agreement and includes, where relevant, its officers, employees, contractors and agents.
+- Grant Details means the document titled Grant Details that forms part of this Agreement.
+- Intellectual Property Rights means all copyright, patents, registered and unregistered trademarks (including service marks), registered designs, and other rights resulting from intellectual activity (other than moral rights under the Copyright Act 1968).
+- Material includes documents, equipment, software (including source code and object code versions), goods, information and data stored by any means including all copies and extracts of them.
+- Party means the Grantee or the Commonwealth.
+- Personal Information has the same meaning as in the Privacy Act 1988.
+- Records includes documents, information and data stored by any means and all copies and extracts of the same.
+- Reporting Material means all Material which the Grantee is required to provide to the Commonwealth for reporting purposes as specified in the Grant Details, and includes any Existing Material that is incorporated in or supplied with the Reporting Material.
+## Signatures
+Executed as an agreement:
+### Commonwealth
+Signed for and on behalf of the Commonwealth of Australia as represented by the Department of Industry, Science and Resources.
+| Name / | <name> |
+| Position / | <position > |
+| Date | <date of execution > |
+
+### Grantee
+| Full legal name of the Grantee | <name of the grantee> / <ABN of the grantee> |
+| Name of Authorised Representative | <name of authorised representative> |
+| Date | <date of acceptance> |
+
+## Schedule 2 Reporting requirements
+## Appendix 1
+## <grant opportunity name> - 
+progress report requirements
+You will need to provide the following information in your progress reports. The Commonwealth reserves the right to amend or adjust the requirements.
+You must complete and submit your report on the business.gov.au portal. You can enter the required information in stages and submit when it is complete.
+Project progress
+- Report against each milestone shown in your grant agreement.
+- Estimated end date
+- Actual end date (if applicable)
+- Current % complete
+- Progress comments - Activities undertaken and impact of any delays
+- Other completed project activities
+- Is the overall project proceeding in line with your grant agreement?
+- If no, changes or anticipated issues
+- Planned events to report on
+- Details of the event including date, time, purpose of the event and key stakeholders expected to attend
+Are there any proposed or actual changes to your company/incorporated trustee ownership/control/structure?
+If yes, provide details of any proposed or actual changes
+Are there any changes to the partners such as their participation, future contributions to the project, or proposed or actual changes to the partner agreement or other contractual arrangements?
+If yes, provide details of the changes and impacts to the project.
+Are there any formal or informal disputes between partners?
+If yes provide details of any disputes between partners.
+Have you received financial assistance from another government source for, or in connection with, activities you have been contracted to undertake under the grant agreement?
+If yes, provide further details including potential changes to the project.
+Are there any conflicts of interest arising within your project that will affect you meeting your obligations under the grant agreement?
+If yes, provide further details including potential changes to the project.
+Are you aware of any issues which effect the solvency of your company?
+If yes, provide further details.
+Are there any changes in your or your partner organisation’s foreign ownership, affiliations with foreign governments, organisations, institutions, companies or a member of foreign government talent programs?
+If yes, provide further details including potential changes to the project.
+Have you or your partner’s board members, management or persons of authority been subject to any pecuniary penalty, whether civil, criminal or administrative, imposed by a Commonwealth, State, or Territory court or a Commonwealth, State, or Territory entity?
+- If yes, provide details of any pecuniary penalties.
+Project outcomes
+- Outline the project outcomes achieved to date.
+Program Data Questionnaire (end of financial year only)
+You must provide an answer on each Program Data Questionnaire (PDQ) question below, including ‘Nil’ if appropriate. All data reported through the PDQ must only be for the project activities that relate to the relevant end of financial year reporting period (i.e. 1 July to 30 June).
+Patents
+Were there any patents filed or maintained during the reporting period?
+Number of new applications for patents filed during the reporting period (in Australia and Overseas).
+Number of patents maintained during the reporting period (in Australia and Overseas).
+Licences/Options/Assignments (LOAs)
+Were there any Licences/Options/Assignments (LOAs) executed during the reporting period?
+Number of new LOAs executed involving industry-users during the reporting period related to the Project.
+Income ($000’s) from all LOAs active during the reporting period related to the project.
+Contracts, consultancies, material transfer agreements and direct sales
+Were there any contracts, consultancies, material transfer agreements and direct sales undertaken during the reporting period?
+Number of contracts, consultancies, material transfer agreements and direct sales during the reporting period.
+Gross contracted value ($000's) from contracts, consultancies, material transfer agreements and direct sales during the reporting period.
+Start-up/Spin-off companies
+Were there any new operational start-up/spin-off companies created during the reporting period?
+Number of new operational start-up/spin-off companies related to the Project during the reporting period.
+Income ($000’s) (e.g. royalties, contributions, sale of equity) during the reporting period from all start-up/spin-off companies related to the project.
+Publications and reports for industry-users
+Were there any publications or reports arising from the Project's activities published during the reporting period and produced with the aim of transferring know-how or practical information to industry-users during the reporting period?
+Number of publications or reports for industry-users published during the reporting period.
+Industry-focused education and training activities
+Were there any industry-focused education and training activities with the aim of transferring know-how or practical information to industry during the reporting period?
+Number of structured professional training courses, conferences, symposia, seminar series or workshops conducted/hosted by the project partners with the aim of transferring know-how or practical information during the reporting period.
+Number of internships and secondments between industry entities and research organisations during the reporting period.
+Financial progress
+Complete the following table to show all partner contributions and grantee expenditure incurred in this reporting period.
+All expenditure should be GST inclusive, less GST credits you can claim. We may ask you to provide evidence of costs incurred.
+Refer to the grant opportunity guidelines or contact us if you have any questions about eligible expenditure.
+Partner contributions
+| Grantee/Lead Partner: |
+| Contribution type | Contribution This Period | Agreed Contribution | Total Previously Reported | Contribution to Date | Agreed Total Contribution | Comments |
+| Cash | $ |  | $ |  | $ |  |
+| Staff |  |
+| In-kind | $ |  | $ |  | $ |  |
+| Total value of contributions | $ |  | $ |  | $ |  |
+
+| Partner: |
+| Contribution type | Contribution This Period | Agreed Contribution | Total Previously Reported | Contribution to Date | Agreed Total Contribution | Comments |
+| Cash | $ |  | $ |  | $ |  |
+| Staff |  |
+| In-kind | $ |  | $ |  | $ |  |
+| Total value of contributions | $ |  | $ |  | $ |  |
+
+| Partner: |
+| Contribution type | Contribution This Period | Agreed Contribution | Total Previously Reported | Contribution to Date | Agreed Total Contribution | Comments |
+| Cash | $ |  | $ |  | $ |  |
+| Staff |  |
+| In-kind | $ |  | $ |  | $ |  |
+| Total value of contributions | $ |  | $ |  | $ |  |
+
+Expenditure
+Provide information about your eligible project expenditure. Eligible expenditure is divided into the same categories as the budget in your application.
+We may ask you for evidence of costs incurred.
+If you are registered for GST, provide the GST exclusive amount. If you are not registered for GST, provide the GST inclusive amount.
+- Eligible expenditure claimed in this reporting period
+- Estimated eligible expenditure for the next reporting period
+- Estimated total eligible expenditure for the project
+- Is expenditure broadly in line with the grant agreement?
+- Give reasons for changes between the forecast and actual expenditure for this reporting period. Explain any significant changes to the forecast budget for the remainder of the project.
+Bank account details
+- Have your bank account details changed since your last payment or since you last provided them?
+Attachments
+- Attach any additional documents.
+- Attach additional supporting material..
+Declaration
+You must ensure an authorised person completes the report and can declare the following:
+- The information in this report is accurate, complete and not misleading and that I understand the giving of false or misleading information is a serious offence under the Criminal Code 1995 (Cth).
+- The activities identified in this report are for the purposes stated in the grant agreement.
+- I am aware of the grantee’s obligations under their grant agreement, including the need to keep the Commonwealth informed of any circumstances that may impact on the objectives, completion and/or outcomes of the agreed project.
+- I am aware that the grant agreement empowers the Commonwealth to terminate the grant agreement and to request repayment of funds paid to the grantee where the grantee is in breach of the grant agreement.
+## Appendix 2
+## <grant opportunity name> - 
+end of project report requirements
+You will need to provide the following information in your end of project report. The Commonwealth reserves the right to amend or adjust the requirements.
+You must complete and submit your report on the business.gov.au portal. You can enter the required information in stages and submit when it is complete.
+Project achievements
+- Report against each milestones shown in your grant agreement.
+- Estimated end date
+- Actual end date (if applicable)
+- Current % complete
+- Progress comments – Activities undertaken and impact of any delays
+- Other completed project activities
+- What was the TRL for your CRC Project at the completion date?
+- How many products and services to market (other items of intellectual property) did the project generate during the agreement period?
+- The economic benefit to industry through the development of new or improved products, services or processes.
+- Any other economic benefits such as risk mitigation, growth in employment, reduction in costs, and capability enhancement.
+- How many SMEs collaborated in the project during the agreement period?
+- How many relevant publications did the partners publish during the agreement period?
+- A statement on the value partners place on being part of the project.
+- A statement of the impact of education and training programs that were conducted during the agreement period, including details of internship.
+Project benefits
+- What benefits has the project achieved?
+- What ongoing impact will the project have?
+- Did the project result in any unexpected benefits?
+- Details of unexpected benefits
+- Did the project result in any unexpected negative impacts?
+- Details of unexpected negative impacts
+- Is there any other information you wish to provide about your project?
+- If yes, provide details.
+Program Data Questionnaire
+You must provide an answer on each Program Data Questionnaire (PDQ) question below, including ‘Nil’ if appropriate. All data reported through the PDQ must only be for the project activities that relate to the relevant end of financial year reporting period (i.e. 1 July to 30 June).
+Patents
+Were there any patents filed or maintained during the reporting period?
+Number of new applications for patents filed during the reporting period (in Australia and Overseas).
+Number of patents maintained during the reporting period (in Australia and Overseas).
+Licences/Options/Assignments (LOAs)
+Were there any Licences/Options/Assignments (LOAs) executed during the reporting period?
+Number of new LOAs executed involving industry-users during the reporting period related to the Project.
+Income ($000’s) from all LOAs active during the reporting period related to the project.
+Contracts, consultancies, material transfer agreements and direct sales
+Were there any contracts, consultancies, material transfer agreements and direct sales undertaken during the reporting period?
+Number of contracts, consultancies, material transfer agreements and direct sales during the reporting period.
+Gross contracted value ($000's) from contracts, consultancies, material transfer agreements and direct sales during the reporting period.
+Start-up/Spin-off companies
+Were there any new operational start-up/spin-off companies created during the reporting period?
+Number of new operational start-up/spin-off companies related to the Project during the reporting period.
+Income ($000’s) (e.g. royalties, contributions, sale of equity) during the reporting period from all start-up/spin-off companies related to the project.
+Publications and reports for industry-users
+Were there any publications or reports arising from the Project's activities published during the reporting period and produced with the aim of transferring know-how or practical information to industry-users during the reporting period?
+Number of publications or reports for industry-users published during the reporting period.
+Industry-focused education and training activities
+Were there any industry-focused education and training activities with the aim of transferring know-how or practical information to industry during the reporting period?
+Number of structured professional training courses, conferences, symposia, seminar series or workshops conducted/hosted by the project partners with the aim of transferring know-how or practical information during the reporting period.
+Number of internships and secondments between industry entities and research organisations during the reporting period.
+Financial progress
+Complete the following table to show all partner contributions and grantee expenditure incurred in this reporting period.
+All expenditure should be GST inclusive, less GST credits you can claim. We may ask you to provide evidence of costs incurred.
+Refer to the Project Grant Opportunity Guidelines or contact us if you have any questions about eligible expenditure.
+Partner contributions
+| Grantee/Lead Partner: |
+|  |
+| Contribution type | Contribution This Period | Agreed Contribution | Total Previously Reported | Contribution to Date | Agreed Total Contribution | Comments |
+| Cash | $ |  | $ |  | $ |  |
+| Staff |  |
+| In-kind | $ |  | $ |  | $ |  |
+| Total value of contributions | $ |  | $ |  | $ |  |
+
+| Partner: |
+| Contribution type | Contribution This Period | Agreed Contribution | Total Previously Reported | Contribution to Date | Agreed Total Contribution | Comments |
+| Cash | $ |  | $ |  | $ |  |
+| Staff |  |
+| In-kind | $ |  | $ |  | $ |  |
+| Total value of contributions | $ |  | $ |  | $ |  |
+
+| Partner: |
+| Contribution type | Contribution This Period | Agreed Contribution | Total Previously Reported | Contribution to Date | Agreed Total Contribution | Comments |
+| Cash | $ |  | $ |  | $ |  |
+| Staff |  |
+| In-kind | $ |  | $ |  | $ |  |
+| Total value of contributions | $ |  | $ |  | $ |  |
+
+Expenditure
+Provide information about your eligible project expenditure. Eligible expenditure is divided into the same categories as the budget in your application.
+We may ask you to provide evidence of costs incurred.
+If you are registered for GST, enter the GST exclusive amount. If you are not registered for GST, enter the GST inclusive amount.
+- Eligible expenditure claimed in this reporting period
+- Total eligible expenditure for the project
+- Is expenditure broadly in line with the grant agreement?
+- Outline the reasons for any overspend or underspend or any other significant changes to the budget.
+Updated business indicators
+Provide the following financial data for your organisation for your latest complete financial year.
+These fields are mandatory and entering $0 is acceptable if applicable.
+- Financial year completed
+- Sales revenue (turnover)
+- Export revenue
+- R&D expenditure
+- Taxable income
+- Number of employees including working proprietors and salaried directors (headcount)
+- Number of independent contractors (headcount)
+Bank account details
+- Have your bank account details changed since your last payment or since you last provided them?
+Attachments
+Agreed evidence
+- Attach any agreed evidence required with this report to demonstrate progress or successful completion of your project.
+- Attach copies of any published reports and promotional material, relating to the project
+- Snapshot summary that should contain high level concise dot point statements for key highlights/achievements in the below categories where applicable:
+Major achievements
+Research
+Commercialisation
+SME engagement
+Education and training
+Spin off companies and inventions
+International engagement
+Note: The information provided in the ‘snapshot’ may be used for input into government briefings; as such they need to clearly demonstrate a project’s achievements in plain English (mandatory attachment).
+Declaration
+You must ensure an authorised person completes the report and can declare the following:
+- The information in this report is accurate, complete and not misleading and that I understand the giving of false or misleading information is a serious offence under the Criminal Code 1995 (Cth).
+- The grant was spent is in accordance with the grant agreement.
+- I am aware of the grantee’s obligations under their grant agreement, including survival clauses.
+- I am aware that the grant agreement empowers the Commonwealth to terminate the grant agreement and to request repayment of funds paid to the grantee where the grantee is in breach of the grant agreement.
+## Appendix 3
+## <grant opportunity name> - 
+Compliance with working with children obligations
+Where applicable, you will need to answer the following questions in your annual statement of compliance. The Commonwealth reserves the right to amend or adjust the requirements.
+You must submit your annual statement of compliance as you would a report on the business.gov.au portal.
+Statement of compliance
+- Is the organisation, and persons working with children on behalf of the organisation in relation to the Activity, compliant with Commonwealth, state or territory legislation?
+- Has the organisation completed a risk assessment in relation to the Activity and all persons who may engage with children in association with the Activity?
+- Has the organisation put in place an appropriate strategy to manage risks identified through the risk assessment?
+- Has the organisation delivered training and established a compliance regime to ensure that all persons who may engage with children are aware of, and comply with:
+- the National Principles for Child Safe Organisations
+- the risk management strategy in item 3 above
+- relevant legislation relating to requirements for working with children, including working with children checks
+- relevant legislation relating to requirements for working with vulnerable people, including working with vulnerable people checks; and
+- relevant legislation relating to mandatory reporting of suspected child abuse or neglect however described?
+Declaration
+You must ensure an authorised person completes the report and can declare the following:
+- The information in this report is accurate, complete and not misleading and that I understand the giving of false or misleading information is a serious offence under the Criminal Code 1995 (Cth).
+- I am aware of the grantee’s obligations under their grant agreement.
+- I am aware that the grant agreement empowers the Commonwealth to terminate the grant agreement and to request repayment of funds paid to the grantee where the grantee is in breach of the grant agreement.
+## Appendix 4
+## Independent Audit Report
+Independent Audit Reports are an important component of Commonwealth Grant programs to verify that expenses have been incurred and grant funding claimed in keeping with the Grant Opportunity Guidelines and Grant Agreement.
+Grantee responsibilities
+The Independent Audit Report must be informed by information provided and declared to be accurate by the grantee. At a minimum, the following information must be provided to the auditor in the format at Attachment A:
+- a statement of grant funds, contributions and other financial assistance income
+- statement of expenditure against the expenditure categories under the Grant Agreement.
+- a detailed breakdown of the expenditure.
+Independent Auditor Responsibilities
+The Independent Audit Report can be formatted by the Auditor per their usual practice, but must contain the following key information in accordance with the requirements of  ASA 700: Forming an Opinion and Reporting on Financial Report:
+- Title ‘Independent Audit Report’ (s21)
+- Addressee (s22)
+- Auditor’s Opinion (s23-26)
+- Basis for Opinion (s28)
+- Responsibilities for the Financial Report
+- Management Responsibilities (s33-36)
+- Auditor Responsibilities (s37-39, s41, s43-45)
+- Name of the Engagement Partner (s46)
+- Signature of the Auditor (s47)
+- Name of auditor
+- Auditor’s employer
+- Auditor’s qualification
+- Auditor’s position
+- Auditor’s Address (s48)
+- Date of the Auditor’s Report (s49)
+## ATTACHMENT A
+This attachment must be completed by the Grantee and used as the basis for compiling the Independent Audit Report.
+[Grantee name]
+[Project number]
+Statement of grant funds, contributions and other financial assistance (refer section ST1. Other Contributions)
+| Contributor | Cash amount (GST excl) | [Estimated in-kind amount (GST excl)] | Total (GST excl) |
+| Grant | $[enter amount] |
+| Grantee | $[enter amount] |
+| [enter contributor] | $[enter amount] |
+| [enter contributor] | $[enter amount] |
+| Total | $[enter amount] |
+
+Statement of expenditure against the categories under the Grant Agreement (refer ST2.2 Activity Budget)
+| Project Expenditure | Agreed Project Cost | Actual Project Cost | Variance |
+| Head of expenditure | $[enter amount] |
+| Head of expenditure | $[enter amount] |
+| Head of expenditure | $[enter amount] |
+| Head of expenditure | $[enter amount] |
+| Head of expenditure | $[enter amount] |
+| Head of expenditure | $[enter amount] |
+| Total | $[enter amount] |
+
+A detailed breakdown of the expenditure (refer to your Program Officer/Manager for details).
+Certification by Directors (or appropriate equivalent)
+- We have fulfilled our responsibilities for the preparation of the statement of grant income and expenditure in accordance with the terms of the grant agreement with the Commonwealth, represented by the Department of Industry, Science and Resources dated [enter date].
+- That all grant funds, contributions and other financial assistance were spent for the purpose of the project and in accordance with the grant agreement.
+Signature
+Name	[enter name]
+Title
+Date	[dd/mm/yyyy]

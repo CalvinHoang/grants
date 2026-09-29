@@ -1,0 +1,19 @@
+{
+  "name": "@gw/engine",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Workflow engine: runs in an Electron utilityProcess, or under plain Node for tests",
+  "exports": {
+    ".": "./src/engine.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.128.0",
+    "@gw/shared": "*",
+    "@napi-rs/keyring": "2.1.0",
+    "@typesafe-ai/sdk": "0.6.0",
+    "openai": "7.23.0",
+    "exceljs": "4.4.0",
+    "zod": "4.6.5"
+  }
+}

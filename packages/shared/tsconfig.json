@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    // Timers, structuredClone and queueMicrotask exist in both the renderer and Node.
+    "lib": ["ES2023", "DOM"]
+  },
+  "include": ["src"]
+}

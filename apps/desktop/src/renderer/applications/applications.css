@@ -1,0 +1,122 @@
+.applications {
+  display: flex;
+  height: 100%;
+  min-height: 0;
+}
+
+.applications-side {
+  width: 280px;
+  flex: none;
+  padding: 16px;
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+}
+
+.applications-main {
+  flex: 1;
+  min-width: 0;
+  padding: 16px 24px;
+  overflow: auto;
+}
+
+.applications h1 {
+  margin: 0 0 16px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.applications h2 {
+  margin: 0 0 8px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #6b6a66;
+}
+
+.new-application {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.new-application label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+}
+
+.new-application input,
+.new-application select,
+.new-application button {
+  font: inherit;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.new-application button {
+  align-self: flex-start;
+  cursor: pointer;
+}
+
+.new-application button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.form-error {
+  margin: 0;
+  color: #b3261e;
+  font-size: 13px;
+}
+
+.application-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.application-list button {
+  width: 100%;
+  padding: 6px 8px;
+  border: none;
+  border-radius: 6px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.application-list button:hover,
+.application-list button[aria-current="true"] {
+  background: #f3f1ec;
+}
+
+:focus-visible {
+  outline: 2px solid #2f6fdf;
+  outline-offset: 1px;
+}
+
+.requirements table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.requirements th,
+.requirements td {
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.requirements th {
+  font-weight: 600;
+}

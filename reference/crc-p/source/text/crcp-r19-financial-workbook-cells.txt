@@ -1,0 +1,1156 @@
+=== SHEET 'Instructions' state=visible dims=A1:G6 maxrow=6 maxcol=7
+merged: 0 validations: []
+A1: Instructions for using the Financial Workbook
+A2: Purpose of the Budget Workbook / The Budget Workbook is designed to assist applicants for CRC Project grants in developing their Project finances (grant, contri
+A3: Setting up the Budget Worksheet / The Budget Worksheet is set up to accommodate up to 10 project partners (i.e. the lead partner plus up to 9 other project part
+A4: Using the Budget Worksheet / Only data input cells (shaded light yellow) require data to be input. All entered values in these cells must be in whole dollars; v
+A5: Partner Contributions worksheet / No data input is required in this worksheet. It draws directly on data in the Budget Worksheet and is provided purely to prese
+A6: Protection / NB: The worksheets are designed to be used in 'protected' status to ensure no unintended changes are made to the formulae. When protected, the only
+=== SHEET 'Budget Worksheet' state=visible dims=A1:AE137 maxrow=137 maxcol=31
+merged: 14 validations: [(<MultiCellRange [L12:L15 L19:L22 L26:L29 L33:L36 L40:L43 L47:L50 L54:L57 L61:L64 L68:L71 L75:L78 M24 Q12:Q15 Q19:Q22 R24 W12:W15 W19:W22 X24 AC12:AC15 AC19:AC22 AD24]>, '0'), (<MultiCellRange [K24 O12:O15 O19:O22 P24 U12:U15 U19:U22 V24 AA12:AA15 AA19:AA22 AB24]>, '0'), (<MultiCellRange [K12:K15 K19:K22 K26:K29 K33:K36 K40:K43 K47:K50 K54:K57 K61:K64 K68:K71 K75:K78 P12:P15 P19:P22 V12:V15 V19:V22 AB12:AB15 AB19:AB22]>, '0'), (<MultiCellRange [J12:J15 J19:J22 J26:J29 J33:J36 J40:J43 J47:J50 J54:J57 J61:J64 J68:J71 J75:J78]>, '0'), (<MultiCellRange [B7:F7 B13:F15 B20:F22 B27:F29 B34:F36 B41:F43 B48:F50 B55:F57 B62:F64 B69:F71 B76:F78 B98:F107]>, '0')]
+A1: CRC Project application - grant, contributions and expenditure budget worksheet
+A2: Lead Project Partner name
+A3: Project title
+A5: Grant request
+B6: 2026/27
+C6: 2027/28
+D6: 2028/29
+E6: 2029/30
+F6: 2030/31
+G6: Total
+A7: Cash
+G7: =SUM(B7:F7)
+I8: The calculator tables below may be useful in determining the cash value of employee time contributed to the project for each Project Partner. Cash-staff values 
+A9: Project Partner contributions
+A11: Grantee/Lead Project Partner:
+B11: =IF(B2 = "", A2, B2)
+I11: staff member name
+J11: annual salary
+K11: % time
+L11: on-costs %
+M11: $value
+A12: Contribution type
+B12: =$B$6
+C12: =$C$6
+D12: =$D$6
+E12: =$E$6
+F12: =$F$6
+G12: Total
+I12: e.g. field technician
+J12: 70000
+K12: 1
+L12: 0.25
+M12: =(J12*K12)+(L12*(J12*K12))
+A13: Cash
+G13: =SUM(B13:F13)
+I13: e.g. lab researcher
+J13: 98000
+K13: 0.8
+L13: 0.3
+M13: =(J13*K13)+(L13*(J13*K13))
+A14: Cash-Staff
+G14: =SUM(B14:F14)
+I14: e.g. project lead
+J14: 125000
+K14: 0.25
+L14: 0.15
+M14: =(J14*K14)+(L14*(J14*K14))
+A15: In-kind
+G15: =SUM(B15:F15)
+I15: e.g. program director
+J15: 200000
+K15: 0.02
+L15: 0.3
+M15: =(J15*K15)+(L15*(J15*K15))
+A16: Total value of contributions
+B16: =B13+B14+B15
+C16: =C13+C14+C15
+D16: =D13+D14+D15
+E16: =E13+E14+E15
+F16: =F13+F14+F15
+G16: =SUM(B16:F16)
+I16: year 1
+M16: =SUM(M12:M15)
+A18: Project Partner 2:
+B18: Name of Project Partner 2
+I18: staff member name
+J18: annual salary
+K18: % time
+L18: on-costs %
+M18: $value
+A19: Contribution type
+B19: =$B$6
+C19: =$C$6
+D19: =$D$6
+E19: =$E$6
+F19: =$F$6
+G19: Total
+M19: =(J19*K19)+(L19*(J19*K19))
+A20: Cash
+G20: =SUM(B20:F20)
+M20: =(J20*K20)+(L20*(J20*K20))
+A21: Cash-Staff
+G21: =SUM(B21:F21)
+M21: =(J21*K21)+(L21*(J21*K21))
+A22: In-kind
+G22: =SUM(B22:F22)
+M22: =(J22*K22)+(L22*(J22*K22))
+A23: Total value of contributions
+B23: =B20+B21+B22
+C23: =C20+C21+C22
+D23: =D20+D21+D22
+E23: =E20+E21+E22
+F23: =F20+F21+F22
+G23: =SUM(B23:F23)
+M23: =SUM(M19:M22)
+A25: Project Partner 3:
+B25: Name of Project Partner 3
+I25: staff member name
+J25: annual salary
+K25: % time
+L25: on-costs %
+M25: $value
+A26: Contribution type
+B26: =$B$6
+C26: =$C$6
+D26: =$D$6
+E26: =$E$6
+F26: =$F$6
+G26: Total
+M26: =(J26*K26)+(L26*(J26*K26))
+A27: Cash
+G27: =SUM(B27:F27)
+M27: =(J27*K27)+(L27*(J27*K27))
+A28: Cash-Staff
+G28: =SUM(B28:F28)
+M28: =(J28*K28)+(L28*(J28*K28))
+A29: In-kind
+G29: =SUM(B29:F29)
+M29: =(J29*K29)+(L29*(J29*K29))
+A30: Total value of contributions
+B30: =B27+B28+B29
+C30: =C27+C28+C29
+D30: =D27+D28+D29
+E30: =E27+E28+E29
+F30: =F27+F28+F29
+G30: =SUM(B30:F30)
+M30: =SUM(M26:M29)
+A32: Project Partner 4:
+B32: Name of Project Partner 4
+I32: staff member name
+J32: annual salary
+K32: % time
+L32: on-costs %
+M32: $value
+A33: Contribution type
+B33: =$B$6
+C33: =$C$6
+D33: =$D$6
+E33: =$E$6
+F33: =$F$6
+G33: Total
+M33: =(J33*K33)+(L33*(J33*K33))
+A34: Cash
+G34: =SUM(B34:F34)
+M34: =(J34*K34)+(L34*(J34*K34))
+A35: Cash-Staff
+G35: =SUM(B35:F35)
+M35: =(J35*K35)+(L35*(J35*K35))
+A36: In-kind
+G36: =SUM(B36:F36)
+M36: =(J36*K36)+(L36*(J36*K36))
+A37: Total value of contributions
+B37: =B34+B35+B36
+C37: =C34+C35+C36
+D37: =D34+D35+D36
+E37: =E34+E35+E36
+F37: =F34+F35+F36
+G37: =SUM(B37:F37)
+M37: =SUM(M33:M36)
+A39: Project Partner 5:
+B39: Name of Project Partner 5
+I39: staff member name
+J39: annual salary
+K39: % time
+L39: on-costs %
+M39: $value
+A40: Contribution type
+B40: =$B$6
+C40: =$C$6
+D40: =$D$6
+E40: =$E$6
+F40: =$F$6
+G40: Total
+M40: =(J40*K40)+(L40*(J40*K40))
+A41: Cash
+G41: =SUM(B41:F41)
+M41: =(J41*K41)+(L41*(J41*K41))
+A42: Cash-Staff
+G42: =SUM(B42:F42)
+M42: =(J42*K42)+(L42*(J42*K42))
+A43: In-kind
+G43: =SUM(B43:F43)
+M43: =(J43*K43)+(L43*(J43*K43))
+A44: Total value of contributions
+B44: =B41+B42+B43
+C44: =C41+C42+C43
+D44: =D41+D42+D43
+E44: =E41+E42+E43
+F44: =F41+F42+F43
+G44: =SUM(B44:F44)
+M44: =SUM(M40:M43)
+A46: Project Partner 6:
+B46: Name of Project Partner 6
+I46: staff member name
+J46: annual salary
+K46: % time
+L46: on-costs %
+M46: $value
+A47: Contribution type
+B47: =$B$6
+C47: =$C$6
+D47: =$D$6
+E47: =$E$6
+F47: =$F$6
+G47: Total
+M47: =(J47*K47)+(L47*(J47*K47))
+A48: Cash
+G48: =SUM(B48:F48)
+M48: =(J48*K48)+(L48*(J48*K48))
+A49: Cash-Staff
+G49: =SUM(B49:F49)
+M49: =(J49*K49)+(L49*(J49*K49))
+A50: In-kind
+G50: =SUM(B50:F50)
+M50: =(J50*K50)+(L50*(J50*K50))
+A51: Total value of contributions
+B51: =B48+B49+B50
+C51: =C48+C49+C50
+D51: =D48+D49+D50
+E51: =E48+E49+E50
+F51: =F48+F49+F50
+G51: =SUM(B51:F51)
+M51: =SUM(M47:M50)
+A53: Project Partner 7:
+B53: Name of Project Partner 7
+I53: staff member name
+J53: annual salary
+K53: % time
+L53: on-costs %
+M53: $value
+A54: Contribution type
+B54: =$B$6
+C54: =$C$6
+D54: =$D$6
+E54: =$E$6
+F54: =$F$6
+G54: Total
+M54: =(J54*K54)+(L54*(J54*K54))
+A55: Cash
+G55: =SUM(B55:F55)
+M55: =(J55*K55)+(L55*(J55*K55))
+A56: Cash-Staff
+G56: =SUM(B56:F56)
+M56: =(J56*K56)+(L56*(J56*K56))
+A57: In-kind
+G57: =SUM(B57:F57)
+M57: =(J57*K57)+(L57*(J57*K57))
+A58: Total value of contributions
+B58: =B55+B56+B57
+C58: =C55+C56+C57
+D58: =D55+D56+D57
+E58: =E55+E56+E57
+F58: =F55+F56+F57
+G58: =SUM(B58:F58)
+M58: =SUM(M54:M57)
+A60: Project Partner 8:
+B60: Name of Project Partner 8
+I60: staff member name
+J60: annual salary
+K60: % time
+L60: on-costs %
+M60: $value
+A61: Contribution type
+B61: =$B$6
+C61: =$C$6
+D61: =$D$6
+E61: =$E$6
+F61: =$F$6
+G61: Total
+M61: =(J61*K61)+(L61*(J61*K61))
+A62: Cash
+G62: =SUM(B62:F62)
+M62: =(J62*K62)+(L62*(J62*K62))
+A63: Cash-Staff
+G63: =SUM(B63:F63)
+M63: =(J63*K63)+(L63*(J63*K63))
+A64: In-kind
+G64: =SUM(B64:F64)
+M64: =(J64*K64)+(L64*(J64*K64))
+A65: Total value of contributions
+B65: =B62+B63+B64
+C65: =C62+C63+C64
+D65: =D62+D63+D64
+E65: =E62+E63+E64
+F65: =F62+F63+F64
+G65: =SUM(B65:F65)
+M65: =SUM(M61:M64)
+A67: Project Partner 9:
+B67: Name of Project Partner 9
+I67: staff member name
+J67: annual salary
+K67: % time
+L67: on-costs %
+M67: $value
+A68: Contribution type
+B68: =$B$6
+C68: =$C$6
+D68: =$D$6
+E68: =$E$6
+F68: =$F$6
+G68: Total
+M68: =(J68*K68)+(L68*(J68*K68))
+A69: Cash
+G69: =SUM(B69:F69)
+M69: =(J69*K69)+(L69*(J69*K69))
+A70: Cash-Staff
+G70: =SUM(B70:F70)
+M70: =(J70*K70)+(L70*(J70*K70))
+A71: In-kind
+G71: =SUM(B71:F71)
+M71: =(J71*K71)+(L71*(J71*K71))
+A72: Total value of contributions
+B72: =B69+B70+B71
+C72: =C69+C70+C71
+D72: =D69+D70+D71
+E72: =E69+E70+E71
+F72: =F69+F70+F71
+G72: =SUM(B72:F72)
+M72: =SUM(M68:M71)
+A74: Project Partner 10:
+B74: Name of Project Partner 10
+I74: staff member name
+J74: annual salary
+K74: % time
+L74: on-costs %
+M74: $value
+A75: Contribution type
+B75: =$B$6
+C75: =$C$6
+D75: =$D$6
+E75: =$E$6
+F75: =$F$6
+G75: Total
+M75: =(J75*K75)+(L75*(J75*K75))
+A76: Cash
+G76: =SUM(B76:F76)
+M76: =(J76*K76)+(L76*(J76*K76))
+A77: Cash-Staff
+G77: =SUM(B77:F77)
+M77: =(J77*K77)+(L77*(J77*K77))
+A78: In-kind
+G78: =SUM(B78:F78)
+M78: =(J78*K78)+(L78*(J78*K78))
+A79: Total value of contributions
+B79: =B76+B77+B78
+C79: =C76+C77+C78
+D79: =D76+D77+D78
+E79: =E76+E77+E78
+F79: =F76+F77+F78
+G79: =SUM(B79:F79)
+M79: =SUM(M75:M78)
+A81: TOTAL CONTRIBUTIONS FROM ALL PROJECT PARTNERS
+A82: Contribution type
+B82: =$B$6
+C82: =$C$6
+D82: =$D$6
+E82: =$E$6
+F82: =$F$6
+G82: Total
+A83: Cash
+B83: =SUMIF($A$10:$A$81,$A83,B$10:B$81)
+C83: =SUMIF($A$10:$A$81,$A83,C$10:C$81)
+D83: =SUMIF($A$10:$A$81,$A83,D$10:D$81)
+E83: =SUMIF($A$10:$A$81,$A83,E$10:E$81)
+F83: =SUMIF($A$10:$A$81,$A83,F$10:F$81)
+G83: =SUM(B83:F83)
+A84: Cash-Staff
+B84: =SUMIF($A$10:$A$81,$A84,B$10:B$81)
+C84: =SUMIF($A$10:$A$81,$A84,C$10:C$81)
+D84: =SUMIF($A$10:$A$81,$A84,D$10:D$81)
+E84: =SUMIF($A$10:$A$81,$A84,E$10:E$81)
+F84: =SUMIF($A$10:$A$81,$A84,F$10:F$81)
+G84: =SUM(B84:F84)
+A85: In-kind
+B85: =SUMIF($A$10:$A$81,$A85,B$10:B$81)
+C85: =SUMIF($A$10:$A$81,$A85,C$10:C$81)
+D85: =SUMIF($A$10:$A$81,$A85,D$10:D$81)
+E85: =SUMIF($A$10:$A$81,$A85,E$10:E$81)
+F85: =SUMIF($A$10:$A$81,$A85,F$10:F$81)
+G85: =SUM(B85:F85)
+A86: Total value of contributions  / from all Project Partners
+B86: =B83+B84+B85
+C86: =C83+C84+C85
+D86: =D83+D84+D85
+E86: =E83+E84+E85
+F86: =F83+F84+F85
+G86: =SUM(B86:F86)
+H86: =IF(G7=0,"",IF(G86<G7," Partner contributions are less than the grant request",""))
+A88: Grant funds
+B88: =B7
+C88: =C7
+D88: =D7
+E88: =E7
+F88: =F7
+G88: =SUM(B88:E88)
+A89: Project Partner Cash & Cash - Staff
+B89: =B83+B84
+C89: =C83+C84
+D89: =D83+D84
+E89: =E83+E84
+F89: =F83+F84
+G89: =G83+G84
+A90: Total cash resources
+B90: =B88+B89
+C90: =C88+C89
+D90: =D88+D89
+E90: =E88+E89
+F90: =F88+F89
+G90: =G88+G89
+A92: Non-cash in-kind contributions
+B92: =B85
+C92: =C85
+D92: =D85
+E92: =E85
+F92: =F85
+G92: =G85
+A94: Total Project value
+G94: =G90+G92
+A96: EXPENDITURE (Budget)
+A97: Eligible Expenditure
+B97: =$B$6
+C97: =$C$6
+D97: =$D$6
+E97: =$E$6
+F97: =$F$6
+G97: Total
+A98: Audit costs
+G98: =SUM(B98:F98)
+H98: =IF(G98=0,"",G98/G108)
+I98: =IF(H98="","",IF(H98>0.01,"WARNING: Audit costs cannot be more than 1% of total eligible expenditure",""))
+A99: Capital
+G99: =SUM(B99:F99)
+A100: Consumables
+G100: =SUM(B100:F100)
+A101: Contractors
+G101: =SUM(B101:F101)
+A102: IP & Technology
+G102: =SUM(B102:F102)
+A103: Labour including on-costs
+G103: =SUM(B103:F103)
+A104: Other Expenditure
+G104: =SUM(B104:F104)
+A105: Overseas
+G105: =SUM(B105:F105)
+H105: =IF(G105=0,"",G105/G108)
+I105: =IF(H105="","",IF(H105>0.1,"CAUTION: Overseas expenditure is generally limited to a maximum of 10% of total eligible expenditure",""))
+A106: Travel
+G106: =SUM(B106:F106)
+H106: =IF(G106=0,"",G106/G108)
+I106: =IF(H106="","",IF(H106>0.1,"CAUTION: Travel expenditure is generally limited to a maximum of 10% of total eligible expenditure",""))
+A107: In-kind expenditure
+B107: =B92
+C107: =C92
+D107: =D92
+E107: =E92
+F107: =F92
+G107: =SUM(B107:F107)
+A108: Total cash expenditure
+B108: =SUM(B98:B106)
+C108: =SUM(C98:C106)
+D108: =SUM(D98:D106)
+E108: =SUM(E98:E106)
+F108: =SUM(F98:F106)
+G108: =SUM(B108:F108)
+B109: =B90-B108
+C109: =C90-C108
+D109: =D90-D108
+E109: =E90-E108
+F109: =F90-F108
+G109: =G90-G108
+B110: =IF(B108>B90,"OVER",IF(B108=B90,"EQUAL","UNDER"))
+C110: =IF(C108>C90,"OVER",IF(C108=C90,"EQUAL","UNDER"))
+D110: =IF(D108>D90,"OVER",IF(D108=D90,"EQUAL","UNDER"))
+E110: =IF(E108>E90,"OVER",IF(E108=E90,"EQUAL","UNDER"))
+F110: =IF(F108>F90,"OVER",IF(F108=F90,"EQUAL","UNDER"))
+B111: =IF(B108>B90,"INSUFFICIENT FUNDS","OK")
+C111: =IF((B108+C108)>(B90+C90),"INSUFFICIENT FUNDS","OK")
+D111: =IF((B108+C108+D108)>(B90+C90+D90),"INSUFFICIENT FUNDS","OK")
+E111: =IF((B108+C108+D108+E108)>(B90+C90+D90+E90),"INSUFFICIENT FUNDS","OK")
+F111: =IF((B108+C108+D108+E108+F108)>(B90+C90+D90+E90+F90),"INSUFFICIENT FUNDS","OK")
+G111: =G90=G108
+A113: NB: The total expenditure in a given financial year may be less ("UNDER"), the same as ("EQUAL") or (except in the first year) more than ("OVER") the total cash
+A115: Audit costs:
+B115: Cost of independent auditing of project expenditure (max 1% of total eligible project expenditure).
+A116: Capital:
+B116: Cost of capital items you purchase to undertake your project, including computing equipment and software directly related to the project and reasonable fit out 
+A117: Consumables: 
+B117: Goods used that must be replaced regularly because they wear out or are used that are directly related to the project.
+A118: Contractors:
+B118: Cost of any agreed project activities that you contract others to do.
+A119: IP & Technology:
+B119: Costs of acquiring intellectual property and technology.
+A120: Labour & on-costs:
+B120: Salaries and on-costs for personnel directly employed for the project activities.
+A121: Other:
+B121: Costs related to publication of research and deployment and take-up of research outputs. / Costs of developing and delivering workshops, conferences, profession
+A122: Overseas:
+B122: Eligible expenditure directly related to the project incurred outside Australia (excluding travel) (max 10% of total eligible expenditure).
+A123: Travel:
+B123: Limited travel and related expenditure (both domestic and international), for key participants (max 10% of total eligible expenditure).
+A124: In-kind:
+B124: In-kind expenditure (this is automatically summed from the contributions above) are the non-cash contributions to the CRC Project. These may include facilities,
+=== SHEET 'Partner Contributions' state=visible dims=A1:E407 maxrow=407 maxcol=5
+merged: 0 validations: []
+A1: Partner Contributions
+A3: ='Budget Worksheet'!A11
+B3: ='Budget Worksheet'!B11
+A4: Contribution Details
+A5: Is the party contributing to the project? *
+A6: Yes
+A7: Contribution Type
+B7: Financial Year
+D7: Amount
+E7: Description
+A8: Cash
+C8: $
+D8: =SUM(D9:D13)
+B9: ='Budget Worksheet'!$B$6
+C9: $
+D9: ='Budget Worksheet'!B13
+B10: ='Budget Worksheet'!$C$6
+C10: $
+D10: ='Budget Worksheet'!C13
+B11: ='Budget Worksheet'!$D$6
+C11: $
+D11: ='Budget Worksheet'!D13
+B12: ='Budget Worksheet'!$E$6
+C12: $
+D12: ='Budget Worksheet'!E13
+B13: ='Budget Worksheet'!$F$6
+C13: $
+D13: ='Budget Worksheet'!F13
+A14: Cash-Staff
+C14: $
+D14: =SUM(D15:D19)
+B15: ='Budget Worksheet'!$B$6
+C15: $
+D15: ='Budget Worksheet'!B14
+B16: ='Budget Worksheet'!$C$6
+C16: $
+D16: ='Budget Worksheet'!C14
+B17: ='Budget Worksheet'!$D$6
+C17: $
+D17: ='Budget Worksheet'!D14
+B18: ='Budget Worksheet'!$E$6
+C18: $
+D18: ='Budget Worksheet'!E14
+B19: ='Budget Worksheet'!$F$6
+C19: $
+D19: ='Budget Worksheet'!F14
+A20: In-Kind
+C20: $
+D20: =SUM(D21:D25)
+B21: ='Budget Worksheet'!$B$6
+C21: $
+D21: ='Budget Worksheet'!B15
+B22: ='Budget Worksheet'!$C$6
+C22: $
+D22: ='Budget Worksheet'!C15
+B23: ='Budget Worksheet'!$D$6
+C23: $
+D23: ='Budget Worksheet'!D15
+B24: ='Budget Worksheet'!$E$6
+C24: $
+D24: ='Budget Worksheet'!E15
+B25: ='Budget Worksheet'!$F$6
+C25: $
+D25: ='Budget Worksheet'!F15
+D27: =D8+D14+D20
+A29: ='Budget Worksheet'!A18
+B29: ='Budget Worksheet'!B18
+A30: Contribution Details
+A31: Is the party contributing to the project? *
+A32: Yes
+A33: Contribution Type
+B33: Financial Year
+D33: Amount
+E33: Description
+A34: Cash
+C34: $
+D34: =SUM(D35:D39)
+B35: ='Budget Worksheet'!$B$6
+C35: $
+D35: ='Budget Worksheet'!B20
+B36: ='Budget Worksheet'!$C$6
+C36: $
+D36: ='Budget Worksheet'!C20
+B37: ='Budget Worksheet'!$D$6
+C37: $
+D37: ='Budget Worksheet'!D20
+B38: ='Budget Worksheet'!$E$6
+C38: $
+D38: ='Budget Worksheet'!E20
+B39: ='Budget Worksheet'!$F$6
+C39: $
+D39: ='Budget Worksheet'!F20
+A40: Cash-Staff
+C40: $
+D40: =SUM(D41:D45)
+B41: ='Budget Worksheet'!$B$6
+C41: $
+D41: ='Budget Worksheet'!B21
+B42: ='Budget Worksheet'!$C$6
+C42: $
+D42: ='Budget Worksheet'!C21
+B43: ='Budget Worksheet'!$D$6
+C43: $
+D43: ='Budget Worksheet'!D21
+B44: ='Budget Worksheet'!$E$6
+C44: $
+D44: ='Budget Worksheet'!E21
+B45: ='Budget Worksheet'!$F$6
+C45: $
+D45: ='Budget Worksheet'!F21
+A46: In-Kind
+C46: $
+D46: =SUM(D47:D51)
+B47: ='Budget Worksheet'!$B$6
+C47: $
+D47: ='Budget Worksheet'!B22
+B48: ='Budget Worksheet'!$C$6
+C48: $
+D48: ='Budget Worksheet'!C22
+B49: ='Budget Worksheet'!$D$6
+C49: $
+D49: ='Budget Worksheet'!D22
+B50: ='Budget Worksheet'!$E$6
+C50: $
+D50: ='Budget Worksheet'!E22
+B51: ='Budget Worksheet'!$F$6
+C51: $
+D51: ='Budget Worksheet'!F22
+D53: =D34+D40+D46
+A55: ='Budget Worksheet'!A25
+B55: ='Budget Worksheet'!B25
+A56: Contribution Details
+A57: Is the party contributing to the project? *
+A58: Yes
+A59: Contribution Type
+B59: Financial Year
+D59: Amount
+E59: Description
+A60: Cash
+C60: $
+D60: =SUM(D61:D65)
+B61: ='Budget Worksheet'!$B$6
+C61: $
+D61: ='Budget Worksheet'!B27
+B62: ='Budget Worksheet'!$C$6
+C62: $
+D62: ='Budget Worksheet'!C27
+B63: ='Budget Worksheet'!$D$6
+C63: $
+D63: ='Budget Worksheet'!D27
+B64: ='Budget Worksheet'!$E$6
+C64: $
+D64: ='Budget Worksheet'!E27
+B65: ='Budget Worksheet'!$F$6
+C65: $
+D65: ='Budget Worksheet'!F27
+A66: Cash-Staff
+C66: $
+D66: =SUM(D67:D71)
+B67: ='Budget Worksheet'!$B$6
+C67: $
+D67: ='Budget Worksheet'!B28
+B68: ='Budget Worksheet'!$C$6
+C68: $
+D68: ='Budget Worksheet'!C28
+B69: ='Budget Worksheet'!$D$6
+C69: $
+D69: ='Budget Worksheet'!D28
+B70: ='Budget Worksheet'!$E$6
+C70: $
+D70: ='Budget Worksheet'!E28
+B71: ='Budget Worksheet'!$F$6
+C71: $
+D71: ='Budget Worksheet'!F28
+A72: In-Kind
+C72: $
+D72: =SUM(D73:D77)
+B73: ='Budget Worksheet'!$B$6
+C73: $
+D73: ='Budget Worksheet'!B29
+B74: ='Budget Worksheet'!$C$6
+C74: $
+D74: ='Budget Worksheet'!C29
+B75: ='Budget Worksheet'!$D$6
+C75: $
+D75: ='Budget Worksheet'!D29
+B76: ='Budget Worksheet'!$E$6
+C76: $
+D76: ='Budget Worksheet'!E29
+B77: ='Budget Worksheet'!$F$6
+C77: $
+D77: ='Budget Worksheet'!F29
+D79: =D60+D66+D72
+A81: ='Budget Worksheet'!A32
+B81: ='Budget Worksheet'!B32
+A82: Contribution Details
+A83: Is the party contributing to the project? *
+A84: Yes
+A85: Contribution Type
+B85: Financial Year
+D85: Amount
+E85: Description
+A86: Cash
+C86: $
+D86: =SUM(D87:D91)
+B87: ='Budget Worksheet'!$B$6
+C87: $
+D87: ='Budget Worksheet'!B34
+B88: ='Budget Worksheet'!$C$6
+C88: $
+D88: ='Budget Worksheet'!C34
+B89: ='Budget Worksheet'!$D$6
+C89: $
+D89: ='Budget Worksheet'!D34
+B90: ='Budget Worksheet'!$E$6
+C90: $
+D90: ='Budget Worksheet'!E34
+B91: ='Budget Worksheet'!$F$6
+C91: $
+D91: ='Budget Worksheet'!F34
+A92: Cash-Staff
+C92: $
+D92: =SUM(D93:D97)
+B93: ='Budget Worksheet'!$B$6
+C93: $
+D93: ='Budget Worksheet'!B35
+B94: ='Budget Worksheet'!$C$6
+C94: $
+D94: ='Budget Worksheet'!C35
+B95: ='Budget Worksheet'!$D$6
+C95: $
+D95: ='Budget Worksheet'!D35
+B96: ='Budget Worksheet'!$E$6
+C96: $
+D96: ='Budget Worksheet'!E35
+B97: ='Budget Worksheet'!$F$6
+C97: $
+D97: ='Budget Worksheet'!F35
+A98: In-Kind
+C98: $
+D98: =SUM(D99:D103)
+B99: ='Budget Worksheet'!$B$6
+C99: $
+D99: ='Budget Worksheet'!B36
+B100: ='Budget Worksheet'!$C$6
+C100: $
+D100: ='Budget Worksheet'!C36
+B101: ='Budget Worksheet'!$D$6
+C101: $
+D101: ='Budget Worksheet'!D36
+B102: ='Budget Worksheet'!$E$6
+C102: $
+D102: ='Budget Worksheet'!E36
+B103: ='Budget Worksheet'!$F$6
+C103: $
+D103: ='Budget Worksheet'!F36
+D105: =D86+D92+D98
+A107: ='Budget Worksheet'!A39
+B107: ='Budget Worksheet'!B39
+A108: Contribution Details
+A109: Is the party contributing to the project? *
+A110: Yes
+A111: Contribution Type
+B111: Financial Year
+D111: Amount
+E111: Description
+A112: Cash
+C112: $
+D112: =SUM(D113:D117)
+B113: ='Budget Worksheet'!$B$6
+C113: $
+D113: ='Budget Worksheet'!B41
+B114: ='Budget Worksheet'!$C$6
+C114: $
+D114: ='Budget Worksheet'!C41
+B115: ='Budget Worksheet'!$D$6
+C115: $
+D115: ='Budget Worksheet'!D41
+B116: ='Budget Worksheet'!$E$6
+C116: $
+D116: ='Budget Worksheet'!E41
+B117: ='Budget Worksheet'!$F$6
+C117: $
+D117: ='Budget Worksheet'!F41
+A118: Cash-Staff
+C118: $
+D118: =SUM(D119:D123)
+B119: ='Budget Worksheet'!$B$6
+C119: $
+D119: ='Budget Worksheet'!B42
+B120: ='Budget Worksheet'!$C$6
+C120: $
+D120: ='Budget Worksheet'!C42
+B121: ='Budget Worksheet'!$D$6
+C121: $
+D121: ='Budget Worksheet'!D42
+B122: ='Budget Worksheet'!$E$6
+C122: $
+D122: ='Budget Worksheet'!E42
+B123: ='Budget Worksheet'!$F$6
+C123: $
+D123: ='Budget Worksheet'!F42
+A124: In-Kind
+C124: $
+D124: =SUM(D125:D129)
+B125: ='Budget Worksheet'!$B$6
+C125: $
+D125: ='Budget Worksheet'!B43
+B126: ='Budget Worksheet'!$C$6
+C126: $
+D126: ='Budget Worksheet'!C43
+B127: ='Budget Worksheet'!$D$6
+C127: $
+D127: ='Budget Worksheet'!D43
+B128: ='Budget Worksheet'!$E$6
+C128: $
+D128: ='Budget Worksheet'!E43
+B129: ='Budget Worksheet'!$F$6
+C129: $
+D129: ='Budget Worksheet'!F43
+D131: =D112+D118+D124
+A133: ='Budget Worksheet'!A46
+B133: ='Budget Worksheet'!B46
+A134: Contribution Details
+A135: Is the party contributing to the project? *
+A136: Yes
+A137: Contribution Type
+B137: Financial Year
+D137: Amount
+E137: Description
+A138: Cash
+C138: $
+D138: =SUM(D139:D143)
+B139: ='Budget Worksheet'!$B$6
+C139: $
+D139: ='Budget Worksheet'!B48
+B140: ='Budget Worksheet'!$C$6
+C140: $
+D140: ='Budget Worksheet'!C48
+B141: ='Budget Worksheet'!$D$6
+C141: $
+D141: ='Budget Worksheet'!D48
+B142: ='Budget Worksheet'!$E$6
+C142: $
+D142: ='Budget Worksheet'!E48
+B143: ='Budget Worksheet'!$F$6
+C143: $
+D143: ='Budget Worksheet'!F48
+A144: Cash-Staff
+C144: $
+D144: =SUM(D145:D149)
+B145: ='Budget Worksheet'!$B$6
+C145: $
+D145: ='Budget Worksheet'!B49
+B146: ='Budget Worksheet'!$C$6
+C146: $
+D146: ='Budget Worksheet'!C49
+B147: ='Budget Worksheet'!$D$6
+C147: $
+D147: ='Budget Worksheet'!D49
+B148: ='Budget Worksheet'!$E$6
+C148: $
+D148: ='Budget Worksheet'!E49
+B149: ='Budget Worksheet'!$F$6
+C149: $
+D149: ='Budget Worksheet'!F49
+A150: In-Kind
+C150: $
+D150: =SUM(D151:D155)
+B151: ='Budget Worksheet'!$B$6
+C151: $
+D151: ='Budget Worksheet'!B50
+B152: ='Budget Worksheet'!$C$6
+C152: $
+D152: ='Budget Worksheet'!C50
+B153: ='Budget Worksheet'!$D$6
+C153: $
+D153: ='Budget Worksheet'!D50
+B154: ='Budget Worksheet'!$E$6
+C154: $
+D154: ='Budget Worksheet'!E50
+B155: ='Budget Worksheet'!$F$6
+C155: $
+D155: ='Budget Worksheet'!F50
+D157: =D138+D144+D150
+A159: ='Budget Worksheet'!A53
+B159: ='Budget Worksheet'!B53
+A160: Contribution Details
+A161: Is the party contributing to the project? *
+A162: Yes
+A163: Contribution Type
+B163: Financial Year
+D163: Amount
+E163: Description
+A164: Cash
+C164: $
+D164: =SUM(D165:D169)
+B165: ='Budget Worksheet'!$B$6
+C165: $
+D165: ='Budget Worksheet'!B55
+B166: ='Budget Worksheet'!$C$6
+C166: $
+D166: ='Budget Worksheet'!C55
+B167: ='Budget Worksheet'!$D$6
+C167: $
+D167: ='Budget Worksheet'!D55
+B168: ='Budget Worksheet'!$E$6
+C168: $
+D168: ='Budget Worksheet'!E55
+B169: ='Budget Worksheet'!$F$6
+C169: $
+D169: ='Budget Worksheet'!F55
+A170: Cash-Staff
+C170: $
+D170: =SUM(D171:D175)
+B171: ='Budget Worksheet'!$B$6
+C171: $
+D171: ='Budget Worksheet'!B56
+B172: ='Budget Worksheet'!$C$6
+C172: $
+D172: ='Budget Worksheet'!C56
+B173: ='Budget Worksheet'!$D$6
+C173: $
+D173: ='Budget Worksheet'!D56
+B174: ='Budget Worksheet'!$E$6
+C174: $
+D174: ='Budget Worksheet'!E56
+B175: ='Budget Worksheet'!$F$6
+C175: $
+D175: ='Budget Worksheet'!F56
+A176: In-Kind
+C176: $
+D176: =SUM(D177:D181)
+B177: ='Budget Worksheet'!$B$6
+C177: $
+D177: ='Budget Worksheet'!B57
+B178: ='Budget Worksheet'!$C$6
+C178: $
+D178: ='Budget Worksheet'!C57
+B179: ='Budget Worksheet'!$D$6
+C179: $
+D179: ='Budget Worksheet'!D57
+B180: ='Budget Worksheet'!$E$6
+C180: $
+D180: ='Budget Worksheet'!E57
+B181: ='Budget Worksheet'!$F$6
+C181: $
+D181: ='Budget Worksheet'!F57
+D183: =D164+D170+D176
+A185: ='Budget Worksheet'!A60
+B185: ='Budget Worksheet'!B60
+A186: Contribution Details
+A187: Is the party contributing to the project? *
+A188: Yes
+A189: Contribution Type
+B189: Financial Year
+D189: Amount
+E189: Description
+A190: Cash
+C190: $
+D190: =SUM(D191:D195)
+B191: ='Budget Worksheet'!$B$6
+C191: $
+D191: ='Budget Worksheet'!B62
+B192: ='Budget Worksheet'!$C$6
+C192: $
+D192: ='Budget Worksheet'!C62
+B193: ='Budget Worksheet'!$D$6
+C193: $
+D193: ='Budget Worksheet'!D62
+B194: ='Budget Worksheet'!$E$6
+C194: $
+D194: ='Budget Worksheet'!E62
+B195: ='Budget Worksheet'!$F$6
+C195: $
+D195: ='Budget Worksheet'!F62
+A196: Cash-Staff
+C196: $
+D196: =SUM(D197:D201)
+B197: ='Budget Worksheet'!$B$6
+C197: $
+D197: ='Budget Worksheet'!B63
+B198: ='Budget Worksheet'!$C$6
+C198: $
+D198: ='Budget Worksheet'!C63
+B199: ='Budget Worksheet'!$D$6
+C199: $
+D199: ='Budget Worksheet'!D63
+B200: ='Budget Worksheet'!$E$6
+C200: $
+D200: ='Budget Worksheet'!E63
+B201: ='Budget Worksheet'!$F$6
+C201: $
+D201: ='Budget Worksheet'!F63
+A202: In-Kind
+C202: $
+D202: =SUM(D203:D207)
+B203: ='Budget Worksheet'!$B$6
+C203: $
+D203: ='Budget Worksheet'!B64
+B204: ='Budget Worksheet'!$C$6
+C204: $
+D204: ='Budget Worksheet'!C64
+B205: ='Budget Worksheet'!$D$6
+C205: $
+D205: ='Budget Worksheet'!D64
+B206: ='Budget Worksheet'!$E$6
+C206: $
+D206: ='Budget Worksheet'!E64
+B207: ='Budget Worksheet'!$F$6
+C207: $
+D207: ='Budget Worksheet'!F64
+D209: =D190+D196+D202
+A211: ='Budget Worksheet'!A67
+B211: ='Budget Worksheet'!B67
+A212: Contribution Details
+A213: Is the party contributing to the project? *
+A214: Yes
+A215: Contribution Type
+B215: Financial Year
+D215: Amount
+E215: Description
+A216: Cash
+C216: $
+D216: =SUM(D217:D221)
+B217: ='Budget Worksheet'!$B$6
+C217: $
+D217: ='Budget Worksheet'!B69
+B218: ='Budget Worksheet'!$C$6
+C218: $
+D218: ='Budget Worksheet'!C69
+B219: ='Budget Worksheet'!$D$6
+C219: $
+D219: ='Budget Worksheet'!D69
+B220: ='Budget Worksheet'!$E$6
+C220: $
+D220: ='Budget Worksheet'!E69
+B221: ='Budget Worksheet'!$F$6
+C221: $
+D221: ='Budget Worksheet'!F69
+A222: Cash-Staff
+C222: $
+D222: =SUM(D223:D227)
+B223: ='Budget Worksheet'!$B$6
+C223: $
+D223: ='Budget Worksheet'!B70
+B224: ='Budget Worksheet'!$C$6
+C224: $
+D224: ='Budget Worksheet'!C70
+B225: ='Budget Worksheet'!$D$6
+C225: $
+D225: ='Budget Worksheet'!D70
+B226: ='Budget Worksheet'!$E$6
+C226: $
+D226: ='Budget Worksheet'!E70
+B227: ='Budget Worksheet'!$F$6
+C227: $
+D227: ='Budget Worksheet'!F70
+A228: In-Kind
+C228: $
+D228: =SUM(D229:D233)
+B229: ='Budget Worksheet'!$B$6
+C229: $
+D229: ='Budget Worksheet'!B71
+B230: ='Budget Worksheet'!$C$6
+C230: $
+D230: ='Budget Worksheet'!C71
+B231: ='Budget Worksheet'!$D$6
+C231: $
+D231: ='Budget Worksheet'!D71
+B232: ='Budget Worksheet'!$E$6
+C232: $
+D232: ='Budget Worksheet'!E71
+B233: ='Budget Worksheet'!$F$6
+C233: $
+D233: ='Budget Worksheet'!F71
+D235: =D216+D222+D228
+A237: ='Budget Worksheet'!A74
+B237: ='Budget Worksheet'!B74
+A238: Contribution Details
+A239: Is the party contributing to the project? *
+A240: Yes
+A241: Contribution Type
+B241: Financial Year
+D241: Amount
+E241: Description
+A242: Cash
+C242: $
+D242: =SUM(D243:D247)
+B243: ='Budget Worksheet'!$B$6
+C243: $
+D243: ='Budget Worksheet'!B76
+B244: ='Budget Worksheet'!$C$6
+C244: $
+D244: ='Budget Worksheet'!C76
+B245: ='Budget Worksheet'!$D$6
+C245: $
+D245: ='Budget Worksheet'!D76
+B246: ='Budget Worksheet'!$E$6
+C246: $
+D246: ='Budget Worksheet'!E76
+B247: ='Budget Worksheet'!$F$6
+C247: $
+D247: ='Budget Worksheet'!F76
+A248: Cash-Staff
+C248: $
+D248: =SUM(D249:D253)
+B249: ='Budget Worksheet'!$B$6
+C249: $
+D249: ='Budget Worksheet'!B77
+B250: ='Budget Worksheet'!$C$6
+C250: $
+D250: ='Budget Worksheet'!C77
+B251: ='Budget Worksheet'!$D$6
+C251: $
+D251: ='Budget Worksheet'!D77
+B252: ='Budget Worksheet'!$E$6
+C252: $
+D252: ='Budget Worksheet'!E77
+B253: ='Budget Worksheet'!$F$6
+C253: $
+D253: ='Budget Worksheet'!F77
+A254: In-Kind
+C254: $
+D254: =SUM(D255:D259)
+B255: ='Budget Worksheet'!$B$6
+C255: $
+D255: ='Budget Worksheet'!B78
+B256: ='Budget Worksheet'!$C$6
+C256: $
+D256: ='Budget Worksheet'!C78
+B257: ='Budget Worksheet'!$D$6
+C257: $
+D257: ='Budget Worksheet'!D78
+B258: ='Budget Worksheet'!$E$6
+C258: $
+D258: ='Budget Worksheet'!E78
+B259: ='Budget Worksheet'!$F$6
+C259: $
+D259: ='Budget Worksheet'!F78
+D261: =D242+D248+D254
+defined names: []

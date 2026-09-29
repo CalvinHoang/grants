@@ -1,0 +1,413 @@
+{
+ "program": "CRC-P",
+ "round": 19,
+ "opened": "2026-03-18",
+ "closed": "2026-05-12T17:00+10:00",
+ "guidelines_template": "May 2023 (guidelines dated February 2026)",
+ "researched": "2026-09-27",
+ "funding": {
+  "grant_min": 100000,
+  "grant_max": 3000000,
+  "max_grant_share": 0.5,
+  "min_total_eligible_value": 200000,
+  "max_months": 36
+ },
+ "eligibility": [
+  {
+   "id": "EL-01",
+   "req": "Lead holds ABN",
+   "src": "GL 4.1",
+   "form": "AF-F.1",
+   "check": "rule"
+  },
+  {
+   "id": "EL-02",
+   "req": "Lead registered for GST",
+   "src": "GL 4.1",
+   "form": "AF-B.2",
+   "check": "rule"
+  },
+  {
+   "id": "EL-03",
+   "req": "Lead SME <200 employees (group total if consolidated) at lodgement",
+   "src": "GL 4.1",
+   "form": "AF-B.1",
+   "check": "rule"
+  },
+  {
+   "id": "EL-04",
+   "req": "Australian-incorporated trading corporation, or incorporated trustee of trading trust",
+   "src": "GL 4.1",
+   "form": "AF-B.3",
+   "check": "rule+judgement"
+  },
+  {
+   "id": "EL-05",
+   "req": "Partners: lead SME + second Australian industry entity + Australian research organisation (CRCs not research orgs)",
+   "src": "GL 4.1, Glossary",
+   "form": "AF-B.4, AF-F",
+   "check": "rule"
+  },
+  {
+   "id": "EL-06",
+   "req": "Every partner contributes cash, cash-staff and/or in-kind",
+   "src": "GL 4.1",
+   "form": "AF-F.2",
+   "check": "rule"
+  },
+  {
+   "id": "EL-07",
+   "req": "Grant <= 50% of total eligible project expenditure",
+   "src": "GL 3.1, App B",
+   "form": "AF-B.5, AF-H.2",
+   "check": "rule"
+  },
+  {
+   "id": "EL-08",
+   "req": "Grant $100k-$3M",
+   "src": "GL 3.1",
+   "form": "AF-H.2",
+   "check": "rule"
+  },
+  {
+   "id": "EL-09",
+   "req": "Total eligible project value >= $200k",
+   "src": "GL 5.1",
+   "form": "AF-B.6",
+   "check": "rule"
+  },
+  {
+   "id": "EL-10",
+   "req": "Duration <= 36 months",
+   "src": "GL 3.2",
+   "form": "AF-G.8",
+   "check": "rule"
+  },
+  {
+   "id": "EL-11",
+   "req": "Short-term industry-identified, industry-led collaborative research with >=1 eligible activity, benefits SMEs",
+   "src": "GL 5.1",
+   "form": "AF-G.2",
+   "check": "judgement"
+  },
+  {
+   "id": "EL-12",
+   "req": "Lead not an excluded entity type (GL 4.3 list)",
+   "src": "GL 4.3",
+   "form": "AF-B",
+   "check": "rule+judgement"
+  },
+  {
+   "id": "EL-13",
+   "req": "No partner on Redress Scheme non-joined list",
+   "src": "GL 4.3",
+   "form": "AF-M.2",
+   "check": "rule"
+  },
+  {
+   "id": "EL-14",
+   "req": "Applicant and partners not a 100+ employer non-compliant with the WGEA Act 2012",
+   "src": "GL 4.3",
+   "form": "AF-M.2",
+   "check": "rule"
+  },
+  {
+   "id": "EL-15",
+   "req": "Sanctions compliance",
+   "src": "AF-M.2",
+   "form": "AF-M.2",
+   "check": "rule+judgement"
+  },
+  {
+   "id": "EL-16",
+   "req": "Board/authority endorsement",
+   "src": "AF-M.2",
+   "form": "AF-M.2",
+   "check": "confirm"
+  },
+  {
+   "id": "EL-17",
+   "req": "Trust deed attached if trustee",
+   "src": "GL 4.2, 7.1",
+   "form": "AF-L.2",
+   "check": "rule",
+   "attachment": "ATT-01"
+  },
+  {
+   "id": "EL-18",
+   "req": "Each partner's authorised rep confirms 4 partner statements",
+   "src": "AF-F.4",
+   "form": "AF-F.4",
+   "check": "confirm"
+  }
+ ],
+ "merit": [
+  {
+   "id": "MC-1a",
+   "criterion": 1,
+   "points": 10,
+   "form": "AF-I.1",
+   "text": "how your project will address an industry-identified problem, improve the competitiveness, productivity and sustainability of Australian industries and the extent of alignment with government priorities"
+  },
+  {
+   "id": "MC-1b",
+   "criterion": 1,
+   "points": 8,
+   "form": "AF-I.1",
+   "text": "how your project will foster high quality research through industry-led and outcome-focused collaborative industry-research partnerships"
+  },
+  {
+   "id": "MC-1c",
+   "criterion": 1,
+   "points": 7,
+   "form": "AF-I.1",
+   "text": "how your project will encourage and facilitate SME participation"
+  },
+  {
+   "id": "MC-2a",
+   "criterion": 2,
+   "points": 10,
+   "form": "AF-I.2",
+   "text": "the research you will do and the methodologies you will use, including describing the role of your partners in the project"
+  },
+  {
+   "id": "MC-2b",
+   "criterion": 2,
+   "points": 8,
+   "form": "AF-I.2",
+   "text": "how your research will address the identified problem, build on the current body of knowledge and enhance the adoption of new technologies"
+  },
+  {
+   "id": "MC-2c",
+   "criterion": 2,
+   "points": 7,
+   "form": "AF-I.2",
+   "text": "the education and training opportunities your project will provide to build capability and capacity in the industry and research sectors (e.g. number of students)"
+  },
+  {
+   "id": "MC-3a",
+   "criterion": 3,
+   "points": 8,
+   "form": "AF-I.3",
+   "text": "how you will manage and monitor your project, explaining the governance and planning arrangements, including security"
+  },
+  {
+   "id": "MC-3b",
+   "criterion": 3,
+   "points": 7,
+   "form": "AF-I.3",
+   "text": "how you will manage risks, including but not limited to security (in particular any associated national security issues), involvement of international partners and intellectual property protection"
+  },
+  {
+   "id": "MC-3c",
+   "criterion": 3,
+   "points": 10,
+   "form": "AF-I.3",
+   "text": "your access to required resources including naming personnel with the right skills and experience, funding, security, infrastructure, technology and intellectual property"
+  },
+  {
+   "id": "MC-4a",
+   "criterion": 4,
+   "points": 6,
+   "form": "AF-I.4",
+   "text": "how the grant will impact the project in terms of scale and timing, including justification for the funding amount requested and whether the project could proceed without Australian Government funding"
+  },
+  {
+   "id": "MC-4b",
+   "criterion": 4,
+   "points": 6,
+   "form": "AF-I.4",
+   "text": "the total investment the grant will leverage and why the Australian Government should invest in your project, including how grant benefits will be substantially retained in Australia"
+  },
+  {
+   "id": "MC-4c",
+   "criterion": 4,
+   "points": 4,
+   "form": "AF-I.4",
+   "text": "how your project will have a positive impact for communities and businesses in regional and remote Australia"
+  },
+  {
+   "id": "MC-4d",
+   "criterion": 4,
+   "points": 9,
+   "form": "AF-I.4",
+   "text": "the commercial potential of your project, including the expected commercial outputs such as new products, processes or services, any expected spill over benefits and plans at the end of the project"
+  }
+ ],
+ "narrative_fields": [
+  {
+   "id": "AF-G.1a",
+   "name": "Project title",
+   "limit": 75
+  },
+  {
+   "id": "AF-G.1b",
+   "name": "Brief description for publication",
+   "limit": 750
+  },
+  {
+   "id": "AF-G.2",
+   "name": "Detailed project description and key activities",
+   "limit": 5000,
+   "in_grant_agreement": true
+  },
+  {
+   "id": "AF-G.3",
+   "name": "Project outcomes",
+   "limit": 5000,
+   "in_grant_agreement": true
+  },
+  {
+   "id": "AF-G.5",
+   "name": "Industry context",
+   "limit": 2000
+  },
+  {
+   "id": "AF-G.7",
+   "name": "Working with Indigenous communities",
+   "limit": 2000,
+   "conditional": true
+  },
+  {
+   "id": "AF-G.9",
+   "name": "Milestones (3-10): title 100, description 750",
+   "limit": 750,
+   "count": [
+    3,
+    10
+   ]
+  },
+  {
+   "id": "AF-F.4b",
+   "name": "Partner's involvement: role, contributions, company structure and relationships (per partner, one response covering AF-F.4c)",
+   "limit": 1000
+  },
+  {
+   "id": "AF-F.4c",
+   "name": "Partner company structure and relationships (per partner); shares AF-F.4b limit",
+   "limit": null,
+   "shared_limit_with": "AF-F.4b"
+  },
+  {
+   "id": "AF-G.11",
+   "name": "Pecuniary penalty details",
+   "limit": 750,
+   "conditional": true
+  },
+  {
+   "id": "AF-G.12",
+   "name": "Foreign affiliation details x4",
+   "limit": 750,
+   "conditional": true
+  },
+  {
+   "id": "AF-H.1o",
+   "name": "Other eligible expenditure details",
+   "limit": 750
+  },
+  {
+   "id": "AF-H.1k",
+   "name": "In-kind expenditure details",
+   "limit": 750
+  },
+  {
+   "id": "AF-I.1",
+   "name": "Criterion 1",
+   "limit": 5000,
+   "covers": [
+    "MC-1a",
+    "MC-1b",
+    "MC-1c"
+   ]
+  },
+  {
+   "id": "AF-I.2",
+   "name": "Criterion 2",
+   "limit": 5000,
+   "covers": [
+    "MC-2a",
+    "MC-2b",
+    "MC-2c"
+   ]
+  },
+  {
+   "id": "AF-I.3",
+   "name": "Criterion 3",
+   "limit": 5000,
+   "covers": [
+    "MC-3a",
+    "MC-3b",
+    "MC-3c"
+   ]
+  },
+  {
+   "id": "AF-I.4",
+   "name": "Criterion 4",
+   "limit": 5000,
+   "covers": [
+    "MC-4a",
+    "MC-4b",
+    "MC-4c",
+    "MC-4d"
+   ]
+  },
+  {
+   "id": "AF-J.1",
+   "name": "AI systems explanation",
+   "limit": 500,
+   "conditional": true
+  },
+  {
+   "id": "AF-J.5",
+   "name": "Other government priorities / basis",
+   "limit": 300
+  },
+  {
+   "id": "AF-J.6",
+   "name": "Other government assistance source / results",
+   "limit": 500,
+   "conditional": true
+  },
+  {
+   "id": "AF-L.1",
+   "name": "Conflict description / management",
+   "limit": 750,
+   "conditional": true
+  }
+ ],
+ "attachments": [
+  {
+   "id": "ATT-01",
+   "name": "Trust deed",
+   "mandatory": "where lead is trustee"
+  },
+  {
+   "id": "ATT-02",
+   "name": "ICN or Supply Nation evidence",
+   "mandatory": "to claim ATSI priority"
+  },
+  {
+   "id": "ATT-03",
+   "name": "Financial Workbook",
+   "mandatory": false,
+   "note": "strongly recommended, not uploaded"
+  }
+ ],
+ "attachment_rules": {
+  "total_mb": 50,
+  "file_mb": 25,
+  "types": [
+   "docx",
+   "rtf",
+   "pdf",
+   "xlsx",
+   "csv",
+   "jpg",
+   "jpeg",
+   "png",
+   "gif"
+  ],
+  "filename": "letters/numbers, <40 chars",
+  "unrequested": "not considered"
+ }
+}

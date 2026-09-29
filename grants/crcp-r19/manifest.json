@@ -1,0 +1,66 @@
+{
+  "id": "crcp-r19",
+  "name": "CRC-P Round 19",
+  "grant": "CRC-P",
+  "round": "19",
+  "version": "1.0.0",
+  "opened": "2026-03-18",
+  "closed": "2026-05-12T17:00:00+10:00",
+  "files": [
+    {
+      "path": "documents/guidelines.pdf",
+      "bytes": 550234,
+      "sha256": "aab3da1060de3d5a5b7558050190112011a04dad5f026fb4d7644e0b10b6846f"
+    },
+    {
+      "path": "documents/application-form.docx",
+      "bytes": 228340,
+      "sha256": "ddf520858232bb5e990d5e9c255b7a86c946bdc457217714b4f1cf3ef9f8aa4f"
+    },
+    {
+      "path": "documents/application-form.pdf",
+      "bytes": 513189,
+      "sha256": "9d0f34a09b29391be87bd1b9df36605c126fd35cb7e0658be152c190862d1e79"
+    },
+    {
+      "path": "documents/sample-grant-agreement.pdf",
+      "bytes": 700282,
+      "sha256": "15607518094f9e0ff1d6b8c066fc4d064c696df5c66c4bf8c6f07ff01d3c66f8"
+    },
+    {
+      "path": "documents/partners-agreement-template.docx",
+      "bytes": 159006,
+      "sha256": "9d780cd3c73701e334b63ac7f7c7722ea462d1dd713ccab3a3fe2f0eb4d99cd3"
+    },
+    {
+      "path": "documents/financial-workbook.xlsx",
+      "bytes": 55980,
+      "sha256": "661fcf92b258c1e57f2a7af9ba1b9b0395dbf83c710fde18cacb46d2042895bd"
+    },
+    {
+      "path": "documents/program-faq.pdf",
+      "bytes": 193678,
+      "sha256": "397cfb70cca14a3b71d2a63b3285ffbcae9d9e177c7d7f34adae5ed636c830b1"
+    },
+    {
+      "path": "requirements-table.xlsx",
+      "bytes": 14949,
+      "sha256": "afdb95736576f9f4a4c099c9132fd7b7e601a7aa39a13c86fa7f211195cc378a"
+    },
+    {
+      "path": "form-map.json",
+      "bytes": 87926,
+      "sha256": "a5936805d5059bba4a811977a4b54d5797fa53191556b68aad76ded3a2d96612"
+    },
+    {
+      "path": "questions.json",
+      "bytes": 81658,
+      "sha256": "96acc28bd49d63bfaca485ed45702dc7ad3b628df4836b059c1f277936b9e64d"
+    },
+    {
+      "path": "rules.json",
+      "bytes": 16131,
+      "sha256": "04aeb56b8e905e254eb8e41466c089c7ac2e9b486cf62657d114d5de647eee2e"
+    }
+  ]
+}

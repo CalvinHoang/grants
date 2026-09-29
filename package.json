@@ -1,0 +1,37 @@
+{
+  "name": "grant-workbench",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Grant Workbench: desktop app that drafts and scores grant applications",
+  "license": "UNLICENSED",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "typecheck": "tsc -p packages/shared && tsc -p packages/engine && tsc -p apps/desktop",
+    "test": "vitest run",
+    "check:model-ids": "node scripts/check-model-ids.mjs",
+    "build": "npm run build -w @gw/desktop",
+    "e2e": "npm run e2e -w @gw/desktop",
+    "dist:win": "npm run dist:win -w @gw/desktop",
+    "start": "npm run start -w @gw/desktop",
+    "grant:build": "node scripts/grant-package/build.mjs",
+    "grant:check": "node scripts/grant-package/check.mjs",
+    "grant:verify-superdoc": "node scripts/grant-package/verify-superdoc.mjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@types/node": "24.19.0",
+    "eslint": "10.11.0",
+    "globals": "17.12.0",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.70.1",
+    "vitest": "5.0.2"
+  }
+}

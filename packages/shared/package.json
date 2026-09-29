@@ -1,0 +1,13 @@
+{
+  "name": "@gw/shared",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Schemas shared by the UI and the engine: RPC methods and events, data types, decision-model and language-model contracts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "zod": "4.6.5"
+  }
+}

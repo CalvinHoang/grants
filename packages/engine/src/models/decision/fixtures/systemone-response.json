@@ -1,0 +1,21 @@
+{
+  "_note": "Shaped from @typesafe-ai/sdk 0.6.0 wire types (SystemOneResult) and the docs' examples; not recorded from the live API (no key yet). `model` is filled in by the test from models.json.",
+  "model": "<decider model>",
+  "answers": {
+    "q0": { "type": "noul", "noul": 0.93 },
+    "q1": {
+      "type": "choice",
+      "choice": "information",
+      "confidence": 0.62,
+      "probabilities": { "drafting": 0.12, "evidence": 0.08, "information": 0.71, "other": 0.09 }
+    },
+    "q2": {
+      "type": "score",
+      "score": 2.35,
+      "confidence": 0.41,
+      "legend": { "0": "Not addressed", "1": "Weak", "2": "Adequate", "3": "Strong" },
+      "probabilities": { "0": 0.02, "1": 0.13, "2": 0.33, "3": 0.52 }
+    }
+  },
+  "usage": { "input_tokens": 1812, "output_tokens": 0 }
+}
